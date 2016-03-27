@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="home">
+  <header class="header-main">
+	<h1><a href="/">SearchTempest</a></h1>
+	<span class="blurb">All of craigslist, eBay &amp; more in one search.</span>
+  </header>
+  <div class="main-content-area">
+	<div class="form-container">
+		<form id="search_form">
+			<label class="main_label" for="location">Where:</label>
+			<input type="text" placeholder="ex. 90210 -or- V8T 4M1" tabindex="1" class="main-field validation-location" name="location" id="location" value="10001">
+            <label class="main_label" for="search_string">What:</label>
+			<input type="text" tabindex="2" class="main-field validation-keywords" name="search_string" id="search_string" autocomplete="off" placeholder="ex. &quot;Ikea Desk&quot; -pressboard">
+            <div class="select-input">
+				<label for="maxDist">Within</label>
+                <select tabindex="3" name="maxDist" id="maxDist">
+					<option value="25">25</option>
+					<option value="50">50</option>
+					<option value="75">75</option>
+					<option value="100">100</option>
+					<option value="125">125</option>
+					<option value="150">150</option>
+					<option value="200">200</option>
+					<option value="250">250</option>
+					<option value="300">300</option>
+					<option value="350">350</option>
+					<option selected="selected" value="400">400</option>
+					<option value="500">500</option>
+					<option value="750">750</option>
+					<option value="1000">1000</option>
+					<option value="1250">1250</option>
+					<option value="1500">1500</option>
+					<option value="2000">2000</option>
+					<option value="2500">2500</option>
+					<option value="3000">3000</option>
+					<option value="3500">3500</option>
+					<option value="4000">4000</option>
+					<option value="50000">any</option>
+				</select>
+                <span class="post-label">mi</span>
+            </div>
+            <div class="range-input price-container">
+				<label for="minAsk8">Price:</label>
+				<input type="text" placeholder="Min" size="4" tabindex="55" id="minAsk8" name="minAsk8">
+				<input type="text" placeholder="Max" size="4" tabindex="55" id="maxAsk8" name="maxAsk8">
+			</div>	
+			<div class="range-input year-container">
+				<label for="minYear8">Odometer:</label>
+				<input type="text" placeholder="Min" size="4" tabindex="56" id="minYear8" name="minYear8">
+				<input type="text" placeholder="Max" size="4" tabindex="56" id="maxYear8" name="maxYear8">
+			</div>			
+            <button tabindex="7" type="submit" id="fullsearch-btn">Search</button>			
+		</form>
+	</div>
+	<div class="result">
+		<gcse:searchresults-only gname="searchOnlyCSE"></gcse:searchresults-only>
+	</div>
+</div>

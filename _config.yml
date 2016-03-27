@@ -1,0 +1,8 @@
+title: Search Demo
+email: fazalmalik21@gmail.com
+description: A simple theme for SearchDemo
+baseurl: "/SearchDemo"  
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown

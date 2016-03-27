@@ -1,0 +1,180 @@
+.searchtempest-home input[type="email"]:focus, .searchtempest-home input[type="number"]:focus, .searchtempest-home input[type="password"]:focus, 
+.searchtempest-home input[type="search"]:focus, .searchtempest-home input[type="tel"]:focus, .searchtempest-home input[type="text"]:focus, 
+.searchtempest-home input[type="url"]:focus, .searchtempest-home textarea:focus, .searchtempest-home select:focus {
+  /*border: 0.1rem solid #ccc;*/
+}
+.searchtempest-home ul,.searchtempest-home ol{
+  margin:0px
+}
+.searchtempest-home a, 
+.searchtempest-home a:visited, 
+.searchtempest-home a:active {
+  color: #06f;
+  text-decoration: none;
+}
+h1.title{
+  border:1px solid red;
+}
+.searchtempest-home .sites{
+  float:left;
+}
+.searchtempest-home ul.sites li{
+  display:inline;
+}
+.searchtempest-home .navigation{
+  background: #eee none repeat scroll 0 0;
+  border-bottom: 1px solid #ccc;
+  border-left:0px;
+  border-right:0px;
+  border-top:0px;
+  font-size: 0.8em;
+  font-weight: bold;
+  height: 27px;
+  margin: 0 0 5px;
+  padding: 0.5em 0;
+}
+.searchtempest-home .navigation .container {
+  max-width: 960px;
+  min-width: 960px;
+  width: 960px;
+}
+body.searchtempest-home{
+  font-family: helvetica,arial,sans-serif;
+  line-height: 1;
+}
+body.searchtempest-home .sites li{
+  float: left;
+  padding: 0 0.5em;
+}
+body.searchtempest-home a:hover{
+  text-decoration:underline;
+  color: #06f;
+}
+body.searchtempest-home ul.navigation-list li{
+  float: left;
+  padding: 0 0.5em;
+}
+body.searchtempest-home .icons {
+  float: right;
+  margin: 0 0 0 2em;
+}
+body.searchtempest-home .icons li{
+  display: inline;
+  padding: 0 0.5em;
+}
+.navigation .navigation-list {
+  float:left;
+}
+.icons li a:hover{
+  text-decoration:none;
+}
+body.searchtempest-home .header-main{
+  margin-bottom: 0.5em;
+  width: 830px;
+}
+.header-main h1{
+  display:inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+.header-main h1 a{
+  background: rgba(0, 0, 0, 0) url("../images/searchtempest.png") no-repeat scroll left top;
+  display: inline-block;
+  height: 87px;
+  text-indent: -9999px;
+  width: 531px;
+}
+.page-content .header-main{
+  width: 830px;
+  margin:0 auto;
+}
+body.searchtempest-home .header-main .blurb {
+  display:inline-block;
+  bottom: -1rem;
+  margin-left: 1.2em;
+  padding-left: 1em;
+  position: relative;
+  text-indent: -1em;
+  vertical-align: middle;
+  width: 235px;
+}
+body.searchtempest-home .header-main .blurb {
+  color: #666;
+  font: italic 1.5em/1.1em Georgia,"times new roman",serif;
+}
+
+body.searchtempest-home .site-footer .wrapper{
+  margin: 0 auto;
+  width: 960px;
+  font-size: 11px;
+  padding: 1px 10px 10px;
+}
+body.searchtempest-home .main-content-area{
+  width:900px;
+  margin:0 auto;
+}
+.site-footer .links{
+  margin: 5px 0;
+}
+body.searchtempest-home .form-container {
+  background: #eee;
+  padding: 15px;
+}
+body.searchtempest-home input[type="email"], body.searchtempest-home input[type="number"], 
+body.searchtempest-home input[type="password"], body.searchtempest-home input[type="search"], 
+body.searchtempest-home input[type="tel"], body.searchtempest-home input[type="text"], 
+body.searchtempest-home input[type="url"], body.searchtempest-home textarea, body.searchtempest-home select {
+  background-color: #ffffff;
+}
+body.searchtempest-home .button, body.searchtempest-home button, body.searchtempest-home input[type="button"], 
+body.searchtempest-home input[type="reset"], body.searchtempest-home input[type="submit"] {
+  background: #606c76;
+}
+.select-input {
+  display: inline-block;
+  width: 100%;
+}
+body.searchtempest-home .form-container form{
+  margin-bottom:0rem;
+}
+body.searchtempest-home .form-container select {
+  float: left;
+  margin-right: 15px;
+  width: 96%;
+}
+body.searchtempest-home .form-container .post-label {
+  display: inline-block;
+  line-height: 35px;
+}
+.price-container{
+  display:inline-block;
+  width:100%;
+}
+.price-container #minAsk8{
+  float:left;
+  width:49%;
+  margin-right:15px;
+}
+.price-container #maxAsk8{
+  float:left;
+  width:49%;
+}
+.year-container{
+  display:inline-block;
+  width:100%;
+}
+.year-container #minYear8{
+  float:left;
+  width:49%;
+  margin-right:15px;
+}
+.year-container #maxYear8{
+  float:left;
+  width:49%;
+}
+.site-footer{
+  margin-top:15px;
+}
+.form-container .select-input{
+  display:none;
+}
