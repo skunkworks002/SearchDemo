@@ -78,7 +78,8 @@ body.searchtempest-home .header-main{
   vertical-align: middle;
 }
 .header-main h1 a{
-  background: rgba(0, 0, 0, 0) url("../images/searchtempest.png") no-repeat scroll left top;
+  /*background: rgba(0, 0, 0, 0) url("../images/searchtempest.png") no-repeat scroll left top;*/
+	background: rgba(0, 0, 0, 0) url("../images/searchdemo.png") no-repeat scroll left top;
   display: inline-block;
   height: 87px;
   text-indent: -9999px;
