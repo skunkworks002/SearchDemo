@@ -62,6 +62,10 @@ function googleCSELoaded() {
   s.parentNode.insertBefore(gcse, s);
 })();
 $(document).ready(function(){
+	$(".advance-btn").click(function(){
+	  console.log("Marking..");
+      $("#advance-search-container").slideToggle();
+    });
 	var cities = {
 			30301:"atlanta",
 			73301:"austin",
@@ -108,13 +112,4 @@ $(document).ready(function(){
 	});
 	
 	
-});
-
-// Document ready
-
-$(document).ready(function(){
-    $(".advance-btn").click(function(){
-		console.log("Marking..");
-        $("#advance-search-container").slideToggle();
-    });
 });
