@@ -198,3 +198,6 @@ body.searchtempest-home .form-container .post-label {
   font-size: 0.8em;
   font-weight: bold;
 }
+.hide{
+  display:none;
+}
