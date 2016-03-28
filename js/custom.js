@@ -114,6 +114,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $(".advance-btn").click(function(){
-        $("#advance-search-container").toggleClass("500");
+		console.log("Marking..");
+        $("#advance-search-container").slideToggle();
     });
 });
