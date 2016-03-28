@@ -109,3 +109,11 @@ $(document).ready(function(){
 	
 	
 });
+
+// Document ready
+
+$(document).ready(function(){
+    $(".advance-btn").click(function(){
+        $("#advance-search-container").toggleClass("500");
+    });
+});
