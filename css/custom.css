@@ -201,3 +201,9 @@ body.searchtempest-home .form-container .post-label {
 .hide{
   display:none;
 }
+.two-fields-cont #location{
+  margin-bottom:5px;
+}
+.two-fields-cont #search_string{
+  margin-bottom:5px;
+}
