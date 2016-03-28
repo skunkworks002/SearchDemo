@@ -180,7 +180,16 @@ body.searchtempest-home .form-container .post-label {
   display:none;
 }
 /************* New css *******************/
-
-float: left;
-    margin-right: 15px;
-    width: 49%;
+.where-container{
+  float: left;
+  margin-right: 15px;
+  width: 49%;
+}
+.what-container{
+  float: left;
+  width: 49%;
+}
+.two-fields-cont{
+  display:inline-block;
+  width:100%;
+}
