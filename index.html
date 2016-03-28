@@ -10,10 +10,16 @@ layout: default
   <div class="main-content-area">
 	<div class="form-container">
 		<form id="search_form">
-			<label class="main_label" for="location">Where:</label>
-			<input type="text" placeholder="ex. 90210 -or- V8T 4M1" tabindex="1" class="main-field validation-location" name="location" id="location" value="10001">
-            <label class="main_label" for="search_string">What:</label>
-			<input type="text" tabindex="2" class="main-field validation-keywords" name="search_string" id="search_string" autocomplete="off" placeholder="ex. &quot;Ikea Desk&quot; -pressboard">
+			<div class="two-fields-cont">
+				<div class="where-container">
+					<label class="main_label" for="location">Where:</label>
+					<input type="text" placeholder="ex. 90210 -or- V8T 4M1" tabindex="1" class="main-field validation-location" name="location" id="location" value="10001">
+				</div>
+				<div class="what-container">
+					<label class="main_label" for="search_string">What:</label>
+					<input type="text" tabindex="2" class="main-field validation-keywords" name="search_string" id="search_string" autocomplete="off" placeholder="ex. &quot;Ikea Desk&quot; -pressboard">
+				</div>
+			</div>
             <div class="select-input">
 				<label for="maxDist">Within</label>
                 <select tabindex="3" name="maxDist" id="maxDist">
@@ -42,16 +48,19 @@ layout: default
 				</select>
                 <span class="post-label">mi</span>
             </div>
-            <div class="range-input price-container">
-				<label for="minAsk8">Price:</label>
-				<input type="text" placeholder="Min" size="4" tabindex="55" id="minAsk8" name="minAsk8">
-				<input type="text" placeholder="Max" size="4" tabindex="55" id="maxAsk8" name="maxAsk8">
-			</div>	
-			<div class="range-input year-container">
-				<label for="minYear8">Odometer:</label>
-				<input type="text" placeholder="Min" size="4" tabindex="56" id="minYear8" name="minYear8">
-				<input type="text" placeholder="Max" size="4" tabindex="56" id="maxYear8" name="maxYear8">
-			</div>			
+            <div class="advance-btn">Advance search</div>
+			<div class="advance-search-container">
+				<div class="range-input price-container">
+					<label for="minAsk8">Price:</label>
+					<input type="text" placeholder="Min" size="4" tabindex="55" id="minAsk8" name="minAsk8">
+					<input type="text" placeholder="Max" size="4" tabindex="55" id="maxAsk8" name="maxAsk8">
+				</div>	
+				<div class="range-input year-container">
+					<label for="minYear8">Odometer:</label>
+					<input type="text" placeholder="Min" size="4" tabindex="56" id="minYear8" name="minYear8">
+					<input type="text" placeholder="Max" size="4" tabindex="56" id="maxYear8" name="maxYear8">
+				</div>	
+            </div>			
             <button tabindex="7" type="submit" id="fullsearch-btn">Search</button>			
 		</form>
 	</div>

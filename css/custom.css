@@ -179,3 +179,8 @@ body.searchtempest-home .form-container .post-label {
 .form-container .select-input{
   display:none;
 }
+/************* New css *******************/
+
+float: left;
+    margin-right: 15px;
+    width: 49%;
