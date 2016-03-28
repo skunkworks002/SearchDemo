@@ -228,3 +228,6 @@ body.searchtempest-home .form-container .post-label {
 .two-fields-cont #search_string{
   margin-bottom:5px;
 }
+.result .gsc-above-wrapper-area-container .gsc-selected-option-container{
+  width:95px !important;
+}
