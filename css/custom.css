@@ -81,9 +81,9 @@ body.searchtempest-home .header-main{
   /*background: rgba(0, 0, 0, 0) url("../images/searchtempest.png") no-repeat scroll left top;*/
 	background: rgba(0, 0, 0, 0) url("../images/searchdemo.png") no-repeat scroll left top;
   display: inline-block;
-  height: 87px;
+  height: 60px;
   text-indent: -9999px;
-  width: 531px;
+  width: 430px;
 }
 .page-content .header-main{
   width: 830px;
@@ -95,9 +95,9 @@ body.searchtempest-home .header-main .blurb {
   margin-left: 1.2em;
   padding-left: 1em;
   position: relative;
-  text-indent: -1em;
+  /*text-indent: -1em;*/
   vertical-align: middle;
-  width: 235px;
+  width: 365px;
 }
 body.searchtempest-home .header-main .blurb {
   color: #666;
