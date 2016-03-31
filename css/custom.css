@@ -297,6 +297,10 @@ body.searchtempest-home .form-container .post-label {
   padding-bottom: 20px;
   padding-top: 20px;
 }
+.result .gsc-results .gsc-cursor-box .gsc-cursor-page:hover{
+  background:#eee;
+  color:#606c76;
+}
 .result .gsc-webResult.gsc-result:hover{
   border-bottom:1px solid #cccccc;
 }
