@@ -304,3 +304,7 @@ body.searchtempest-home .form-container .post-label {
   border-bottom: 1px solid #cccccc;
   margin-bottom: 10px;
 }
+.result .gs-no-results-result .gs-snippet{
+  color:#606c76;
+  padding:15px;
+}
