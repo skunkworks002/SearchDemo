@@ -234,6 +234,6 @@ body.searchtempest-home .form-container .post-label {
 .result table.gsc-resultsHeader{
   display:none;
 }
-.result .gsc-wrapper .gsc-adBlock{
-  display:none !important;
+.gsc-adBlock {
+  display: none !important;
 }
