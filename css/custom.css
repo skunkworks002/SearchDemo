@@ -275,5 +275,7 @@ body.searchtempest-home .form-container .post-label {
 .result .gsc-results{
   display:block;
   width:100%;
-  border-bottom:1px solid #cccccc;
+}
+.gsc-results .gsc-cursor-box .gsc-cursor-page{
+  color:#06f;
 }
