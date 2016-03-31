@@ -284,3 +284,6 @@ body.searchtempest-home .form-container .post-label {
   margin-right: 10px;
   padding: 10px;
 }
+.result .gsc-cursor-box.gs-bidi-start-align{
+  text-align:center;
+}
