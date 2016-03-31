@@ -277,5 +277,10 @@ body.searchtempest-home .form-container .post-label {
   width:100%;
 }
 .result .gsc-results .gsc-cursor-box .gsc-cursor-page{
-  color:#06f;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  color: #06f;
+  font-weight: bold;
+  margin-right: 10px;
+  padding: 10px;
 }
