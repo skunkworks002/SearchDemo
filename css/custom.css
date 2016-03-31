@@ -231,3 +231,9 @@ body.searchtempest-home .form-container .post-label {
 .result .gsc-above-wrapper-area-container .gsc-selected-option-container{
   width:95px !important;
 }
+.result table.gsc-resultsHeader{
+  display:none;
+}
+.result .gsc-adBlock{
+  display:none;
+}
