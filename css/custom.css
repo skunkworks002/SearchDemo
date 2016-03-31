@@ -287,3 +287,7 @@ body.searchtempest-home .form-container .post-label {
 .result .gsc-cursor-box.gs-bidi-start-align{
   text-align:center;
 }
+.result .gsc-results .gsc-cursor-box .gsc-cursor-page.gsc-cursor-current-page{
+  background:#eee;
+  color:#606c76;
+}
