@@ -250,3 +250,12 @@ body.searchtempest-home .form-container .post-label {
 .gsc-above-wrapper-area-container{
   margin-bottom:0px;
 }
+.result .gs-webResult.gs-result a.gs-title:link, 
+.result .gs-webResult.gs-result a.gs-title:link b, 
+.result .gs-imageResult a.gs-title:link, 
+.result .gs-imageResult a.gs-title:link b{
+  font-weight:bold;
+  color:#06f;
+  font-size:0.8em;
+  text-decoration:none;
+}
