@@ -291,3 +291,9 @@ body.searchtempest-home .form-container .post-label {
   background:#eee;
   color:#606c76;
 }
+.result .gsc-webResult.gsc-result{
+  border-bottom:1px solid #cccccc;
+}
+.result .gsc-webResult.gsc-result:hover{
+  border-bottom:1px solid #cccccc;
+}
