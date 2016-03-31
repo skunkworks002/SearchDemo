@@ -266,3 +266,6 @@ body.searchtempest-home .form-container .post-label {
 .result .gs-result .gs-title:hover{
   text-decoration:underline;
 }
+.result .gs-result .gsc-table-result{
+  margin-bottom:0px;
+}
