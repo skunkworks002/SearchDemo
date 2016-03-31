@@ -259,3 +259,10 @@ body.searchtempest-home .form-container .post-label {
   font-size:0.8em;
   text-decoration:none;
 }
+.result .gs-title{
+  text-decoration:none;
+  margin-bottom:5px;
+}
+.result .gs-title:hover{
+  text-decoration:underline;
+}
