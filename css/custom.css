@@ -240,3 +240,7 @@ body.searchtempest-home .form-container .post-label {
 .gsc-above-wrapper-area td, .gsc-above-wrapper-area th{
   border:0px;
 }
+.result .gsc-control-cse.gsc-control-cse-en{
+  padding-left:0px;
+  padding-right:0px;
+}
