@@ -237,3 +237,6 @@ body.searchtempest-home .form-container .post-label {
 .gsc-adBlock {
   display: none !important;
 }
+.gsc-above-wrapper-area{
+  border-bottom:0px;
+}
