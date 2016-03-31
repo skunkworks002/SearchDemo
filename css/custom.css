@@ -272,3 +272,8 @@ body.searchtempest-home .form-container .post-label {
 .result .gsc-table-result td, .result .gsc-table-result th{
   border:0px;
 }
+.result .gsc-results{
+  display:block;
+  width:100%;
+  border-bottom:1px solid #cccccc;
+}
