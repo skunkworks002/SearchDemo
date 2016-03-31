@@ -244,6 +244,9 @@ body.searchtempest-home .form-container .post-label {
   padding-left:0px;
   padding-right:0px;
 }
-.gcsc-branding{
-  display:none;
+.result .gsc-result-info{
+  color:#606c76;
+}
+.gsc-above-wrapper-area-container{
+  margin-bottom:0px;
 }
