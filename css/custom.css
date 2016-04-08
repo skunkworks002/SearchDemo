@@ -144,10 +144,6 @@ body.searchtempest-home .form-container select {
   width: 80%;
   margin-left:8px;
 }
-body.searchtempest-home .form-container .post-label {
-  display: inline-block;
-  line-height: 40px;
-}
 .price-container{
   display:inline-block;
   width:100%;
