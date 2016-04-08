@@ -107,7 +107,7 @@
 				pathArray = location.href.split( '/' );
 				protocol = pathArray[0];
 				host = pathArray[2];
-			
+			    console.log(args);
 				window.location.href = protocol + '//' + host+args;	
 			})
 		});
