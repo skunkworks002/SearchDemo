@@ -94,7 +94,7 @@
 		}
 		
 		$( document ).ready(function() {
-			$("#customSearch").click(function() {
+			$("#fullsearch-btn").click(function() {
 				var where = $("#location").val();
 				var what = $("#search_string").val();
 				var min_price = $("#minAsk8").val();
