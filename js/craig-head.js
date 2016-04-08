@@ -108,6 +108,6 @@
 				protocol = pathArray[0];
 				host = pathArray[2];
 			
-				window.location.href = protocol + '//' + host+"/craig/craig-multisearch/craig-multisearch.html"+args;	
+				window.location.href = protocol + '//' + host+args;	
 			})
 		});
