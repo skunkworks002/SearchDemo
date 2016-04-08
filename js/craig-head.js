@@ -41,7 +41,7 @@
 		
 		//Generate gnames and sitename for nearest cities
 		function gNames() {
-			var cf = new CityFinder("craiglist.txt");
+			var cf = new CityFinder("{{site.baseurl}}/js/craiglist.txt");
 			var QueryString = queryString();
 			var gnames_obj = {};
 			var gname = "";
