@@ -5,13 +5,13 @@ for(var data in gnames){
 var QueryString = queryString();				
 if(jQuery.isEmptyObject(QueryString) === false) {
 	for(var t in QueryString) {
-		if(t == "q") $("#what").val(QueryString[t]);
-		if(t == "zipcode") $("#where").val(QueryString[t]);
+		if(t == "q") $("#search_string").val(QueryString[t]);
+		if(t == "zipcode") $("#location").val(QueryString[t]);
 		if(t == "max_dist") $("#max_dist").val(QueryString[t]);
-		if(t == "min_price") $("#min_price").val(QueryString[t]);
-		if(t == "max_price") $("#max_price").val(QueryString[t]);
-		if(t == "min_meter") $("#min_meter").val(QueryString[t]);
-		if(t == "max_meter") $("#max_meter").val(QueryString[t]);
+		if(t == "min_price") $("#minAsk8").val(QueryString[t]);
+		if(t == "max_price") $("#maxAsk8").val(QueryString[t]);
+		if(t == "min_meter") $("#minYear8").val(QueryString[t]);
+		if(t == "max_meter") $("#maxYear8").val(QueryString[t]);
 	}
 	
 	window.__gcse = {
