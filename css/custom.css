@@ -133,7 +133,7 @@ body.searchtempest-home input[type="reset"], body.searchtempest-home input[type=
 }
 .select-input {
   display: inline-block;
-  width: 100%;
+  width: 50%;
 }
 body.searchtempest-home .form-container form{
   margin-bottom:0rem;
@@ -224,6 +224,8 @@ body.searchtempest-home .form-container .post-label {
 }
 .two-fields-cont #location{
   margin-bottom:5px;
+  float:left;
+  width:50%;
 }
 .two-fields-cont #search_string{
   margin-bottom:5px;
