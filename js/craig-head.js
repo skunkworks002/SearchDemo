@@ -108,6 +108,6 @@
 				protocol = pathArray[0];
 				host = pathArray[2];
 			    console.log(args);
-				window.location.href =  window.location.href+args;	
+				window.location.href = protocol + '//'+"skunkworks002.github.io/SearchDemo/"+args;	
 			})
 		});
