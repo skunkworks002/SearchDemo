@@ -132,7 +132,7 @@ body.searchtempest-home input[type="reset"], body.searchtempest-home input[type=
   background: #606c76;
 }
 .select-input {
-  display: inline-block;
+  float:left;
   width: 50%;
 }
 body.searchtempest-home .form-container form{
@@ -140,12 +140,13 @@ body.searchtempest-home .form-container form{
 }
 body.searchtempest-home .form-container select {
   float: left;
-  margin-right: 15px;
-  width: 96%;
+  margin-right: 10px;
+  width: 80%;
+  margin-left:10px;
 }
 body.searchtempest-home .form-container .post-label {
   display: inline-block;
-  line-height: 35px;
+  line-height: 40px;
 }
 .price-container{
   display:inline-block;
