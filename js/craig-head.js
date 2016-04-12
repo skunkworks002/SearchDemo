@@ -41,8 +41,9 @@
 		
 		//Generate gnames and sitename for nearest cities
 		function gNames() {
-			var cf = new CityFinder("http://skunkworks002.github.io/SearchDemo/craiglist.txt");
+			var cf = new CityFinder("craiglist.txt");
 			var QueryString = queryString();
+			var gnames_arr = [];
 			var gnames_obj = {};
 			var gname = "";
 			var i = 0;
@@ -59,10 +60,13 @@
 			for(var data in result){
 				gname = "searchOnlyCSE_"+i;
 				where_site = extractDomain(data);
-				gnames_obj[where_site] = gname;
+				//gnames_obj["gname"] = gname;
+				//gnames_obj["city"] = result[data].city;
+				//gnames_obj["where_site"] = where_site;
+				gnames_arr[i] = {'gname':gname, 'city':result[data].city, 'site': where_site};
 				i++;
 			}
-			return gnames_obj;
+			return gnames_arr;
 		}
 		
 		function googleCSELoaded() {
@@ -84,10 +88,9 @@
 			}
 		
 			var i = 0;
-			for(var site in gnames){
-			 //console.log(result[data].city);
-				var searchText = "site:"+site+" "+what+" "+"$"+min_price+".."+max_price+" "+"odometer:"+min_meter+".."+max_meter+" "+"filetype:html";
-				var element = google.search.cse.element.getElement(gnames[site]);
+			for(var i=0; i<gnames.length; i++){
+				var searchText = "site:"+gnames[i].site+" "+what+" "+"$"+min_price+".."+max_price+" "+"odometer:"+min_meter+".."+max_meter+" "+"filetype:html";
+				var element = google.search.cse.element.getElement(gnames[i].gname);
 				element.execute(searchText);
 				i++;
 			}
@@ -107,7 +110,6 @@
 				pathArray = location.href.split( '/' );
 				protocol = pathArray[0];
 				host = pathArray[2];
-			    console.log(args);
 				window.location.href = protocol + '//'+"skunkworks002.github.io/SearchDemo/"+args;	
 			})
 		});
