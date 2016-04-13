@@ -238,7 +238,7 @@ body.searchtempest-home .form-container select {
 }
 .gsc-above-wrapper-area td, .gsc-above-wrapper-area th{
   border:0px;
-  padding:5px;
+  padding:0px;
 }
 .result .gsc-control-cse.gsc-control-cse-en{
   padding-left:0px;
@@ -320,4 +320,7 @@ body.searchtempest-home .form-container select {
 }
 .result .gsc-control-cse{
   padding-top:0px;
+}
+.result .gsc-above-wrapper-area {
+  padding: 0 0 10px;
 }
