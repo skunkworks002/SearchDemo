@@ -315,6 +315,8 @@ body.searchtempest-home .form-container select {
 .result h3{
   font-size:1.5em;
   margin-bottom:0px;
+  margin-top:10px;
+  margin-left:10px;
 }
 .result .gsc-control-cse{
   padding-top:0px;
