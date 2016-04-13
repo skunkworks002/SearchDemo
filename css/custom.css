@@ -294,8 +294,8 @@ body.searchtempest-home .form-container select {
 }
 .result .gsc-webResult.gsc-result{
   border-bottom:1px solid #cccccc;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 .result .gsc-results .gsc-cursor-box .gsc-cursor-page:hover{
   background:#eee;
