@@ -318,3 +318,7 @@ body.searchtempest-home .form-container select {
 .result .gsc-control-cse{
   border:1px solid red;
 }
+.result .gsc-above-wrapper-area td, .result .gsc-above-wrapper-area th{
+  padding:0px;
+  border:1px solid red;
+}
