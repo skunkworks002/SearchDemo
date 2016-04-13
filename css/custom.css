@@ -311,3 +311,6 @@ body.searchtempest-home .form-container select {
   color:#606c76;
   padding:15px;
 }
+.result h3{
+  border:1px solid red;
+}
