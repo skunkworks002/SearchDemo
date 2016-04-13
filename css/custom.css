@@ -312,5 +312,9 @@ body.searchtempest-home .form-container select {
   padding:15px;
 }
 .result h3{
+  font-size:1.5em;
+  margin-bottom:0px;
+}
+.result .gsc-control-cse{
   border:1px solid red;
 }
