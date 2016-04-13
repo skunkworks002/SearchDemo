@@ -282,7 +282,9 @@ body.searchtempest-home .form-container select {
   color: #06f;
   font-weight: bold;
   margin-right: 10px;
-  padding: 10px;
+  width:35px;
+  height:35px;
+  line-height:34px;
 }
 .result .gsc-cursor-box.gs-bidi-start-align{
   text-align:center;
@@ -295,7 +297,7 @@ body.searchtempest-home .form-container select {
 .result .gsc-webResult.gsc-result{
   border-bottom:1px solid #cccccc;
   padding-bottom: 10px;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 .result .gsc-results .gsc-cursor-box .gsc-cursor-page:hover{
   background:#eee;
