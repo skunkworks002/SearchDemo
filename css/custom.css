@@ -351,11 +351,12 @@ body.searchtempest-home .form-container select {
   color: #606c76;
 }
 .result .no-record-found{
-  margin-top:15px;
+  margin-top:25px;
   background-color: rgb(255, 244, 194);
   border: 1px solid rgb(255, 204, 51);
   color: #606c76;
   padding: 15px;
   font-size: 13px;
+  margin-bottom:20px;
 }
 
