@@ -10,7 +10,7 @@ if(jQuery.isEmptyObject(QueryString) === false) {
 		if(t == "zipcode") {
 			$("#location").val(QueryString[t]);
 			if(jQuery.isEmptyObject(gnames) === true) {
-				$(".result").html('<p>No Result found</p>');
+				$(".result").html('<p class="no-record-found">No Result found</p>');
 			} 
 		}
 		if(t == "max_dist") $("#max_dist").val(QueryString[t]);
