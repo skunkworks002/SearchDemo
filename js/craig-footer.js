@@ -7,7 +7,10 @@ var QueryString = queryString();
 if(jQuery.isEmptyObject(QueryString) === false) {
 	for(var t in QueryString) {
 		if(t == "q") $("#search_string").val(QueryString[t]);
-		if(t == "zipcode") $("#location").val(QueryString[t]);
+		if(t == "zipcode") {
+			$("#location").val(QueryString[t]);
+			console.log(gnames);
+		}
 		if(t == "max_dist") $("#max_dist").val(QueryString[t]);
 		if(t == "min_price") $("#minAsk8").val(QueryString[t]);
 		if(t == "max_price") $("#maxAsk8").val(QueryString[t]);
