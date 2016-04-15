@@ -5,11 +5,13 @@ for(var i=0; i<gnames.length; i++){
 }
 var QueryString = queryString();				
 if(jQuery.isEmptyObject(QueryString) === false) {
-	console.log("Hello...");
 	for(var t in QueryString) {
 		if(t == "q") $("#search_string").val(QueryString[t]);
 		if(t == "zipcode") {
 			$("#location").val(QueryString[t]);
+			if(jQuery.isEmptyObject(QueryString) === true) {
+				$(".result").html('<p>No Result found</p>');
+			} 
 		}
 		if(t == "max_dist") $("#max_dist").val(QueryString[t]);
 		if(t == "min_price") $("#minAsk8").val(QueryString[t]);
