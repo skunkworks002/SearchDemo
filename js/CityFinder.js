@@ -62,14 +62,15 @@ var CityFinder = function(fileLocation){
  */
  self.getNearByCitiesByUrl = function(zipcode, distance){
  	var urls = new Array();
- 	for(city in data){
- 		citiesDistance = self.calculateDistance(data[zipcode][1], data[zipcode][2], data[city][1], data[city][2]);
- 		if(citiesDistance <= distance && citiesDistance > 0){
- 			urls[data[city][4]] = {'city':data[city][3]  };
- 			//cities.push({'city' : data[city][3], 'url': data[city][4]})
- 		}
+ 	if(data[zipcode] != undefined){
+	 	for(city in data){
+	 		citiesDistance = self.calculateDistance(data[zipcode][1], data[zipcode][2], data[city][1], data[city][2]);
+	 		if(citiesDistance <= distance && citiesDistance > 0){
+	 			urls[data[city][4]] = {'city':data[city][3]  };
+	 			//cities.push({'city' : data[city][3], 'url': data[city][4]})
+	 		}
+	 	}
  	}
- 	
  	return urls;
  }
  /**
