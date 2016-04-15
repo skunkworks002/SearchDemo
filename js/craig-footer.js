@@ -8,7 +8,7 @@ if(jQuery.isEmptyObject(QueryString) === false) {
 	for(var t in QueryString) {
 		if(t == "q") $("#search_string").val(QueryString[t]);
 		if(t == "zipcode") {
-			console.log(jQuery.isEmptyObject(QueryString));
+			console.log(QueryString.length);
 			$("#location").val(QueryString[t]);
 			if(jQuery.isEmptyObject(QueryString) === true) {
 				$(".result").html('<p>No Result found</p>');
