@@ -90,7 +90,7 @@
 			var i = 0;
 			for(var i=0; i<gnames.length; i++){
 				var searchText = "site:"+gnames[i].site+" "+what+" "+"$"+min_price+".."+max_price+" "+"odometer:"+min_meter+".."+max_meter+" "+"filetype:html";
-				console.log(searchText);
+				console.log(gnames[i]);
 				var element = google.search.cse.element.getElement(gnames[i].gname);
 				element.execute(searchText);
 				i++;
