@@ -90,6 +90,7 @@
 			var i = 0;
 			for(var i=0; i<gnames.length; i++){
 				var searchText = "site:"+gnames[i].site+" "+what+" "+"$"+min_price+".."+max_price+" "+"odometer:"+min_meter+".."+max_meter+" "+"filetype:html";
+				console.log(searchText);
 				var element = google.search.cse.element.getElement(gnames[i].gname);
 				element.execute(searchText);
 				i++;
@@ -98,7 +99,7 @@
 		
 		$( document ).ready(function() {
 			$("#fullsearch-btn").click(function() {
-				console.log("Marking.....");
+				//console.log("Marking.....");
 				var where = $("#location").val();
 				var what = $("#search_string").val();
 				var min_price = $("#minAsk8").val();
