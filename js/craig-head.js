@@ -57,6 +57,7 @@
 			}
 			result = cf.getNearByCitiesByUrl(where_zip, max_dist);
 			//$( ".result" ).empty();
+			console.log(result);
 			for(var data in result){
 				gname = "searchOnlyCSE_"+i;
 				where_site = extractDomain(data);
