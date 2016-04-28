@@ -66,7 +66,7 @@
 						//gnames_obj["gname"] = gname;
 						//gnames_obj["city"] = result[data].city;
 						//gnames_obj["where_site"] = where_site;
-						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data][j], 'site': where_site};
+						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data][j], 'site': data};
 						i++;
 					}
 				}
