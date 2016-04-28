@@ -62,43 +62,105 @@ var CityFinder = function(fileLocation){
  */
  self.getNearByCitiesByUrl = function(zipcode, distance){
  	var urls = new Array();
+ 	
+
  	if(data[zipcode] != undefined){
-	 	for(city in data){
-	 		citiesDistance = self.calculateDistance(data[zipcode][1], data[zipcode][2], data[city][1], data[city][2]);
-	 		if(citiesDistance <= distance && citiesDistance > 0){
-	 			urls[data[city][4]] = {'city':data[city][3]  };
-	 			//cities.push({'city' : data[city][3], 'url': data[city][4]})
-	 		}
-	 	}
+ 		for(city in data){
+ 			citiesDistance = self.calculateDistance(data[zipcode][1], data[zipcode][2], data[city][1], data[city][2]);
+ 			if(citiesDistance <= distance && citiesDistance > 0){
+ 				urls[data[city][4]] = {'city':data[city][3]  };
+ 			//cities.push({'city' : data[city][3], 'url': data[city][4]})
+ 		}
  	}
- 	return urls;
  }
+
+ return urls;
+}
+ /**
+ * returns near by cities by Distinct counties
+ * @param zipcode
+ * @param distance in km
+ * @return urls Array
+ */
  /**
  * returns near by cities by Distinct urls
  * @param zipcode
  * @param distance in km
  * @return urls Array
  */
- self.getNearByCitiesByUrlWithCities = function(zipcode, distance){
+ self.getNearByCitiesByDistinctCounties = function(zipcode, distance){
  	var urlWithCities = new Array();
+ 	if(data[zipcode] != undefined){
  	for(city in data){
  		citiesDistance = self.calculateDistance(data[zipcode][1], data[zipcode][2], data[city][1], data[city][2]);
  		if(citiesDistance <= distance && citiesDistance > 0){
- 			if(typeof urlWithCities[data[city][4]] == 'undefined'){
- 				urlWithCities[data[city][4]] = {'city':data[city][3]  };
+ 			if(typeof urlWithCities[data[city][5]] == 'undefined'){
+ 				
+ 				cityArray = new Array();
+
+ 				cityArray.push({'name' : data[city][3],'url':data[city][4]});
+ 				urlWithCities[data[city][5]] = {'cities':cityArray, 'distance':  citiesDistance,'state':data[city][5]};
  			}else{
- 				// console.log( urlWithCities[data[city][4]].city);
- 				if( urlWithCities[data[city][4]].city.indexOf(data[city][3]) == -1){
- 					urlWithCities[data[city][4]].city+=","+data[city][3];
+ 				
+ 				if(citiesDistance < urlWithCities[data[city][5]].distance){
+ 					urlWithCities[data[city][5]].distance = citiesDistance;
  				}
+ 				cityArray = urlWithCities[data[city][5]].cities;
+ 				cityArray.push({'name' : data[city][3],'url':data[city][4]});
+
+ 				urlWithCities[data[city][5]].cities=cityArray;
+ 				
  			}
  			
- 			//cities.push({'city' : data[city][3], 'url': data[city][4]})
+ 			
  		}
  	}
- 	
+
+ 	urlWithCities = self.sortData(urlWithCities);
+ 	urlWithCities = self.DistinctUrls(urlWithCities);
+ }
  	return urlWithCities;
  }
+ /**
+  *This method use to distinct the urls
+  *@param : urls of the states with array of city and their urls
+ */ 
+  self.DistinctUrls = function(states){
+  		
+  	    for(state in states){
+  	      distinctByUrl = new Array();
+           cities = states[state].cities;
+           for(city in cities){
+              if(distinctByUrl[cities[city].url] == undefined){
+              	distinctByUrl[cities[city].url] = new Array();
+              }
+              if(distinctByUrl[cities[city].url].indexOf(cities[city].name) == -1){
+              	distinctByUrl[cities[city].url].push(cities[city].name);
+              }
+           }
+            
+           states[state].cities = distinctByUrl;     
+  	    }
+  	    return states;
+
+  	   
+  }
+
+ /**
+  *use to  sort object of objects ascending
+  *@param unsortedData
+  **/ 
+  self.sortData = function(unsortedData){
+  	var sortable = [];
+  	for (unsortedObject in unsortedData){
+  		sortable.push(unsortedData[unsortedObject]);
+
+  	}
+  	sortable.sort(function(a, b) {return a.distance - b.distance; })
+  
+  	return sortable;      
+  }
+
 /**
  * returns distance in km 
  * @param lat1
