@@ -71,6 +71,7 @@
 					}
 				}
 			}
+			console.log(gnames_arr);
 			return gnames_arr;
 		}
 		
