@@ -55,18 +55,21 @@
 				if(t == "zipcode") where_zip = QueryString[t];
 				if(t == "max_dist") max_dist = QueryString[t];
 			}
-			console.log("zip: "+where_zip+" ====== max_dist:"+max_dist+"\n");
-			result = cf.getNearByCitiesByUrl(where_zip, max_dist);
+			result = cf.getNearByCitiesByDistinctCounties(where_zip, max_dist);
 			//$( ".result" ).empty();
-			console.log(result);
-			for(var data in result){
-				gname = "searchOnlyCSE_"+i;
-				where_site = extractDomain(data);
-				//gnames_obj["gname"] = gname;
-				//gnames_obj["city"] = result[data].city;
-				//gnames_obj["where_site"] = where_site;
-				gnames_arr[i] = {'gname':gname, 'city':result[data].city, 'site': where_site};
-				i++;
+			for(var k=0; k<result.length; k++){
+				//console.log(result[k]);
+				for(var data in result[k].cities){
+					for(var j=0; j<result[k].cities[data].length; j++){
+						gname = "searchOnlyCSE_"+i;
+						where_site = extractDomain(data);
+						//gnames_obj["gname"] = gname;
+						//gnames_obj["city"] = result[data].city;
+						//gnames_obj["where_site"] = where_site;
+						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data][j], 'site': where_site};
+						i++;
+					}
+				}
 			}
 			return gnames_arr;
 		}
