@@ -55,6 +55,7 @@
 				if(t == "zipcode") where_zip = QueryString[t];
 				if(t == "max_dist") max_dist = QueryString[t];
 			}
+			console.log("zip: "+where_zip+" ====== max_dist:"+max_dist+"\n");
 			result = cf.getNearByCitiesByUrl(where_zip, max_dist);
 			//$( ".result" ).empty();
 			console.log(result);
