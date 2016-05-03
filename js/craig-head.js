@@ -58,7 +58,7 @@
 			result = cf.getNearByCitiesByDistinctCounties(where_zip, max_dist);
 			//$( ".result" ).empty();
 			for(var k=0; k<result.length; k++){
-				//console.log(result[k]);
+				console.log(result[k]);
 				for(var data in result[k].cities){
 					for(var j=0; j<result[k].cities[data].length; j++){
 						gname = "searchOnlyCSE_"+i;
