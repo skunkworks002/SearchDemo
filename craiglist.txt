@@ -2861,8 +2861,8 @@
 12719,41.4912,-74.9152,Poconos,http://poconos.craigslist.org/,Pennsylvania
 12721,41.5644,-74.4304,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12722,41.719,-74.7554,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12723,41.7754,-75.0257,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-12727,41.719,-74.7554,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12723,41.7754,-75.0257,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12727,41.719,-74.7554,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12729,41.4776,-74.5976,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12732,41.5328,-74.8968,Poconos,http://poconos.craigslist.org/,Pennsylvania
 12733,41.7273,-74.6154,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
@@ -2872,19 +2872,19 @@
 12738,41.6545,-74.5833,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12739,41.4423,-74.6057,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12740,41.8807,-74.5127,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12741,41.8391,-75.0534,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12741,41.8391,-75.0534,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12742,41.7141,-74.7218,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12743,41.5309,-74.8516,Poconos,http://poconos.craigslist.org/,Pennsylvania
-12745,41.7629,-75.0306,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12745,41.7629,-75.0306,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12746,41.4372,-74.6426,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12747,41.7703,-74.7261,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12748,41.7784,-74.9196,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12748,41.7784,-74.9196,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12749,41.6874,-74.8358,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12750,41.7296,-74.9611,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12750,41.7296,-74.9611,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12751,41.6838,-74.6724,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12758,41.8778,-74.827,Oneonta,http://oneonta.craigslist.org/,New York
 12762,41.681,-74.8028,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12766,41.8142,-74.9824,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12766,41.8142,-74.9824,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12767,41.719,-74.7554,Oneonta,http://oneonta.craigslist.org/,New York
 12770,41.4511,-74.841,Poconos,http://poconos.craigslist.org/,Pennsylvania
 12771,41.3786,-74.6691,Poconos,http://poconos.craigslist.org/,Pennsylvania
@@ -4690,9 +4690,9 @@
 18214,40.8138,-76.0611,Reading,http://reading.craigslist.org/,Pennsylvania
 18216,40.9227,-75.9406,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18218,40.8219,-75.9104,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
-18219,40.9907,-76.0564,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18219,40.9907,-76.0564,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18221,41.0016,-75.9057,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18222,41.0255,-75.9768,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18222,41.0255,-75.9768,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18223,41.2722,-75.8801,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18224,41.0196,-75.888,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18225,40.9888,-75.9617,Poconos,http://poconos.craigslist.org/,Pennsylvania
@@ -4710,12 +4710,12 @@
 18243,41.0017,-75.9661,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18244,40.8245,-75.6651,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
 18245,40.7226,-76.2296,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
-18246,40.954,-76.1747,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18247,41.0148,-76.0584,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18246,40.954,-76.1747,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18247,41.0148,-76.0584,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18248,40.902,-76.1188,Reading,http://reading.craigslist.org/,Pennsylvania
-18249,40.9971,-76.0717,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18249,40.9971,-76.0717,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18250,40.8255,-75.8693,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
-18251,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18251,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18252,40.7983,-75.9735,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
 18254,40.9159,-75.9657,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18255,40.9411,-75.8306,Poconos,http://poconos.craigslist.org/,Pennsylvania
@@ -4753,127 +4753,127 @@
 18371,41.3409,-75.0241,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18372,41.0472,-75.3244,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18373,41.3409,-75.0241,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18403,41.4876,-75.5334,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18405,41.6034,-75.1165,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18407,41.5831,-75.5056,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18410,41.4865,-75.6933,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18411,41.4878,-75.7057,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18413,41.6543,-75.6145,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18415,41.7366,-75.1312,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18416,41.3756,-75.548,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18417,41.8117,-75.1891,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18419,41.5762,-75.7652,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18420,41.4019,-75.6376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18421,41.6523,-75.5313,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18403,41.4876,-75.5334,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18405,41.6034,-75.1165,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18407,41.5831,-75.5056,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18410,41.4865,-75.6933,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18411,41.4878,-75.7057,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18413,41.6543,-75.6145,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18415,41.7366,-75.1312,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18416,41.3756,-75.548,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18417,41.8117,-75.1891,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18419,41.5762,-75.7652,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18420,41.4019,-75.6376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18421,41.6523,-75.5313,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18424,41.2448,-75.5037,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18425,41.4372,-75.0125,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18426,41.3321,-75.2819,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18427,41.4047,-75.4069,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18428,41.4787,-75.1978,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18430,41.7643,-75.5044,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18431,41.5792,-75.2528,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18433,41.5744,-75.5881,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18434,41.4724,-75.5689,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18427,41.4047,-75.4069,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18428,41.4787,-75.1978,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18430,41.7643,-75.5044,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18431,41.5792,-75.2528,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18433,41.5744,-75.5881,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18434,41.4724,-75.5689,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18435,41.4754,-75.0094,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18436,41.4395,-75.4313,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18437,41.8666,-75.3231,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18438,41.4223,-75.2607,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18436,41.4395,-75.4313,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18437,41.8666,-75.3231,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18438,41.4223,-75.2607,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18439,41.8171,-75.3838,Binghamton,http://binghamton.craigslist.org/,New York
-18440,41.5516,-75.7676,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18441,41.6595,-75.6282,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18443,41.667,-75.1185,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18444,41.3432,-75.5301,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18440,41.5516,-75.7676,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18441,41.6595,-75.6282,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18443,41.667,-75.1185,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18444,41.3432,-75.5301,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18445,41.3041,-75.3384,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18446,41.6412,-75.7641,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18447,41.4677,-75.6015,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18448,41.4649,-75.5962,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18449,41.616,-75.2747,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18452,41.4821,-75.5899,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18453,41.7322,-75.3989,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18454,41.616,-75.2747,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18446,41.6412,-75.7641,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18447,41.4677,-75.6015,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18448,41.4649,-75.5962,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18449,41.616,-75.2747,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18452,41.4821,-75.5899,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18453,41.7322,-75.3989,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18454,41.616,-75.2747,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18455,41.8867,-75.356,Binghamton,http://binghamton.craigslist.org/,New York
-18456,41.582,-75.3207,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18456,41.582,-75.3207,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18458,41.4182,-74.918,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18461,41.9251,-75.3212,Binghamton,http://binghamton.craigslist.org/,New York
 18462,41.8907,-75.449,Binghamton,http://binghamton.craigslist.org/,New York
 18465,41.834,-75.5342,Binghamton,http://binghamton.craigslist.org/,New York
 18466,41.1836,-75.3918,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18470,41.7079,-75.5465,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18471,41.5238,-75.6906,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18472,41.5703,-75.4065,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18473,41.5406,-75.2229,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18501,41.4019,-75.6376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18502,41.3503,-75.69,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18503,41.4095,-75.6642,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18504,41.4128,-75.6861,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18505,41.3914,-75.6657,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18507,41.3554,-75.6805,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18508,41.4389,-75.6625,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18509,41.4274,-75.6465,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18510,41.408,-75.6484,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18512,41.435,-75.6103,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18514,41.4019,-75.6376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18515,41.4035,-75.7065,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18517,41.3904,-75.7158,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18518,41.3701,-75.7391,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18519,41.4623,-75.6243,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18522,41.4019,-75.6376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18577,41.4019,-75.6376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18601,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18602,41.1922,-75.7161,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18603,41.0665,-76.2443,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18470,41.7079,-75.5465,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18471,41.5238,-75.6906,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18472,41.5703,-75.4065,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18473,41.5406,-75.2229,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18501,41.4019,-75.6376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18502,41.3503,-75.69,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18503,41.4095,-75.6642,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18504,41.4128,-75.6861,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18505,41.3914,-75.6657,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18507,41.3554,-75.6805,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18508,41.4389,-75.6625,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18509,41.4274,-75.6465,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18510,41.408,-75.6484,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18512,41.435,-75.6103,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18514,41.4019,-75.6376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18515,41.4035,-75.7065,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18517,41.3904,-75.7158,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18518,41.3701,-75.7391,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18519,41.4623,-75.6243,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18522,41.4019,-75.6376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18577,41.4019,-75.6376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18601,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18602,41.1922,-75.7161,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18603,41.0665,-76.2443,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18610,41.0485,-75.5343,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18611,41.1103,-75.7755,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18612,41.3494,-75.9834,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18611,41.1103,-75.7755,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18612,41.3494,-75.9834,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18614,41.5232,-76.4021,Williamsport,http://williamsport.craigslist.org/,Pennsylvania
-18615,41.4667,-75.856,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18615,41.4667,-75.856,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18616,41.5269,-76.6008,Williamsport,http://williamsport.craigslist.org/,Pennsylvania
 18619,41.4482,-76.6979,Williamsport,http://williamsport.craigslist.org/,Pennsylvania
-18621,41.2459,-76.0879,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18622,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18623,41.6662,-76.1426,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18625,41.5096,-75.8508,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18621,41.2459,-76.0879,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18622,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18623,41.6662,-76.1426,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18625,41.5096,-75.8508,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18626,41.4329,-76.5169,Williamsport,http://williamsport.craigslist.org/,Pennsylvania
-18627,41.3166,-76.021,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18628,41.418,-76.3002,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18630,41.6392,-76.0155,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18627,41.3166,-76.021,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18628,41.418,-76.3002,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18630,41.6392,-76.0155,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18632,41.4792,-76.3831,Williamsport,http://williamsport.craigslist.org/,Pennsylvania
-18634,41.1963,-76.0044,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18635,41.0469,-76.1981,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18636,41.4181,-76.046,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18640,41.3175,-75.7885,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18641,41.3361,-75.7304,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18642,41.3486,-75.7611,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18643,41.3665,-75.8362,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18644,41.3197,-75.8541,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18651,41.2458,-75.9481,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18653,41.3945,-75.8242,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18654,41.3501,-76.0319,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18655,41.1513,-76.1081,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18656,41.3066,-76.1339,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18657,41.5664,-75.9757,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18660,41.068,-76.0857,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18634,41.1963,-76.0044,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18635,41.0469,-76.1981,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18636,41.4181,-76.046,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18640,41.3175,-75.7885,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18641,41.3361,-75.7304,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18642,41.3486,-75.7611,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18643,41.3665,-75.8362,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18644,41.3197,-75.8541,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18651,41.2458,-75.9481,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18653,41.3945,-75.8242,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18654,41.3501,-76.0319,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18655,41.1513,-76.1081,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18656,41.3066,-76.1339,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18657,41.5664,-75.9757,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18660,41.068,-76.0857,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18661,41.079,-75.7715,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18690,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18701,41.2436,-75.885,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18702,41.2208,-75.7736,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18703,41.2421,-75.8857,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18704,41.2742,-75.8903,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18705,41.2689,-75.8453,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18706,41.2044,-75.9113,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18707,41.135,-75.9376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18708,41.2998,-75.9711,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18709,41.2843,-75.8935,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18710,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18711,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18761,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18762,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18763,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18764,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18765,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18768,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18773,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18774,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18690,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18701,41.2436,-75.885,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18702,41.2208,-75.7736,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18703,41.2421,-75.8857,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18704,41.2742,-75.8903,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18705,41.2689,-75.8453,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18706,41.2044,-75.9113,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18707,41.135,-75.9376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18708,41.2998,-75.9711,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18709,41.2843,-75.8935,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18710,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18711,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18761,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18762,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18763,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18764,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18765,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18768,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18773,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18774,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18801,41.8396,-75.8821,Binghamton,http://binghamton.craigslist.org/,New York
 18810,41.949,-76.4889,Elmira-corning,http://elmira.craigslist.org/,New York
 18812,41.9666,-75.9375,Binghamton,http://binghamton.craigslist.org/,New York
@@ -4887,7 +4887,7 @@
 18821,41.9775,-75.7327,Binghamton,http://binghamton.craigslist.org/,New York
 18822,41.9598,-75.7826,Binghamton,http://binghamton.craigslist.org/,New York
 18823,41.7761,-75.6935,Binghamton,http://binghamton.craigslist.org/,New York
-18824,41.6932,-75.7897,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18824,41.6932,-75.7897,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18825,41.8203,-75.8046,Binghamton,http://binghamton.craigslist.org/,New York
 18826,41.7659,-75.7831,Binghamton,http://binghamton.craigslist.org/,New York
 18827,41.9575,-75.6373,Binghamton,http://binghamton.craigslist.org/,New York
@@ -4900,11 +4900,11 @@
 18837,41.8634,-76.3015,Binghamton,http://binghamton.craigslist.org/,New York
 18839,41.8203,-75.8046,Binghamton,http://binghamton.craigslist.org/,New York
 18840,41.9842,-76.5218,Elmira-corning,http://elmira.craigslist.org/,New York
-18842,41.8203,-75.8046,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18842,41.8203,-75.8046,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18843,41.8237,-75.8831,Binghamton,http://binghamton.craigslist.org/,New York
-18844,41.7147,-75.9025,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18844,41.7147,-75.9025,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18845,41.7718,-76.1717,Binghamton,http://binghamton.craigslist.org/,New York
-18846,41.6041,-76.2598,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18846,41.6041,-76.2598,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18847,41.9487,-75.5862,Binghamton,http://binghamton.craigslist.org/,New York
 18848,41.7638,-76.4645,Elmira-corning,http://elmira.craigslist.org/,New York
 18850,41.8408,-76.4876,Elmira-corning,http://elmira.craigslist.org/,New York
@@ -19466,11 +19466,11 @@
 12602,41.7599,-73.7437,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12604,41.7599,-73.7437,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12725,41.9657,-74.5293,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12726,41.692,-74.9741,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-12752,41.6782,-74.9949,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-12760,41.8644,-75.0942,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12726,41.692,-74.9741,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12752,41.6782,-74.9949,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12760,41.8644,-75.0942,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12763,41.6918,-74.5358,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12764,41.5921,-75.0107,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12764,41.5921,-75.0107,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12769,41.6515,-74.4362,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12775,41.6134,-74.5872,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12784,41.7143,-74.5841,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
@@ -19996,16 +19996,16 @@
 18343,40.9008,-75.1115,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18355,41.0751,-75.3265,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18360,40.9877,-75.2485,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18414,41.5395,-75.7037,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18414,41.5395,-75.7037,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18451,41.3409,-75.0241,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18457,41.4719,-75.0485,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18460,41.2592,-75.3731,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18464,41.397,-75.1869,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18469,41.7011,-75.1422,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18629,41.5587,-76.1035,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18766,41.2448,-75.8896,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18767,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18769,41.2722,-75.8801,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18469,41.7011,-75.1422,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18629,41.5587,-76.1035,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18766,41.2448,-75.8896,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18767,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18769,41.2722,-75.8801,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18911,40.3286,-75.1028,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
 18912,40.3099,-75.0743,Central NJ,http://cnj.craigslist.org/,New Jersey
 18915,40.2728,-75.2563,Philadelphia,http://philadelphia.craigslist.org/,Pennsylvania
@@ -24140,7 +24140,7 @@
 12524,41.5404,-73.8979,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12526,42.1219,-73.8625,Catskills,http://catskills.craigslist.org/,New York
 12531,41.5325,-73.6628,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
-12720,41.6693,-74.894,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+12720,41.6693,-74.894,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 12724,41.719,-74.7554,Oneonta,http://oneonta.craigslist.org/,New York
 12754,41.7962,-74.7484,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
 12759,41.7789,-74.6614,Hudson Valley,http://hudsonvalley.craigslist.org/,New York
@@ -24411,12 +24411,12 @@
 18346,41.1353,-75.4079,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18350,41.1054,-75.476,Poconos,http://poconos.craigslist.org/,Pennsylvania
 18370,41.0879,-75.3483,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18401,41.616,-75.2747,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18459,41.616,-75.2747,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18401,41.616,-75.2747,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18459,41.616,-75.2747,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18463,41.377,-75.316,Poconos,http://poconos.craigslist.org/,Pennsylvania
-18540,41.4019,-75.6376,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18617,41.1746,-76.0746,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
-18618,41.3592,-76.0451,Scranton  Wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18540,41.4019,-75.6376,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18617,41.1746,-76.0746,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
+18618,41.3592,-76.0451,scranton / wilkes-barre,http://scranton.craigslist.org/,Pennsylvania
 18631,40.9871,-76.2877,Williamsport,http://williamsport.craigslist.org/,Pennsylvania
 18832,41.7135,-76.4872,Elmira-corning,http://elmira.craigslist.org/,New York
 18917,40.375,-75.2045,Lehigh Valley,http://allentown.craigslist.org/,Pennsylvania
