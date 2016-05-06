@@ -321,6 +321,7 @@ body.searchtempest-home .form-container select {
   margin-bottom:0px;
   margin-top:10px;
   margin-left:10px;
+  text-transform:capitalize;
 }
 .result .gsc-control-cse{
   padding-top:0px;
