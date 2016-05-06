@@ -58,7 +58,6 @@
 			result = cf.getNearByCitiesByDistinctCounties(where_zip, max_dist);
 			//$( ".result" ).empty();
 			for(var k=0; k<result.length; k++){
-				console.log(result[k]);
 				for(var data in result[k].cities){
 					for(var j=0; j<result[k].cities[data].length; j++){
 						gname = "searchOnlyCSE_"+i;
@@ -66,12 +65,11 @@
 						//gnames_obj["gname"] = gname;
 						//gnames_obj["city"] = result[data].city;
 						//gnames_obj["where_site"] = where_site;
-						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data][j], 'site': data};
+						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data][j], 'site': data, 'state': result[k].state};
 						i++;
 					}
 				}
 			}
-			console.log(gnames_arr);
 			return gnames_arr;
 		}
 		
