@@ -9707,18 +9707,18 @@
 32965,27.709,-80.5726,Treasure Coast,http://treasure.craigslist.org/,Florida
 32968,27.5999,-80.4382,Treasure Coast,http://treasure.craigslist.org/,Florida
 32969,27.709,-80.5726,Treasure Coast,http://treasure.craigslist.org/,Florida
-33002,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33004,26.0476,-80.1447,Miami  South Florida,http://miami.craigslist.org/,Florida
-33008,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33010,25.8325,-80.2808,Miami  South Florida,http://miami.craigslist.org/,Florida
-33011,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33012,25.8654,-80.3059,Miami  South Florida,http://miami.craigslist.org/,Florida
-33014,25.8963,-80.3063,Miami  South Florida,http://miami.craigslist.org/,Florida
-33015,25.9388,-80.3165,Miami  South Florida,http://miami.craigslist.org/,Florida
-33018,25.9098,-80.3889,Miami  South Florida,http://miami.craigslist.org/,Florida
-33021,26.0218,-80.1891,Miami  South Florida,http://miami.craigslist.org/,Florida
-33022,26.0134,-80.1442,Miami  South Florida,http://miami.craigslist.org/,Florida
-33029,25.9924,-80.4089,Miami  South Florida,http://miami.craigslist.org/,Florida
+33002,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33004,26.0476,-80.1447,Miami / South Florida,http://miami.craigslist.org/,Florida
+33008,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33010,25.8325,-80.2808,Miami / South Florida,http://miami.craigslist.org/,Florida
+33011,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33012,25.8654,-80.3059,Miami / South Florida,http://miami.craigslist.org/,Florida
+33014,25.8963,-80.3063,Miami / South Florida,http://miami.craigslist.org/,Florida
+33015,25.9388,-80.3165,Miami / South Florida,http://miami.craigslist.org/,Florida
+33018,25.9098,-80.3889,Miami / South Florida,http://miami.craigslist.org/,Florida
+33021,26.0218,-80.1891,Miami / South Florida,http://miami.craigslist.org/,Florida
+33022,26.0134,-80.1442,Miami / South Florida,http://miami.craigslist.org/,Florida
+33029,25.9924,-80.4089,Miami / South Florida,http://miami.craigslist.org/,Florida
 33033,25.4906,-80.438,Florida Keys,http://keys.craigslist.org/,Florida
 33034,25.2846,-80.6246,Florida Keys,http://keys.craigslist.org/,Florida
 33037,24.9635,-80.9613,Florida Keys,http://keys.craigslist.org/,Florida
@@ -9727,117 +9727,117 @@
 33043,24.68,-81.362,Florida Keys,http://keys.craigslist.org/,Florida
 33045,25.101,-81.5689,Florida Keys,http://keys.craigslist.org/,Florida
 33052,24.7233,-81.0632,Florida Keys,http://keys.craigslist.org/,Florida
-33054,25.9097,-80.247,Miami  South Florida,http://miami.craigslist.org/,Florida
-33055,25.9476,-80.2778,Miami  South Florida,http://miami.craigslist.org/,Florida
-33056,25.9484,-80.2479,Miami  South Florida,http://miami.craigslist.org/,Florida
-33061,26.2539,-80.1342,Miami  South Florida,http://miami.craigslist.org/,Florida
-33062,26.2343,-80.0941,Miami  South Florida,http://miami.craigslist.org/,Florida
-33063,26.2674,-80.2092,Miami  South Florida,http://miami.craigslist.org/,Florida
-33066,26.2535,-80.1775,Miami  South Florida,http://miami.craigslist.org/,Florida
-33067,26.3033,-80.2415,Miami  South Florida,http://miami.craigslist.org/,Florida
-33068,26.216,-80.2205,Miami  South Florida,http://miami.craigslist.org/,Florida
-33071,26.2435,-80.2601,Miami  South Florida,http://miami.craigslist.org/,Florida
-33072,26.2335,-80.0924,Miami  South Florida,http://miami.craigslist.org/,Florida
-33075,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33076,26.3168,-80.2753,Miami  South Florida,http://miami.craigslist.org/,Florida
-33077,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33081,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33084,26.2891,-80.1298,Miami  South Florida,http://miami.craigslist.org/,Florida
+33054,25.9097,-80.247,Miami / South Florida,http://miami.craigslist.org/,Florida
+33055,25.9476,-80.2778,Miami / South Florida,http://miami.craigslist.org/,Florida
+33056,25.9484,-80.2479,Miami / South Florida,http://miami.craigslist.org/,Florida
+33061,26.2539,-80.1342,Miami / South Florida,http://miami.craigslist.org/,Florida
+33062,26.2343,-80.0941,Miami / South Florida,http://miami.craigslist.org/,Florida
+33063,26.2674,-80.2092,Miami / South Florida,http://miami.craigslist.org/,Florida
+33066,26.2535,-80.1775,Miami / South Florida,http://miami.craigslist.org/,Florida
+33067,26.3033,-80.2415,Miami / South Florida,http://miami.craigslist.org/,Florida
+33068,26.216,-80.2205,Miami / South Florida,http://miami.craigslist.org/,Florida
+33071,26.2435,-80.2601,Miami / South Florida,http://miami.craigslist.org/,Florida
+33072,26.2335,-80.0924,Miami / South Florida,http://miami.craigslist.org/,Florida
+33075,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33076,26.3168,-80.2753,Miami / South Florida,http://miami.craigslist.org/,Florida
+33077,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33081,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33084,26.2891,-80.1298,Miami / South Florida,http://miami.craigslist.org/,Florida
 33090,25.5584,-80.4582,Florida Keys,http://keys.craigslist.org/,Florida
 33092,25.5584,-80.4582,Florida Keys,http://keys.craigslist.org/,Florida
-33093,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33102,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33107,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33109,25.7588,-80.1376,Miami  South Florida,http://miami.craigslist.org/,Florida
-33110,25.8469,-80.2083,Miami  South Florida,http://miami.craigslist.org/,Florida
-33114,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33122,25.8001,-80.281,Miami  South Florida,http://miami.craigslist.org/,Florida
-33124,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33127,25.8143,-80.2051,Miami  South Florida,http://miami.craigslist.org/,Florida
-33128,25.7756,-80.2089,Miami  South Florida,http://miami.craigslist.org/,Florida
-33129,25.7559,-80.2013,Miami  South Florida,http://miami.craigslist.org/,Florida
-33130,25.7672,-80.2059,Miami  South Florida,http://miami.craigslist.org/,Florida
-33133,25.7378,-80.2248,Miami  South Florida,http://miami.craigslist.org/,Florida
-33134,25.768,-80.2714,Miami  South Florida,http://miami.craigslist.org/,Florida
-33135,25.7664,-80.2317,Miami  South Florida,http://miami.craigslist.org/,Florida
-33138,25.8521,-80.1821,Miami  South Florida,http://miami.craigslist.org/,Florida
-33139,25.7873,-80.1564,Miami  South Florida,http://miami.craigslist.org/,Florida
-33140,25.8198,-80.1337,Miami  South Florida,http://miami.craigslist.org/,Florida
-33141,25.8486,-80.1446,Miami  South Florida,http://miami.craigslist.org/,Florida
-33144,25.7626,-80.3096,Miami  South Florida,http://miami.craigslist.org/,Florida
-33145,25.7539,-80.2253,Miami  South Florida,http://miami.craigslist.org/,Florida
-33146,25.7205,-80.2728,Miami  South Florida,http://miami.craigslist.org/,Florida
-33149,25.6921,-80.1625,Miami  South Florida,http://miami.craigslist.org/,Florida
-33150,25.8512,-80.207,Miami  South Florida,http://miami.craigslist.org/,Florida
-33151,25.8321,-80.2094,Miami  South Florida,http://miami.craigslist.org/,Florida
-33154,25.8831,-80.1321,Miami  South Florida,http://miami.craigslist.org/,Florida
-33155,25.7392,-80.3103,Miami  South Florida,http://miami.craigslist.org/,Florida
-33158,25.6364,-80.3187,Miami  South Florida,http://miami.craigslist.org/,Florida
-33159,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33162,25.9286,-80.183,Miami  South Florida,http://miami.craigslist.org/,Florida
-33165,25.7343,-80.3588,Miami  South Florida,http://miami.craigslist.org/,Florida
-33166,25.8301,-80.2926,Miami  South Florida,http://miami.craigslist.org/,Florida
-33167,25.8856,-80.2292,Miami  South Florida,http://miami.craigslist.org/,Florida
-33169,25.9441,-80.2144,Miami  South Florida,http://miami.craigslist.org/,Florida
-33170,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33172,25.7735,-80.3572,Miami  South Florida,http://miami.craigslist.org/,Florida
-33174,25.7628,-80.3611,Miami  South Florida,http://miami.craigslist.org/,Florida
-33178,25.8141,-80.3549,Miami  South Florida,http://miami.craigslist.org/,Florida
-33179,25.9571,-80.1814,Miami  South Florida,http://miami.craigslist.org/,Florida
-33180,25.9597,-80.1403,Miami  South Florida,http://miami.craigslist.org/,Florida
-33183,25.7,-80.413,Miami  South Florida,http://miami.craigslist.org/,Florida
-33184,25.7574,-80.403,Miami  South Florida,http://miami.craigslist.org/,Florida
-33185,25.7274,-80.4497,Miami  South Florida,http://miami.craigslist.org/,Florida
-33186,25.6694,-80.4085,Miami  South Florida,http://miami.craigslist.org/,Florida
-33187,25.596,-80.507,Miami  South Florida,http://miami.craigslist.org/,Florida
-33189,25.573,-80.3374,Miami  South Florida,http://miami.craigslist.org/,Florida
-33190,25.5593,-80.3483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33192,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33194,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33195,25.7729,-80.187,Miami  South Florida,http://miami.craigslist.org/,Florida
-33196,25.6615,-80.441,Miami  South Florida,http://miami.craigslist.org/,Florida
-33222,25.7577,-80.3748,Miami  South Florida,http://miami.craigslist.org/,Florida
-33231,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33233,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33234,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33242,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33243,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33255,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33257,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33261,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33269,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33280,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33283,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33299,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33301,26.1216,-80.1288,Miami  South Florida,http://miami.craigslist.org/,Florida
-33302,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33307,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33308,26.0984,-80.1822,Miami  South Florida,http://miami.craigslist.org/,Florida
-33309,26.1817,-80.1746,Miami  South Florida,http://miami.craigslist.org/,Florida
-33310,26.1443,-80.2069,Miami  South Florida,http://miami.craigslist.org/,Florida
-33312,26.0968,-80.181,Miami  South Florida,http://miami.craigslist.org/,Florida
-33313,26.1487,-80.2075,Miami  South Florida,http://miami.craigslist.org/,Florida
-33315,26.0989,-80.1541,Miami  South Florida,http://miami.craigslist.org/,Florida
-33316,26.1042,-80.126,Miami  South Florida,http://miami.craigslist.org/,Florida
-33318,26.1184,-80.252,Miami  South Florida,http://miami.craigslist.org/,Florida
-33319,26.1848,-80.2406,Miami  South Florida,http://miami.craigslist.org/,Florida
-33320,26.1625,-80.2582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33323,26.152,-80.3165,Miami  South Florida,http://miami.craigslist.org/,Florida
-33324,26.1255,-80.2644,Miami  South Florida,http://miami.craigslist.org/,Florida
-33327,26.1136,-80.417,Miami  South Florida,http://miami.craigslist.org/,Florida
-33328,26.0671,-80.2723,Miami  South Florida,http://miami.craigslist.org/,Florida
-33329,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33332,26.0596,-80.4146,Miami  South Florida,http://miami.craigslist.org/,Florida
-33334,26.1845,-80.1344,Miami  South Florida,http://miami.craigslist.org/,Florida
-33335,26.0892,-80.336,Miami  South Florida,http://miami.craigslist.org/,Florida
-33338,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33339,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33346,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33348,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33349,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33351,26.1793,-80.2746,Miami  South Florida,http://miami.craigslist.org/,Florida
-33388,26.1209,-80.2533,Miami  South Florida,http://miami.craigslist.org/,Florida
-33394,26.1221,-80.139,Miami  South Florida,http://miami.craigslist.org/,Florida
+33093,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33102,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33107,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33109,25.7588,-80.1376,Miami / South Florida,http://miami.craigslist.org/,Florida
+33110,25.8469,-80.2083,Miami / South Florida,http://miami.craigslist.org/,Florida
+33114,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33122,25.8001,-80.281,Miami / South Florida,http://miami.craigslist.org/,Florida
+33124,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33127,25.8143,-80.2051,Miami / South Florida,http://miami.craigslist.org/,Florida
+33128,25.7756,-80.2089,Miami / South Florida,http://miami.craigslist.org/,Florida
+33129,25.7559,-80.2013,Miami / South Florida,http://miami.craigslist.org/,Florida
+33130,25.7672,-80.2059,Miami / South Florida,http://miami.craigslist.org/,Florida
+33133,25.7378,-80.2248,Miami / South Florida,http://miami.craigslist.org/,Florida
+33134,25.768,-80.2714,Miami / South Florida,http://miami.craigslist.org/,Florida
+33135,25.7664,-80.2317,Miami / South Florida,http://miami.craigslist.org/,Florida
+33138,25.8521,-80.1821,Miami / South Florida,http://miami.craigslist.org/,Florida
+33139,25.7873,-80.1564,Miami / South Florida,http://miami.craigslist.org/,Florida
+33140,25.8198,-80.1337,Miami / South Florida,http://miami.craigslist.org/,Florida
+33141,25.8486,-80.1446,Miami / South Florida,http://miami.craigslist.org/,Florida
+33144,25.7626,-80.3096,Miami / South Florida,http://miami.craigslist.org/,Florida
+33145,25.7539,-80.2253,Miami / South Florida,http://miami.craigslist.org/,Florida
+33146,25.7205,-80.2728,Miami / South Florida,http://miami.craigslist.org/,Florida
+33149,25.6921,-80.1625,Miami / South Florida,http://miami.craigslist.org/,Florida
+33150,25.8512,-80.207,Miami / South Florida,http://miami.craigslist.org/,Florida
+33151,25.8321,-80.2094,Miami / South Florida,http://miami.craigslist.org/,Florida
+33154,25.8831,-80.1321,Miami / South Florida,http://miami.craigslist.org/,Florida
+33155,25.7392,-80.3103,Miami / South Florida,http://miami.craigslist.org/,Florida
+33158,25.6364,-80.3187,Miami / South Florida,http://miami.craigslist.org/,Florida
+33159,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33162,25.9286,-80.183,Miami / South Florida,http://miami.craigslist.org/,Florida
+33165,25.7343,-80.3588,Miami / South Florida,http://miami.craigslist.org/,Florida
+33166,25.8301,-80.2926,Miami / South Florida,http://miami.craigslist.org/,Florida
+33167,25.8856,-80.2292,Miami / South Florida,http://miami.craigslist.org/,Florida
+33169,25.9441,-80.2144,Miami / South Florida,http://miami.craigslist.org/,Florida
+33170,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33172,25.7735,-80.3572,Miami / South Florida,http://miami.craigslist.org/,Florida
+33174,25.7628,-80.3611,Miami / South Florida,http://miami.craigslist.org/,Florida
+33178,25.8141,-80.3549,Miami / South Florida,http://miami.craigslist.org/,Florida
+33179,25.9571,-80.1814,Miami / South Florida,http://miami.craigslist.org/,Florida
+33180,25.9597,-80.1403,Miami / South Florida,http://miami.craigslist.org/,Florida
+33183,25.7,-80.413,Miami / South Florida,http://miami.craigslist.org/,Florida
+33184,25.7574,-80.403,Miami / South Florida,http://miami.craigslist.org/,Florida
+33185,25.7274,-80.4497,Miami / South Florida,http://miami.craigslist.org/,Florida
+33186,25.6694,-80.4085,Miami / South Florida,http://miami.craigslist.org/,Florida
+33187,25.596,-80.507,Miami / South Florida,http://miami.craigslist.org/,Florida
+33189,25.573,-80.3374,Miami / South Florida,http://miami.craigslist.org/,Florida
+33190,25.5593,-80.3483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33192,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33194,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33195,25.7729,-80.187,Miami / South Florida,http://miami.craigslist.org/,Florida
+33196,25.6615,-80.441,Miami / South Florida,http://miami.craigslist.org/,Florida
+33222,25.7577,-80.3748,Miami / South Florida,http://miami.craigslist.org/,Florida
+33231,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33233,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33234,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33242,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33243,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33255,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33257,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33261,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33269,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33280,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33283,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33299,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33301,26.1216,-80.1288,Miami / South Florida,http://miami.craigslist.org/,Florida
+33302,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33307,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33308,26.0984,-80.1822,Miami / South Florida,http://miami.craigslist.org/,Florida
+33309,26.1817,-80.1746,Miami / South Florida,http://miami.craigslist.org/,Florida
+33310,26.1443,-80.2069,Miami / South Florida,http://miami.craigslist.org/,Florida
+33312,26.0968,-80.181,Miami / South Florida,http://miami.craigslist.org/,Florida
+33313,26.1487,-80.2075,Miami / South Florida,http://miami.craigslist.org/,Florida
+33315,26.0989,-80.1541,Miami / South Florida,http://miami.craigslist.org/,Florida
+33316,26.1042,-80.126,Miami / South Florida,http://miami.craigslist.org/,Florida
+33318,26.1184,-80.252,Miami / South Florida,http://miami.craigslist.org/,Florida
+33319,26.1848,-80.2406,Miami / South Florida,http://miami.craigslist.org/,Florida
+33320,26.1625,-80.2582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33323,26.152,-80.3165,Miami / South Florida,http://miami.craigslist.org/,Florida
+33324,26.1255,-80.2644,Miami / South Florida,http://miami.craigslist.org/,Florida
+33327,26.1136,-80.417,Miami / South Florida,http://miami.craigslist.org/,Florida
+33328,26.0671,-80.2723,Miami / South Florida,http://miami.craigslist.org/,Florida
+33329,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33332,26.0596,-80.4146,Miami / South Florida,http://miami.craigslist.org/,Florida
+33334,26.1845,-80.1344,Miami / South Florida,http://miami.craigslist.org/,Florida
+33335,26.0892,-80.336,Miami / South Florida,http://miami.craigslist.org/,Florida
+33338,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33339,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33346,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33348,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33349,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33351,26.1793,-80.2746,Miami / South Florida,http://miami.craigslist.org/,Florida
+33388,26.1209,-80.2533,Miami / South Florida,http://miami.craigslist.org/,Florida
+33394,26.1221,-80.139,Miami / South Florida,http://miami.craigslist.org/,Florida
 33401,26.7165,-80.0679,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33402,26.6459,-80.4303,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33405,26.67,-80.0582,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
@@ -21092,60 +21092,60 @@
 32967,27.6972,-80.4416,Treasure Coast,http://treasure.craigslist.org/,Florida
 32970,27.7529,-80.4743,Treasure Coast,http://treasure.craigslist.org/,Florida
 32976,27.8679,-80.5416,Treasure Coast,http://treasure.craigslist.org/,Florida
-33009,25.985,-80.1407,Miami  South Florida,http://miami.craigslist.org/,Florida
-33013,25.8594,-80.2725,Miami  South Florida,http://miami.craigslist.org/,Florida
-33017,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33019,26.007,-80.1219,Miami  South Florida,http://miami.craigslist.org/,Florida
-33023,25.9894,-80.2153,Miami  South Florida,http://miami.craigslist.org/,Florida
-33025,25.9921,-80.2712,Miami  South Florida,http://miami.craigslist.org/,Florida
-33027,25.9974,-80.3248,Miami  South Florida,http://miami.craigslist.org/,Florida
-33028,26.0185,-80.3449,Miami  South Florida,http://miami.craigslist.org/,Florida
+33009,25.985,-80.1407,Miami / South Florida,http://miami.craigslist.org/,Florida
+33013,25.8594,-80.2725,Miami / South Florida,http://miami.craigslist.org/,Florida
+33017,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33019,26.007,-80.1219,Miami / South Florida,http://miami.craigslist.org/,Florida
+33023,25.9894,-80.2153,Miami / South Florida,http://miami.craigslist.org/,Florida
+33025,25.9921,-80.2712,Miami / South Florida,http://miami.craigslist.org/,Florida
+33027,25.9974,-80.3248,Miami / South Florida,http://miami.craigslist.org/,Florida
+33028,26.0185,-80.3449,Miami / South Florida,http://miami.craigslist.org/,Florida
 33032,25.5303,-80.3918,Florida Keys,http://keys.craigslist.org/,Florida
 33035,25.4573,-80.4572,Florida Keys,http://keys.craigslist.org/,Florida
 33036,24.9233,-80.63,Florida Keys,http://keys.craigslist.org/,Florida
 33040,24.6557,-81.3824,Florida Keys,http://keys.craigslist.org/,Florida
 33051,24.7234,-81.0203,Florida Keys,http://keys.craigslist.org/,Florida
-33064,26.2785,-80.1157,Miami  South Florida,http://miami.craigslist.org/,Florida
-33069,26.2288,-80.1635,Miami  South Florida,http://miami.craigslist.org/,Florida
+33064,26.2785,-80.1157,Miami / South Florida,http://miami.craigslist.org/,Florida
+33069,26.2288,-80.1635,Miami / South Florida,http://miami.craigslist.org/,Florida
 33070,25.0108,-80.5218,Florida Keys,http://keys.craigslist.org/,Florida
-33073,26.2997,-80.181,Miami  South Florida,http://miami.craigslist.org/,Florida
-33082,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33097,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33111,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33116,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33121,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33125,25.7825,-80.2341,Miami  South Florida,http://miami.craigslist.org/,Florida
-33126,25.7763,-80.2919,Miami  South Florida,http://miami.craigslist.org/,Florida
-33131,25.7629,-80.1895,Miami  South Florida,http://miami.craigslist.org/,Florida
-33132,25.7867,-80.18,Miami  South Florida,http://miami.craigslist.org/,Florida
-33142,25.813,-80.232,Miami  South Florida,http://miami.craigslist.org/,Florida
-33147,25.8507,-80.2366,Miami  South Florida,http://miami.craigslist.org/,Florida
-33148,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33153,25.8655,-80.1936,Miami  South Florida,http://miami.craigslist.org/,Florida
-33156,25.6682,-80.2973,Miami  South Florida,http://miami.craigslist.org/,Florida
-33157,25.6062,-80.3426,Miami  South Florida,http://miami.craigslist.org/,Florida
-33161,25.8934,-80.1758,Miami  South Florida,http://miami.craigslist.org/,Florida
-33168,25.8902,-80.2101,Miami  South Florida,http://miami.craigslist.org/,Florida
-33173,25.6992,-80.3618,Miami  South Florida,http://miami.craigslist.org/,Florida
-33175,25.7341,-80.4068,Miami  South Florida,http://miami.craigslist.org/,Florida
-33181,25.8965,-80.157,Miami  South Florida,http://miami.craigslist.org/,Florida
-33182,25.7877,-80.4166,Miami  South Florida,http://miami.craigslist.org/,Florida
-33193,25.6964,-80.4401,Miami  South Florida,http://miami.craigslist.org/,Florida
-33238,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33239,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33247,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33256,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33296,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33303,26.1969,-80.0952,Miami  South Florida,http://miami.craigslist.org/,Florida
-33306,26.1656,-80.1118,Miami  South Florida,http://miami.craigslist.org/,Florida
-33311,26.1421,-80.1728,Miami  South Florida,http://miami.craigslist.org/,Florida
-33317,26.1122,-80.2264,Miami  South Florida,http://miami.craigslist.org/,Florida
-33325,26.1097,-80.3215,Miami  South Florida,http://miami.craigslist.org/,Florida
-33330,26.0663,-80.3339,Miami  South Florida,http://miami.craigslist.org/,Florida
-33336,26.1219,-80.1436,Miami  South Florida,http://miami.craigslist.org/,Florida
-33340,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33355,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33359,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
+33073,26.2997,-80.181,Miami / South Florida,http://miami.craigslist.org/,Florida
+33082,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33097,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33111,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33116,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33121,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33125,25.7825,-80.2341,Miami / South Florida,http://miami.craigslist.org/,Florida
+33126,25.7763,-80.2919,Miami / South Florida,http://miami.craigslist.org/,Florida
+33131,25.7629,-80.1895,Miami / South Florida,http://miami.craigslist.org/,Florida
+33132,25.7867,-80.18,Miami / South Florida,http://miami.craigslist.org/,Florida
+33142,25.813,-80.232,Miami / South Florida,http://miami.craigslist.org/,Florida
+33147,25.8507,-80.2366,Miami / South Florida,http://miami.craigslist.org/,Florida
+33148,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33153,25.8655,-80.1936,Miami / South Florida,http://miami.craigslist.org/,Florida
+33156,25.6682,-80.2973,Miami / South Florida,http://miami.craigslist.org/,Florida
+33157,25.6062,-80.3426,Miami / South Florida,http://miami.craigslist.org/,Florida
+33161,25.8934,-80.1758,Miami / South Florida,http://miami.craigslist.org/,Florida
+33168,25.8902,-80.2101,Miami / South Florida,http://miami.craigslist.org/,Florida
+33173,25.6992,-80.3618,Miami / South Florida,http://miami.craigslist.org/,Florida
+33175,25.7341,-80.4068,Miami / South Florida,http://miami.craigslist.org/,Florida
+33181,25.8965,-80.157,Miami / South Florida,http://miami.craigslist.org/,Florida
+33182,25.7877,-80.4166,Miami / South Florida,http://miami.craigslist.org/,Florida
+33193,25.6964,-80.4401,Miami / South Florida,http://miami.craigslist.org/,Florida
+33238,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33239,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33247,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33256,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33296,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33303,26.1969,-80.0952,Miami / South Florida,http://miami.craigslist.org/,Florida
+33306,26.1656,-80.1118,Miami / South Florida,http://miami.craigslist.org/,Florida
+33311,26.1421,-80.1728,Miami / South Florida,http://miami.craigslist.org/,Florida
+33317,26.1122,-80.2264,Miami / South Florida,http://miami.craigslist.org/,Florida
+33325,26.1097,-80.3215,Miami / South Florida,http://miami.craigslist.org/,Florida
+33330,26.0663,-80.3339,Miami / South Florida,http://miami.craigslist.org/,Florida
+33336,26.1219,-80.1436,Miami / South Florida,http://miami.craigslist.org/,Florida
+33340,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33355,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33359,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
 33404,26.7832,-80.0638,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33409,26.7162,-80.0965,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33416,26.6654,-80.0929,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
@@ -25053,31 +25053,31 @@
 32960,27.633,-80.4031,Treasure Coast,http://treasure.craigslist.org/,Florida
 32964,27.709,-80.5726,Treasure Coast,http://treasure.craigslist.org/,Florida
 33001,24.8306,-80.8049,Florida Keys,http://keys.craigslist.org/,Florida
-33016,25.8803,-80.3368,Miami  South Florida,http://miami.craigslist.org/,Florida
-33020,26.0161,-80.1517,Miami  South Florida,http://miami.craigslist.org/,Florida
+33016,25.8803,-80.3368,Miami / South Florida,http://miami.craigslist.org/,Florida
+33020,26.0161,-80.1517,Miami / South Florida,http://miami.craigslist.org/,Florida
 33030,25.4766,-80.4839,Florida Keys,http://keys.craigslist.org/,Florida
 33031,25.5323,-80.5075,Florida Keys,http://keys.craigslist.org/,Florida
 33041,25.101,-81.5689,Florida Keys,http://keys.craigslist.org/,Florida
 33050,24.7279,-81.0386,Florida Keys,http://keys.craigslist.org/,Florida
-33074,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33083,26.1457,-80.4483,Miami  South Florida,http://miami.craigslist.org/,Florida
-33101,25.7791,-80.1978,Miami  South Florida,http://miami.craigslist.org/,Florida
-33112,25.7964,-80.3849,Miami  South Florida,http://miami.craigslist.org/,Florida
-33137,25.8156,-80.1897,Miami  South Florida,http://miami.craigslist.org/,Florida
-33143,25.7022,-80.2978,Miami  South Florida,http://miami.craigslist.org/,Florida
-33152,25.7955,-80.3129,Miami  South Florida,http://miami.craigslist.org/,Florida
-33164,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33176,25.6574,-80.3627,Miami  South Florida,http://miami.craigslist.org/,Florida
-33177,25.5968,-80.4046,Miami  South Florida,http://miami.craigslist.org/,Florida
-33199,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33245,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33265,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
-33305,26.1497,-80.1229,Miami  South Florida,http://miami.craigslist.org/,Florida
-33314,26.0697,-80.2246,Miami  South Florida,http://miami.craigslist.org/,Florida
-33321,26.212,-80.2696,Miami  South Florida,http://miami.craigslist.org/,Florida
-33326,26.1158,-80.3681,Miami  South Florida,http://miami.craigslist.org/,Florida
-33331,26.048,-80.3749,Miami  South Florida,http://miami.craigslist.org/,Florida
-33345,26.1654,-80.2959,Miami  South Florida,http://miami.craigslist.org/,Florida
+33074,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33083,26.1457,-80.4483,Miami / South Florida,http://miami.craigslist.org/,Florida
+33101,25.7791,-80.1978,Miami / South Florida,http://miami.craigslist.org/,Florida
+33112,25.7964,-80.3849,Miami / South Florida,http://miami.craigslist.org/,Florida
+33137,25.8156,-80.1897,Miami / South Florida,http://miami.craigslist.org/,Florida
+33143,25.7022,-80.2978,Miami / South Florida,http://miami.craigslist.org/,Florida
+33152,25.7955,-80.3129,Miami / South Florida,http://miami.craigslist.org/,Florida
+33164,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33176,25.6574,-80.3627,Miami / South Florida,http://miami.craigslist.org/,Florida
+33177,25.5968,-80.4046,Miami / South Florida,http://miami.craigslist.org/,Florida
+33199,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33245,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33265,25.5584,-80.4582,Miami / South Florida,http://miami.craigslist.org/,Florida
+33305,26.1497,-80.1229,Miami / South Florida,http://miami.craigslist.org/,Florida
+33314,26.0697,-80.2246,Miami / South Florida,http://miami.craigslist.org/,Florida
+33321,26.212,-80.2696,Miami / South Florida,http://miami.craigslist.org/,Florida
+33326,26.1158,-80.3681,Miami / South Florida,http://miami.craigslist.org/,Florida
+33331,26.048,-80.3749,Miami / South Florida,http://miami.craigslist.org/,Florida
+33345,26.1654,-80.2959,Miami / South Florida,http://miami.craigslist.org/,Florida
 33403,26.8035,-80.0756,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33408,26.8289,-80.0603,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33417,26.7197,-80.1248,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
@@ -25536,9 +25536,9 @@
 32721,28.9973,-81.2995,Daytona Beach,http://daytona.craigslist.org/,Florida
 32897,28.5663,-81.2608,Orlando,http://orlando.craigslist.org/,Florida
 32971,27.709,-80.5726,Treasure Coast,http://treasure.craigslist.org/,Florida
-33060,26.2315,-80.1235,Miami  South Florida,http://miami.craigslist.org/,Florida
-33304,26.1387,-80.1218,Miami  South Florida,http://miami.craigslist.org/,Florida
-33322,26.1502,-80.2745,Miami  South Florida,http://miami.craigslist.org/,Florida
+33060,26.2315,-80.1235,Miami / South Florida,http://miami.craigslist.org/,Florida
+33304,26.1387,-80.1218,Miami / South Florida,http://miami.craigslist.org/,Florida
+33322,26.1502,-80.2745,Miami / South Florida,http://miami.craigslist.org/,Florida
 33412,26.8055,-80.2482,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33435,26.5254,-80.061,West Palm Beach,http://westpalmbeach.craigslist.org/,Florida
 33455,27.0813,-80.1509,Treasure Coast,http://treasure.craigslist.org/,Florida
