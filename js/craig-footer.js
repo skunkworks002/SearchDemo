@@ -1,4 +1,5 @@
 var gnames = gNames();
+console.log(gnames);
 for(var i=0; i<gnames.length; i++){
 	$(".result").append('<h3 class="'+gnames[i].gname+'">'+gnames[i].state+' - '+gnames[i].city+'</h3>');
 	$(".result").append('<gcse:searchresults-only gname="'+gnames[i].gname+'"></gcse:searchresults-only>');
