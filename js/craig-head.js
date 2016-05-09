@@ -59,17 +59,16 @@
 			//$( ".result" ).empty();
 			for(var k=0; k<result.length; k++){
 				for(var data in result[k].cities){
-					for(var j=0; j<result[k].cities[data].length; j++){
 						gname = "searchOnlyCSE_"+i;
-						where_site = extractDomain(data);
+						where_site = extractDomain(result[k].cities[data].url);
 						//gnames_obj["gname"] = gname;
 						//gnames_obj["city"] = result[data].city;
 						//gnames_obj["where_site"] = where_site;
-						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data][j], 'site': data, 'state': result[k].state};
+						gnames_arr[i] = {'gname':gname, 'city':result[k].cities[data].name, 'site': where_site, 'state': result[k].state, 'distance': result[k].cities[data].distance};
 						i++;
-					}
 				}
 			}
+			gnames_arr.sort(function(a,b) {return (a.distance > b.distance) ? 1 : ((b.distance > a.distance) ? -1 : 0);} );
 			return gnames_arr;
 		}
 		
