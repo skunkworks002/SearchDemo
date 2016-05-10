@@ -42042,3 +42042,24 @@
 32955,28.3134,-80.7319,Space Coast,http://spacecoast.craigslist.org/,Florida
 33026,26.0229,-80.2974,Miami  South Florida,http://miami.craigslist.org/,Florida
 33160,25.9449,-80.1391,Miami  South Florida,http://miami.craigslist.org/,Florida
+13312,43.8187,-75.4803,Watertown,http://watertown.craigslist.org/,New York
+15780,40.9161,-79.0568,Altoona-johnstown,http://altoona.craigslist.org/,Pennsylvania
+20206,38.8933,-77.0146,Washington,http://washingtondc.craigslist.org/,District of Columbia
+20306,38.8933,-77.0146,Washington,http://washingtondc.craigslist.org/,District of Columbia
+20910,38.9982,-77.0338,Washington,http://washingtondc.craigslist.org/,District of Columbia
+25312,38.4096,-81.6747,Charleston ,http://charlestonwv.craigslist.org/,West Virginia
+25396,38.2968,-81.5547,Charleston ,http://charlestonwv.craigslist.org/,West Virginia
+30535,34.5756,-83.5696,Athens,http://athensga.craigslist.org/,Georgia
+32361,30.3422,-83.8402,Tallahassee,http://tallahassee.craigslist.org/,Florida
+32794,28.5663,-81.2608,Orlando,http://orlando.craigslist.org/,Florida
+32896,28.5419,-81.3791,Orlando,http://orlando.craigslist.org/,Florida
+33065,26.2729,-80.2603,Miami  South Florida,http://miami.craigslist.org/,Florida
+33119,25.7845,-80.132,Miami  South Florida,http://miami.craigslist.org/,Florida
+33266,25.5584,-80.4582,Miami  South Florida,http://miami.craigslist.org/,Florida
+06279,41.8966,-72.2622,Hartford,http://hartford.craigslist.org/,Connecticut
+17309,39.8608,-76.4673,Lancaster,http://lancaster.craigslist.org/,Pennsylvania
+24882,37.6197,-81.7586,Southern WV,http://swv.craigslist.org/,West Virginia
+25026,38.4908,-81.3928,Charleston ,http://charlestonwv.craigslist.org/,West Virginia
+30568,34.9576,-83.3901,greenville / upstate,http://greenville.craigslist.org/,South Carolina
+32323,29.8826,-84.5964,Tallahassee,http://tallahassee.craigslist.org/,Florida
+16861,40.8652,-78.5237,Altoona-johnstown,http://altoona.craigslist.org/,Pennsylvania
