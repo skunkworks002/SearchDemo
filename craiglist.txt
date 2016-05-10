@@ -8255,7 +8255,7 @@
 28816,35.6203,-82.5286,Asheville,http://asheville.craigslist.org/,North Carolina
 28901,35.1959,-83.8228,Knoxville,http://knoxville.craigslist.org/,Tennessee
 28902,35.0261,-83.9567,Knoxville,http://knoxville.craigslist.org/,Tennessee
-28903,35.0944,-84.0359,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+28903,35.0944,-84.0359,Northwest GA,http://nwga.craigslist.org/,Georgia
 28904,35.0417,-83.7867,Knoxville,http://knoxville.craigslist.org/,Tennessee
 28905,35.1475,-83.9381,Knoxville,http://knoxville.craigslist.org/,Tennessee
 28906,35.1312,-84.0388,Knoxville,http://knoxville.craigslist.org/,Tennessee
@@ -8266,7 +8266,7 @@
 29030,33.5703,-80.7081,Columbia,http://columbia.craigslist.org/,South Carolina
 29033,33.9626,-81.0671,Columbia,http://columbia.craigslist.org/,South Carolina
 29036,34.1312,-81.3318,Columbia,http://columbia.craigslist.org/,South Carolina
-29037,34.1856,-81.8644,Augusta,http://augusta.craigslist.org/,G.org/ia
+29037,34.1856,-81.8644,Augusta,http://augusta.craigslist.org/,Georgia
 29039,33.4275,-80.8857,Columbia,http://columbia.craigslist.org/,South Carolina
 29040,34.0144,-80.4665,Columbia,http://columbia.craigslist.org/,South Carolina
 29042,33.3209,-81.1407,Columbia,http://columbia.craigslist.org/,South Carolina
@@ -8298,7 +8298,7 @@
 29080,34.0526,-80.0988,Florence,http://florencesc.craigslist.org/,South Carolina
 29102,33.6184,-80.2116,Florence,http://florencesc.craigslist.org/,South Carolina
 29104,33.9502,-80.2173,Florence,http://florencesc.craigslist.org/,South Carolina
-29105,33.8084,-81.5956,Augusta,http://augusta.craigslist.org/,G.org/ia
+29105,33.8084,-81.5956,Augusta,http://augusta.craigslist.org/,Georgia
 29108,34.2847,-81.6157,Columbia,http://columbia.craigslist.org/,South Carolina
 29112,33.6211,-81.0601,Columbia,http://columbia.craigslist.org/,South Carolina
 29114,33.9285,-79.9153,Florence,http://florencesc.craigslist.org/,South Carolina
@@ -8308,7 +8308,7 @@
 29128,34.1085,-80.4945,Columbia,http://columbia.craigslist.org/,South Carolina
 29130,34.3167,-80.9288,Columbia,http://columbia.craigslist.org/,South Carolina
 29135,33.6967,-80.8678,Columbia,http://columbia.craigslist.org/,South Carolina
-29138,34.0175,-81.7754,Augusta,http://augusta.craigslist.org/,G.org/ia
+29138,34.0175,-81.7754,Augusta,http://augusta.craigslist.org/,Georgia
 29142,33.4835,-80.4805,Columbia,http://columbia.craigslist.org/,South Carolina
 29143,33.6884,-80.2081,Florence,http://florencesc.craigslist.org/,South Carolina
 29150,33.9137,-80.3542,Columbia,http://columbia.craigslist.org/,South Carolina
@@ -8502,7 +8502,7 @@
 29625,34.5271,-82.7087,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29626,34.4596,-82.7614,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29627,34.5087,-82.5101,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-29628,34.0999,-82.5805,Athens,http://athensga.craigslist.org/,G.org/ia
+29628,34.0999,-82.5805,Athens,http://athensga.craigslist.org/,Georgia
 29630,34.7401,-82.7947,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29631,34.6831,-82.825,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29632,34.8474,-82.7101,greenville / upstate,http://greenville.craigslist.org/,South Carolina
@@ -8525,12 +8525,12 @@
 29656,34.6252,-82.7654,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29657,34.7872,-82.6974,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29658,34.7634,-83.2776,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-29659,34.2213,-82.6318,Athens,http://athensga.craigslist.org/,G.org/ia
+29659,34.2213,-82.6318,Athens,http://athensga.craigslist.org/,Georgia
 29661,35.0296,-82.5136,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29662,34.7807,-82.3035,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29664,34.8541,-83.1134,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29665,34.7247,-82.9106,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-29666,34.1652,-82.0292,Augusta,http://augusta.craigslist.org/,G.org/ia
+29666,34.1652,-82.0292,Augusta,http://augusta.craigslist.org/,Georgia
 29667,34.7648,-82.7567,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29669,34.6461,-82.4673,greenville / upstate,http://greenville.craigslist.org/,South Carolina
 29670,34.6369,-82.7406,greenville / upstate,http://greenville.craigslist.org/,South Carolina
@@ -8573,35 +8573,35 @@
 29728,34.7722,-80.3966,Charlotte,http://charlotte.craigslist.org/,North Carolina
 29744,34.9739,-80.8518,Charlotte,http://charlotte.craigslist.org/,North Carolina
 29745,34.9947,-81.2245,Charlotte,http://charlotte.craigslist.org/,North Carolina
-29801,33.553,-81.7194,Augusta,http://augusta.craigslist.org/,G.org/ia
-29802,33.7235,-81.5907,Augusta,http://augusta.craigslist.org/,G.org/ia
-29803,33.5059,-81.6951,Augusta,http://augusta.craigslist.org/,G.org/ia
-29804,33.5377,-81.5999,Augusta,http://augusta.craigslist.org/,G.org/ia
-29805,33.6993,-81.6465,Augusta,http://augusta.craigslist.org/,G.org/ia
-29808,33.5377,-81.5999,Augusta,http://augusta.craigslist.org/,G.org/ia
-29809,33.413,-81.69,Augusta,http://augusta.craigslist.org/,G.org/ia
-29810,33.0077,-81.3203,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29812,33.2335,-81.3523,Augusta,http://augusta.craigslist.org/,G.org/ia
-29813,33.2917,-81.4827,Augusta,http://augusta.craigslist.org/,G.org/ia
-29816,33.497,-81.8509,Augusta,http://augusta.craigslist.org/,G.org/ia
-29817,33.3645,-81.2718,Augusta,http://augusta.craigslist.org/,G.org/ia
-29819,34.0326,-82.2027,Augusta,http://augusta.craigslist.org/,G.org/ia
-29821,33.6505,-82.1488,Augusta,http://augusta.craigslist.org/,G.org/ia
-29826,33.386,-81.3785,Augusta,http://augusta.craigslist.org/,G.org/ia
-29829,33.563,-81.8147,Augusta,http://augusta.craigslist.org/,G.org/ia
-29834,33.4979,-81.8445,Augusta,http://augusta.craigslist.org/,G.org/ia
-29835,33.9146,-82.2719,Augusta,http://augusta.craigslist.org/,G.org/ia
-29836,33.1093,-81.5003,Augusta,http://augusta.craigslist.org/,G.org/ia
-29839,33.5073,-81.5992,Augusta,http://augusta.craigslist.org/,G.org/ia
-29840,34.0065,-82.5324,Augusta,http://augusta.craigslist.org/,G.org/ia
-29843,33.1836,-81.164,Augusta,http://augusta.craigslist.org/,G.org/ia
-29845,33.8329,-82.248,Augusta,http://augusta.craigslist.org/,G.org/ia
-29846,33.0241,-81.2258,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29848,33.9961,-82.151,Augusta,http://augusta.craigslist.org/,G.org/ia
-29850,33.5458,-81.6862,Augusta,http://augusta.craigslist.org/,G.org/ia
-29860,33.6028,-81.9748,Augusta,http://augusta.craigslist.org/,G.org/ia
-29861,33.5377,-81.5999,Augusta,http://augusta.craigslist.org/,G.org/ia
-29899,33.8356,-82.32,Augusta,http://augusta.craigslist.org/,G.org/ia
+29801,33.553,-81.7194,Augusta,http://augusta.craigslist.org/,Georgia
+29802,33.7235,-81.5907,Augusta,http://augusta.craigslist.org/,Georgia
+29803,33.5059,-81.6951,Augusta,http://augusta.craigslist.org/,Georgia
+29804,33.5377,-81.5999,Augusta,http://augusta.craigslist.org/,Georgia
+29805,33.6993,-81.6465,Augusta,http://augusta.craigslist.org/,Georgia
+29808,33.5377,-81.5999,Augusta,http://augusta.craigslist.org/,Georgia
+29809,33.413,-81.69,Augusta,http://augusta.craigslist.org/,Georgia
+29810,33.0077,-81.3203,Statesboro,http://statesboro.craigslist.org/,Georgia
+29812,33.2335,-81.3523,Augusta,http://augusta.craigslist.org/,Georgia
+29813,33.2917,-81.4827,Augusta,http://augusta.craigslist.org/,Georgia
+29816,33.497,-81.8509,Augusta,http://augusta.craigslist.org/,Georgia
+29817,33.3645,-81.2718,Augusta,http://augusta.craigslist.org/,Georgia
+29819,34.0326,-82.2027,Augusta,http://augusta.craigslist.org/,Georgia
+29821,33.6505,-82.1488,Augusta,http://augusta.craigslist.org/,Georgia
+29826,33.386,-81.3785,Augusta,http://augusta.craigslist.org/,Georgia
+29829,33.563,-81.8147,Augusta,http://augusta.craigslist.org/,Georgia
+29834,33.4979,-81.8445,Augusta,http://augusta.craigslist.org/,Georgia
+29835,33.9146,-82.2719,Augusta,http://augusta.craigslist.org/,Georgia
+29836,33.1093,-81.5003,Augusta,http://augusta.craigslist.org/,Georgia
+29839,33.5073,-81.5992,Augusta,http://augusta.craigslist.org/,Georgia
+29840,34.0065,-82.5324,Augusta,http://augusta.craigslist.org/,Georgia
+29843,33.1836,-81.164,Augusta,http://augusta.craigslist.org/,Georgia
+29845,33.8329,-82.248,Augusta,http://augusta.craigslist.org/,Georgia
+29846,33.0241,-81.2258,Statesboro,http://statesboro.craigslist.org/,Georgia
+29848,33.9961,-82.151,Augusta,http://augusta.craigslist.org/,Georgia
+29850,33.5458,-81.6862,Augusta,http://augusta.craigslist.org/,Georgia
+29860,33.6028,-81.9748,Augusta,http://augusta.craigslist.org/,Georgia
+29861,33.5377,-81.5999,Augusta,http://augusta.craigslist.org/,Georgia
+29899,33.8356,-82.32,Augusta,http://augusta.craigslist.org/,Georgia
 29901,32.4244,-80.5653,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29902,32.4047,-80.6531,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29903,32.444,-80.7352,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
@@ -8611,759 +8611,759 @@
 29907,32.4541,-80.6003,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29909,32.3301,-80.8435,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29910,32.2513,-80.8721,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29911,32.9413,-81.1807,Statesboro,http://statesboro.craigslist.org/,G.org/ia
+29911,32.9413,-81.1807,Statesboro,http://statesboro.craigslist.org/,Georgia
 29912,32.5827,-80.9307,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29913,32.9299,-81.1846,Statesboro,http://statesboro.craigslist.org/,G.org/ia
+29913,32.9299,-81.1846,Statesboro,http://statesboro.craigslist.org/,Georgia
 29914,32.5527,-80.677,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29915,32.1145,-80.8686,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29916,32.723,-80.9634,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29918,32.7375,-81.2178,Statesboro,http://statesboro.craigslist.org/,G.org/ia
+29918,32.7375,-81.2178,Statesboro,http://statesboro.craigslist.org/,Georgia
 29920,32.3716,-80.5383,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29921,32.7182,-81.2071,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29922,32.6007,-81.2396,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29923,32.7888,-81.1269,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29924,32.8729,-81.0973,Statesboro,http://statesboro.craigslist.org/,G.org/ia
+29921,32.7182,-81.2071,Statesboro,http://statesboro.craigslist.org/,Georgia
+29922,32.6007,-81.2396,Statesboro,http://statesboro.craigslist.org/,Georgia
+29923,32.7888,-81.1269,Statesboro,http://statesboro.craigslist.org/,Georgia
+29924,32.8729,-81.0973,Statesboro,http://statesboro.craigslist.org/,Georgia
 29925,32.2132,-80.7997,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29926,32.2077,-80.7476,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29927,32.2635,-81.0669,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
+29927,32.2635,-81.0669,savannah / hinesville,http://savannah.craigslist.org/,Georgia
 29928,32.1665,-80.7569,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29929,32.9503,-80.8916,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29931,32.5384,-80.7026,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29932,32.7888,-81.1269,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29933,32.7888,-81.1269,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29934,32.5931,-81.1078,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
+29932,32.7888,-81.1269,Statesboro,http://statesboro.craigslist.org/,Georgia
+29933,32.7888,-81.1269,Statesboro,http://statesboro.craigslist.org/,Georgia
+29934,32.5931,-81.1078,savannah / hinesville,http://savannah.craigslist.org/,Georgia
 29935,32.3874,-80.6844,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29936,32.4868,-80.9257,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29938,32.3906,-80.661,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29939,32.6786,-81.2455,Statesboro,http://statesboro.craigslist.org/,G.org/ia
+29939,32.6786,-81.2455,Statesboro,http://statesboro.craigslist.org/,Georgia
 29940,32.5693,-80.7192,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29941,32.5431,-80.8126,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-29943,32.468,-81.1667,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-29944,32.8349,-81.0288,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30003,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30004,34.1124,-84.302,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30006,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30007,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30009,34.077,-84.3033,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30011,34.0191,-83.8261,Athens,http://athensga.craigslist.org/,G.org/ia
-30012,33.7192,-84.0021,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30013,33.6436,-83.9684,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30015,33.5558,-83.8649,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30016,33.5146,-83.8626,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30017,33.8901,-83.9632,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30018,33.718,-83.8015,Athens,http://athensga.craigslist.org/,G.org/ia
-30019,33.9883,-83.8795,Athens,http://athensga.craigslist.org/,G.org/ia
-30021,33.8101,-84.2388,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30022,34.0268,-84.2422,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30023,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30024,34.0425,-84.0262,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30025,33.6791,-83.6835,Athens,http://athensga.craigslist.org/,G.org/ia
-30026,33.963,-84.0923,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30028,34.2897,-84.1796,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30029,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30030,33.7699,-84.295,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30031,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30032,33.7408,-84.2632,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30033,33.8123,-84.2819,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30034,33.6954,-84.2489,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30035,33.7278,-84.2143,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30036,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30037,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30038,33.6823,-84.161,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30039,33.8178,-84.0229,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30040,34.2321,-84.158,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30043,34.0031,-84.0126,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30044,33.9418,-84.0706,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30047,33.8656,-84.0725,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30055,33.4314,-83.7908,Athens,http://athensga.craigslist.org/,G.org/ia
-30061,33.9328,-84.556,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30062,34.0025,-84.4633,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30065,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30068,33.9679,-84.4385,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30071,33.9381,-84.1972,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30072,33.7906,-84.2053,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30073,33.7034,-84.2573,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30079,33.7934,-84.2585,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30080,33.8796,-84.5023,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30081,33.8588,-84.7106,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30082,33.8631,-84.5382,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30083,33.7942,-84.2018,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30084,33.857,-84.216,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30085,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30086,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30090,33.9525,-84.5471,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30094,33.6111,-84.0683,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30097,34.026,-84.147,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30101,34.0756,-84.6477,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30102,34.0707,-84.5894,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30103,34.3595,-84.9176,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30104,34.0666,-85.0696,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30105,34.4411,-85.1843,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30106,33.8369,-84.6307,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30107,34.3393,-84.3758,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30108,33.5373,-85.2533,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30109,33.6534,-85.1362,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30111,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30112,33.5809,-85.0792,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30113,33.8283,-85.1506,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30114,34.2505,-84.4909,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30115,34.1993,-84.4199,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30116,33.6045,-85.0499,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30121,34.2079,-84.7673,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30123,34.2442,-84.8457,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30124,34.1167,-85.3379,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30132,33.9163,-84.8278,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30134,33.7606,-84.7477,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30135,33.6989,-84.7454,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30137,34.12,-84.757,Atlanta,http://atlanta.craigslist.org/,G.org/ia
+29943,32.468,-81.1667,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+29944,32.8349,-81.0288,Statesboro,http://statesboro.craigslist.org/,Georgia
+30003,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,Georgia
+30004,34.1124,-84.302,Atlanta,http://atlanta.craigslist.org/,Georgia
+30006,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,Georgia
+30007,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,Georgia
+30009,34.077,-84.3033,Atlanta,http://atlanta.craigslist.org/,Georgia
+30011,34.0191,-83.8261,Athens,http://athensga.craigslist.org/,Georgia
+30012,33.7192,-84.0021,Atlanta,http://atlanta.craigslist.org/,Georgia
+30013,33.6436,-83.9684,Atlanta,http://atlanta.craigslist.org/,Georgia
+30015,33.5558,-83.8649,Atlanta,http://atlanta.craigslist.org/,Georgia
+30016,33.5146,-83.8626,Atlanta,http://atlanta.craigslist.org/,Georgia
+30017,33.8901,-83.9632,Atlanta,http://atlanta.craigslist.org/,Georgia
+30018,33.718,-83.8015,Athens,http://athensga.craigslist.org/,Georgia
+30019,33.9883,-83.8795,Athens,http://athensga.craigslist.org/,Georgia
+30021,33.8101,-84.2388,Atlanta,http://atlanta.craigslist.org/,Georgia
+30022,34.0268,-84.2422,Atlanta,http://atlanta.craigslist.org/,Georgia
+30023,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30024,34.0425,-84.0262,Atlanta,http://atlanta.craigslist.org/,Georgia
+30025,33.6791,-83.6835,Athens,http://athensga.craigslist.org/,Georgia
+30026,33.963,-84.0923,Atlanta,http://atlanta.craigslist.org/,Georgia
+30028,34.2897,-84.1796,Atlanta,http://atlanta.craigslist.org/,Georgia
+30029,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,Georgia
+30030,33.7699,-84.295,Atlanta,http://atlanta.craigslist.org/,Georgia
+30031,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30032,33.7408,-84.2632,Atlanta,http://atlanta.craigslist.org/,Georgia
+30033,33.8123,-84.2819,Atlanta,http://atlanta.craigslist.org/,Georgia
+30034,33.6954,-84.2489,Atlanta,http://atlanta.craigslist.org/,Georgia
+30035,33.7278,-84.2143,Atlanta,http://atlanta.craigslist.org/,Georgia
+30036,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30037,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30038,33.6823,-84.161,Atlanta,http://atlanta.craigslist.org/,Georgia
+30039,33.8178,-84.0229,Atlanta,http://atlanta.craigslist.org/,Georgia
+30040,34.2321,-84.158,Atlanta,http://atlanta.craigslist.org/,Georgia
+30043,34.0031,-84.0126,Atlanta,http://atlanta.craigslist.org/,Georgia
+30044,33.9418,-84.0706,Atlanta,http://atlanta.craigslist.org/,Georgia
+30047,33.8656,-84.0725,Atlanta,http://atlanta.craigslist.org/,Georgia
+30055,33.4314,-83.7908,Athens,http://athensga.craigslist.org/,Georgia
+30061,33.9328,-84.556,Atlanta,http://atlanta.craigslist.org/,Georgia
+30062,34.0025,-84.4633,Atlanta,http://atlanta.craigslist.org/,Georgia
+30065,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,Georgia
+30068,33.9679,-84.4385,Atlanta,http://atlanta.craigslist.org/,Georgia
+30071,33.9381,-84.1972,Atlanta,http://atlanta.craigslist.org/,Georgia
+30072,33.7906,-84.2053,Atlanta,http://atlanta.craigslist.org/,Georgia
+30073,33.7034,-84.2573,Atlanta,http://atlanta.craigslist.org/,Georgia
+30079,33.7934,-84.2585,Atlanta,http://atlanta.craigslist.org/,Georgia
+30080,33.8796,-84.5023,Atlanta,http://atlanta.craigslist.org/,Georgia
+30081,33.8588,-84.7106,Atlanta,http://atlanta.craigslist.org/,Georgia
+30082,33.8631,-84.5382,Atlanta,http://atlanta.craigslist.org/,Georgia
+30083,33.7942,-84.2018,Atlanta,http://atlanta.craigslist.org/,Georgia
+30084,33.857,-84.216,Atlanta,http://atlanta.craigslist.org/,Georgia
+30085,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30086,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30090,33.9525,-84.5471,Atlanta,http://atlanta.craigslist.org/,Georgia
+30094,33.6111,-84.0683,Atlanta,http://atlanta.craigslist.org/,Georgia
+30097,34.026,-84.147,Atlanta,http://atlanta.craigslist.org/,Georgia
+30101,34.0756,-84.6477,Atlanta,http://atlanta.craigslist.org/,Georgia
+30102,34.0707,-84.5894,Atlanta,http://atlanta.craigslist.org/,Georgia
+30103,34.3595,-84.9176,Northwest GA,http://nwga.craigslist.org/,Georgia
+30104,34.0666,-85.0696,Northwest GA,http://nwga.craigslist.org/,Georgia
+30105,34.4411,-85.1843,Northwest GA,http://nwga.craigslist.org/,Georgia
+30106,33.8369,-84.6307,Atlanta,http://atlanta.craigslist.org/,Georgia
+30107,34.3393,-84.3758,Atlanta,http://atlanta.craigslist.org/,Georgia
+30108,33.5373,-85.2533,Atlanta,http://atlanta.craigslist.org/,Georgia
+30109,33.6534,-85.1362,Atlanta,http://atlanta.craigslist.org/,Georgia
+30111,33.9125,-84.5572,Atlanta,http://atlanta.craigslist.org/,Georgia
+30112,33.5809,-85.0792,Atlanta,http://atlanta.craigslist.org/,Georgia
+30113,33.8283,-85.1506,Atlanta,http://atlanta.craigslist.org/,Georgia
+30114,34.2505,-84.4909,Atlanta,http://atlanta.craigslist.org/,Georgia
+30115,34.1993,-84.4199,Atlanta,http://atlanta.craigslist.org/,Georgia
+30116,33.6045,-85.0499,Atlanta,http://atlanta.craigslist.org/,Georgia
+30121,34.2079,-84.7673,Northwest GA,http://nwga.craigslist.org/,Georgia
+30123,34.2442,-84.8457,Northwest GA,http://nwga.craigslist.org/,Georgia
+30124,34.1167,-85.3379,Northwest GA,http://nwga.craigslist.org/,Georgia
+30132,33.9163,-84.8278,Atlanta,http://atlanta.craigslist.org/,Georgia
+30134,33.7606,-84.7477,Atlanta,http://atlanta.craigslist.org/,Georgia
+30135,33.6989,-84.7454,Atlanta,http://atlanta.craigslist.org/,Georgia
+30137,34.12,-84.757,Atlanta,http://atlanta.craigslist.org/,Georgia
 30140,33.8823,-85.2349,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
-30141,33.8673,-84.7699,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30143,34.462,-84.4759,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30144,34.0287,-84.6047,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30145,34.2501,-84.9973,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30146,34.2429,-84.4583,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30147,34.1707,-85.1825,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30148,34.4398,-84.303,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30149,34.2804,-85.1821,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30150,33.643,-85.1818,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30151,34.2429,-84.4583,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30152,33.9951,-84.6544,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30153,33.9979,-85.0594,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30154,33.6897,-84.7446,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30156,34.0177,-84.625,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30165,34.2837,-85.2231,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30170,33.4322,-85.1671,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30171,34.3379,-84.7376,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30172,34.3333,-85.2337,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30173,34.1593,-85.1429,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30175,34.5394,-84.4912,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30141,33.8673,-84.7699,Atlanta,http://atlanta.craigslist.org/,Georgia
+30143,34.462,-84.4759,Northwest GA,http://nwga.craigslist.org/,Georgia
+30144,34.0287,-84.6047,Atlanta,http://atlanta.craigslist.org/,Georgia
+30145,34.2501,-84.9973,Northwest GA,http://nwga.craigslist.org/,Georgia
+30146,34.2429,-84.4583,Atlanta,http://atlanta.craigslist.org/,Georgia
+30147,34.1707,-85.1825,Northwest GA,http://nwga.craigslist.org/,Georgia
+30148,34.4398,-84.303,Northwest GA,http://nwga.craigslist.org/,Georgia
+30149,34.2804,-85.1821,Northwest GA,http://nwga.craigslist.org/,Georgia
+30150,33.643,-85.1818,Atlanta,http://atlanta.craigslist.org/,Georgia
+30151,34.2429,-84.4583,Northwest GA,http://nwga.craigslist.org/,Georgia
+30152,33.9951,-84.6544,Atlanta,http://atlanta.craigslist.org/,Georgia
+30153,33.9979,-85.0594,Northwest GA,http://nwga.craigslist.org/,Georgia
+30154,33.6897,-84.7446,Atlanta,http://atlanta.craigslist.org/,Georgia
+30156,34.0177,-84.625,Atlanta,http://atlanta.craigslist.org/,Georgia
+30165,34.2837,-85.2231,Northwest GA,http://nwga.craigslist.org/,Georgia
+30170,33.4322,-85.1671,Atlanta,http://atlanta.craigslist.org/,Georgia
+30171,34.3379,-84.7376,Northwest GA,http://nwga.craigslist.org/,Georgia
+30172,34.3333,-85.2337,Northwest GA,http://nwga.craigslist.org/,Georgia
+30173,34.1593,-85.1429,Northwest GA,http://nwga.craigslist.org/,Georgia
+30175,34.5394,-84.4912,Northwest GA,http://nwga.craigslist.org/,Georgia
 30176,33.7602,-85.3,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
-30177,34.4027,-84.3785,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30178,34.1229,-84.9739,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30179,33.7677,-85.0133,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30183,34.3217,-84.562,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30184,34.2717,-84.7383,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30185,33.5111,-84.9254,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30187,33.6634,-84.8639,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30188,34.106,-84.5117,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30189,34.1281,-84.5717,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30204,33.0457,-84.1515,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-30205,33.2984,-84.4769,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30206,33.0998,-84.447,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30213,33.5648,-84.5809,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30214,33.4679,-84.4806,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30215,33.3943,-84.4738,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30216,33.25,-83.9079,macon / warner robins,http://macon.craigslist.org/,G.org/ia
+30177,34.4027,-84.3785,Northwest GA,http://nwga.craigslist.org/,Georgia
+30178,34.1229,-84.9739,Northwest GA,http://nwga.craigslist.org/,Georgia
+30179,33.7677,-85.0133,Atlanta,http://atlanta.craigslist.org/,Georgia
+30183,34.3217,-84.562,Northwest GA,http://nwga.craigslist.org/,Georgia
+30184,34.2717,-84.7383,Northwest GA,http://nwga.craigslist.org/,Georgia
+30185,33.5111,-84.9254,Atlanta,http://atlanta.craigslist.org/,Georgia
+30187,33.6634,-84.8639,Atlanta,http://atlanta.craigslist.org/,Georgia
+30188,34.106,-84.5117,Atlanta,http://atlanta.craigslist.org/,Georgia
+30189,34.1281,-84.5717,Atlanta,http://atlanta.craigslist.org/,Georgia
+30204,33.0457,-84.1515,macon / warner robins,http://macon.craigslist.org/,Georgia
+30205,33.2984,-84.4769,Atlanta,http://atlanta.craigslist.org/,Georgia
+30206,33.0998,-84.447,Atlanta,http://atlanta.craigslist.org/,Georgia
+30213,33.5648,-84.5809,Atlanta,http://atlanta.craigslist.org/,Georgia
+30214,33.4679,-84.4806,Atlanta,http://atlanta.craigslist.org/,Georgia
+30215,33.3943,-84.4738,Atlanta,http://atlanta.craigslist.org/,Georgia
+30216,33.25,-83.9079,macon / warner robins,http://macon.craigslist.org/,Georgia
 30217,33.278,-85.134,Auburn,http://auburn.craigslist.org/,Alabama
-30218,33.1274,-84.5836,Atlanta,http://atlanta.craigslist.org/,G.org/ia
+30218,33.1274,-84.5836,Atlanta,http://atlanta.craigslist.org/,Georgia
 30219,33.1572,-85.1706,Auburn,http://auburn.craigslist.org/,Alabama
-30220,33.2473,-84.835,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30222,33.0468,-84.7402,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30223,33.2549,-84.2728,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30224,33.2404,-84.2734,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30228,33.4124,-84.2947,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30229,33.2322,-84.5685,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30233,33.282,-83.9784,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-30234,33.3224,-84.0287,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30240,33.0243,-85.0739,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30241,33.0249,-84.9577,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30248,33.3449,-84.0982,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30250,33.4429,-84.3136,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30251,33.1798,-84.7577,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30252,33.4768,-84.055,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30253,33.451,-84.1544,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30258,32.9978,-84.4558,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30261,33.0457,-85.049,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30264,33.361,-84.8142,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30265,33.3958,-84.7121,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30268,33.5242,-84.679,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30271,33.3514,-84.7561,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30272,33.6259,-84.5163,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30273,33.5808,-84.2782,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30274,33.5531,-84.4003,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30275,33.4298,-84.8744,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30276,33.2845,-84.5918,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30277,33.4013,-84.654,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30281,33.5633,-84.2165,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30284,33.3453,-84.2898,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30285,32.9717,-84.2424,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-30286,32.9015,-84.3324,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-30287,33.5007,-84.3513,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30288,33.6369,-84.3371,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30289,33.326,-84.6371,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30290,33.4719,-84.5914,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30291,33.5832,-84.5499,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30292,33.1598,-84.3795,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30293,32.9813,-84.5986,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30294,33.6166,-84.2939,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30295,33.1002,-84.3108,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30296,33.5667,-84.4364,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30297,33.6115,-84.3745,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30298,33.5007,-84.3513,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30301,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30302,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30303,33.7525,-84.3888,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30308,33.7718,-84.3757,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30309,33.7984,-84.3883,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30310,33.7278,-84.4232,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30311,33.723,-84.4702,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30314,33.7561,-84.4255,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30316,33.7217,-84.3339,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30317,33.7498,-84.3168,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30318,33.7865,-84.4454,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30324,33.8206,-84.3549,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30326,33.8482,-84.3582,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30329,33.8236,-84.3214,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30330,33.7071,-84.4321,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30333,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30334,33.7489,-84.3872,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30336,33.7406,-84.5545,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30337,33.6428,-84.4618,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30338,33.9668,-84.3249,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30339,33.8712,-84.4629,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30340,33.8932,-84.2539,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30341,33.8879,-84.2905,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30342,33.8842,-84.3761,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30343,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30344,33.6919,-84.448,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30345,33.8513,-84.287,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30346,33.9267,-84.3334,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30347,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30348,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30349,33.6053,-84.4813,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30350,33.9795,-84.3411,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30355,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30356,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30358,33.9982,-84.3411,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30359,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30360,33.9378,-84.2716,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30362,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30363,33.791,-84.3992,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30364,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30366,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30368,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30369,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30370,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30371,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30374,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30375,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30376,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30378,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30379,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30380,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30384,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30385,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30386,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30394,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30396,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30398,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30399,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30410,32.2143,-82.4762,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30411,32.133,-82.7944,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30412,32.0775,-82.4825,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30414,32.1634,-81.8719,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30415,32.294,-81.628,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30417,32.165,-81.908,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30420,32.2642,-82.1333,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30421,32.1852,-82.1095,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30423,32.1634,-81.8719,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30424,32.7676,-81.6291,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30427,31.9467,-81.9483,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30446,32.581,-81.4826,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30447,32.5041,-82.4848,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30449,32.5281,-81.5332,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30450,32.555,-81.9123,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30452,32.3382,-81.8728,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30454,32.3915,-82.7479,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30456,32.9809,-81.773,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30457,32.3869,-82.5871,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30458,32.4408,-81.774,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30459,32.447,-81.7777,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30460,32.418,-81.7823,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30461,32.45,-81.7158,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30464,32.4459,-82.2587,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30467,32.7439,-81.6287,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30470,32.1888,-82.5221,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30471,32.6129,-82.1979,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30473,32.0483,-82.5089,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30474,32.1934,-82.4067,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30475,32.1775,-82.3739,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30477,32.8747,-82.4025,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30499,32.0507,-81.9983,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30501,34.3073,-83.8256,Athens,http://athensga.craigslist.org/,G.org/ia
-30502,34.213,-83.7949,Athens,http://athensga.craigslist.org/,G.org/ia
-30503,34.3454,-83.9505,Athens,http://athensga.craigslist.org/,G.org/ia
-30504,34.2723,-83.8793,Athens,http://athensga.craigslist.org/,G.org/ia
-30506,34.3562,-83.8882,Athens,http://athensga.craigslist.org/,G.org/ia
-30507,34.2592,-83.7716,Athens,http://athensga.craigslist.org/,G.org/ia
-30510,34.4591,-83.602,Athens,http://athensga.craigslist.org/,G.org/ia
-30511,34.4574,-83.476,Athens,http://athensga.craigslist.org/,G.org/ia
-30512,34.8763,-83.992,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30513,34.8555,-84.3281,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30514,34.9034,-84.0192,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30515,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30516,34.3996,-83.0484,Athens,http://athensga.craigslist.org/,G.org/ia
-30517,34.1389,-83.7812,Athens,http://athensga.craigslist.org/,G.org/ia
-30518,34.1124,-83.9965,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30519,34.0797,-83.9308,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30520,34.3478,-83.1267,Athens,http://athensga.craigslist.org/,G.org/ia
-30521,34.3631,-83.2547,Athens,http://athensga.craigslist.org/,G.org/ia
-30522,34.7833,-84.3348,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30523,34.645,-83.5243,Athens,http://athensga.craigslist.org/,G.org/ia
+30220,33.2473,-84.835,Atlanta,http://atlanta.craigslist.org/,Georgia
+30222,33.0468,-84.7402,Columbus ,http://columbusga.craigslist.org/,Georgia
+30223,33.2549,-84.2728,Atlanta,http://atlanta.craigslist.org/,Georgia
+30224,33.2404,-84.2734,Atlanta,http://atlanta.craigslist.org/,Georgia
+30228,33.4124,-84.2947,Atlanta,http://atlanta.craigslist.org/,Georgia
+30229,33.2322,-84.5685,Atlanta,http://atlanta.craigslist.org/,Georgia
+30233,33.282,-83.9784,macon / warner robins,http://macon.craigslist.org/,Georgia
+30234,33.3224,-84.0287,Atlanta,http://atlanta.craigslist.org/,Georgia
+30240,33.0243,-85.0739,Columbus ,http://columbusga.craigslist.org/,Georgia
+30241,33.0249,-84.9577,Columbus ,http://columbusga.craigslist.org/,Georgia
+30248,33.3449,-84.0982,Atlanta,http://atlanta.craigslist.org/,Georgia
+30250,33.4429,-84.3136,Atlanta,http://atlanta.craigslist.org/,Georgia
+30251,33.1798,-84.7577,Atlanta,http://atlanta.craigslist.org/,Georgia
+30252,33.4768,-84.055,Atlanta,http://atlanta.craigslist.org/,Georgia
+30253,33.451,-84.1544,Atlanta,http://atlanta.craigslist.org/,Georgia
+30258,32.9978,-84.4558,Columbus ,http://columbusga.craigslist.org/,Georgia
+30261,33.0457,-85.049,Columbus ,http://columbusga.craigslist.org/,Georgia
+30264,33.361,-84.8142,Atlanta,http://atlanta.craigslist.org/,Georgia
+30265,33.3958,-84.7121,Atlanta,http://atlanta.craigslist.org/,Georgia
+30268,33.5242,-84.679,Atlanta,http://atlanta.craigslist.org/,Georgia
+30271,33.3514,-84.7561,Atlanta,http://atlanta.craigslist.org/,Georgia
+30272,33.6259,-84.5163,Atlanta,http://atlanta.craigslist.org/,Georgia
+30273,33.5808,-84.2782,Atlanta,http://atlanta.craigslist.org/,Georgia
+30274,33.5531,-84.4003,Atlanta,http://atlanta.craigslist.org/,Georgia
+30275,33.4298,-84.8744,Atlanta,http://atlanta.craigslist.org/,Georgia
+30276,33.2845,-84.5918,Atlanta,http://atlanta.craigslist.org/,Georgia
+30277,33.4013,-84.654,Atlanta,http://atlanta.craigslist.org/,Georgia
+30281,33.5633,-84.2165,Atlanta,http://atlanta.craigslist.org/,Georgia
+30284,33.3453,-84.2898,Atlanta,http://atlanta.craigslist.org/,Georgia
+30285,32.9717,-84.2424,macon / warner robins,http://macon.craigslist.org/,Georgia
+30286,32.9015,-84.3324,macon / warner robins,http://macon.craigslist.org/,Georgia
+30287,33.5007,-84.3513,Atlanta,http://atlanta.craigslist.org/,Georgia
+30288,33.6369,-84.3371,Atlanta,http://atlanta.craigslist.org/,Georgia
+30289,33.326,-84.6371,Atlanta,http://atlanta.craigslist.org/,Georgia
+30290,33.4719,-84.5914,Atlanta,http://atlanta.craigslist.org/,Georgia
+30291,33.5832,-84.5499,Atlanta,http://atlanta.craigslist.org/,Georgia
+30292,33.1598,-84.3795,Atlanta,http://atlanta.craigslist.org/,Georgia
+30293,32.9813,-84.5986,Columbus ,http://columbusga.craigslist.org/,Georgia
+30294,33.6166,-84.2939,Atlanta,http://atlanta.craigslist.org/,Georgia
+30295,33.1002,-84.3108,Atlanta,http://atlanta.craigslist.org/,Georgia
+30296,33.5667,-84.4364,Atlanta,http://atlanta.craigslist.org/,Georgia
+30297,33.6115,-84.3745,Atlanta,http://atlanta.craigslist.org/,Georgia
+30298,33.5007,-84.3513,Atlanta,http://atlanta.craigslist.org/,Georgia
+30301,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30302,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30303,33.7525,-84.3888,Atlanta,http://atlanta.craigslist.org/,Georgia
+30308,33.7718,-84.3757,Atlanta,http://atlanta.craigslist.org/,Georgia
+30309,33.7984,-84.3883,Atlanta,http://atlanta.craigslist.org/,Georgia
+30310,33.7278,-84.4232,Atlanta,http://atlanta.craigslist.org/,Georgia
+30311,33.723,-84.4702,Atlanta,http://atlanta.craigslist.org/,Georgia
+30314,33.7561,-84.4255,Atlanta,http://atlanta.craigslist.org/,Georgia
+30316,33.7217,-84.3339,Atlanta,http://atlanta.craigslist.org/,Georgia
+30317,33.7498,-84.3168,Atlanta,http://atlanta.craigslist.org/,Georgia
+30318,33.7865,-84.4454,Atlanta,http://atlanta.craigslist.org/,Georgia
+30324,33.8206,-84.3549,Atlanta,http://atlanta.craigslist.org/,Georgia
+30326,33.8482,-84.3582,Atlanta,http://atlanta.craigslist.org/,Georgia
+30329,33.8236,-84.3214,Atlanta,http://atlanta.craigslist.org/,Georgia
+30330,33.7071,-84.4321,Atlanta,http://atlanta.craigslist.org/,Georgia
+30333,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30334,33.7489,-84.3872,Atlanta,http://atlanta.craigslist.org/,Georgia
+30336,33.7406,-84.5545,Atlanta,http://atlanta.craigslist.org/,Georgia
+30337,33.6428,-84.4618,Atlanta,http://atlanta.craigslist.org/,Georgia
+30338,33.9668,-84.3249,Atlanta,http://atlanta.craigslist.org/,Georgia
+30339,33.8712,-84.4629,Atlanta,http://atlanta.craigslist.org/,Georgia
+30340,33.8932,-84.2539,Atlanta,http://atlanta.craigslist.org/,Georgia
+30341,33.8879,-84.2905,Atlanta,http://atlanta.craigslist.org/,Georgia
+30342,33.8842,-84.3761,Atlanta,http://atlanta.craigslist.org/,Georgia
+30343,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30344,33.6919,-84.448,Atlanta,http://atlanta.craigslist.org/,Georgia
+30345,33.8513,-84.287,Atlanta,http://atlanta.craigslist.org/,Georgia
+30346,33.9267,-84.3334,Atlanta,http://atlanta.craigslist.org/,Georgia
+30347,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30348,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30349,33.6053,-84.4813,Atlanta,http://atlanta.craigslist.org/,Georgia
+30350,33.9795,-84.3411,Atlanta,http://atlanta.craigslist.org/,Georgia
+30355,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30356,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30358,33.9982,-84.3411,Atlanta,http://atlanta.craigslist.org/,Georgia
+30359,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30360,33.9378,-84.2716,Atlanta,http://atlanta.craigslist.org/,Georgia
+30362,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30363,33.791,-84.3992,Atlanta,http://atlanta.craigslist.org/,Georgia
+30364,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30366,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30368,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30369,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30370,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30371,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30374,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30375,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30376,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30378,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30379,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30380,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30384,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30385,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30386,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30394,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30396,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30398,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30399,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30410,32.2143,-82.4762,Statesboro,http://statesboro.craigslist.org/,Georgia
+30411,32.133,-82.7944,Statesboro,http://statesboro.craigslist.org/,Georgia
+30412,32.0775,-82.4825,Statesboro,http://statesboro.craigslist.org/,Georgia
+30414,32.1634,-81.8719,Statesboro,http://statesboro.craigslist.org/,Georgia
+30415,32.294,-81.628,Statesboro,http://statesboro.craigslist.org/,Georgia
+30417,32.165,-81.908,Statesboro,http://statesboro.craigslist.org/,Georgia
+30420,32.2642,-82.1333,Statesboro,http://statesboro.craigslist.org/,Georgia
+30421,32.1852,-82.1095,Statesboro,http://statesboro.craigslist.org/,Georgia
+30423,32.1634,-81.8719,Statesboro,http://statesboro.craigslist.org/,Georgia
+30424,32.7676,-81.6291,Statesboro,http://statesboro.craigslist.org/,Georgia
+30427,31.9467,-81.9483,Statesboro,http://statesboro.craigslist.org/,Georgia
+30446,32.581,-81.4826,Statesboro,http://statesboro.craigslist.org/,Georgia
+30447,32.5041,-82.4848,Statesboro,http://statesboro.craigslist.org/,Georgia
+30449,32.5281,-81.5332,Statesboro,http://statesboro.craigslist.org/,Georgia
+30450,32.555,-81.9123,Statesboro,http://statesboro.craigslist.org/,Georgia
+30452,32.3382,-81.8728,Statesboro,http://statesboro.craigslist.org/,Georgia
+30454,32.3915,-82.7479,Statesboro,http://statesboro.craigslist.org/,Georgia
+30456,32.9809,-81.773,Statesboro,http://statesboro.craigslist.org/,Georgia
+30457,32.3869,-82.5871,Statesboro,http://statesboro.craigslist.org/,Georgia
+30458,32.4408,-81.774,Statesboro,http://statesboro.craigslist.org/,Georgia
+30459,32.447,-81.7777,Statesboro,http://statesboro.craigslist.org/,Georgia
+30460,32.418,-81.7823,Statesboro,http://statesboro.craigslist.org/,Georgia
+30461,32.45,-81.7158,Statesboro,http://statesboro.craigslist.org/,Georgia
+30464,32.4459,-82.2587,Statesboro,http://statesboro.craigslist.org/,Georgia
+30467,32.7439,-81.6287,Statesboro,http://statesboro.craigslist.org/,Georgia
+30470,32.1888,-82.5221,Statesboro,http://statesboro.craigslist.org/,Georgia
+30471,32.6129,-82.1979,Statesboro,http://statesboro.craigslist.org/,Georgia
+30473,32.0483,-82.5089,Statesboro,http://statesboro.craigslist.org/,Georgia
+30474,32.1934,-82.4067,Statesboro,http://statesboro.craigslist.org/,Georgia
+30475,32.1775,-82.3739,Statesboro,http://statesboro.craigslist.org/,Georgia
+30477,32.8747,-82.4025,Statesboro,http://statesboro.craigslist.org/,Georgia
+30499,32.0507,-81.9983,Statesboro,http://statesboro.craigslist.org/,Georgia
+30501,34.3073,-83.8256,Athens,http://athensga.craigslist.org/,Georgia
+30502,34.213,-83.7949,Athens,http://athensga.craigslist.org/,Georgia
+30503,34.3454,-83.9505,Athens,http://athensga.craigslist.org/,Georgia
+30504,34.2723,-83.8793,Athens,http://athensga.craigslist.org/,Georgia
+30506,34.3562,-83.8882,Athens,http://athensga.craigslist.org/,Georgia
+30507,34.2592,-83.7716,Athens,http://athensga.craigslist.org/,Georgia
+30510,34.4591,-83.602,Athens,http://athensga.craigslist.org/,Georgia
+30511,34.4574,-83.476,Athens,http://athensga.craigslist.org/,Georgia
+30512,34.8763,-83.992,Northwest GA,http://nwga.craigslist.org/,Georgia
+30513,34.8555,-84.3281,Northwest GA,http://nwga.craigslist.org/,Georgia
+30514,34.9034,-84.0192,Northwest GA,http://nwga.craigslist.org/,Georgia
+30515,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,Georgia
+30516,34.3996,-83.0484,Athens,http://athensga.craigslist.org/,Georgia
+30517,34.1389,-83.7812,Athens,http://athensga.craigslist.org/,Georgia
+30518,34.1124,-83.9965,Atlanta,http://atlanta.craigslist.org/,Georgia
+30519,34.0797,-83.9308,Atlanta,http://atlanta.craigslist.org/,Georgia
+30520,34.3478,-83.1267,Athens,http://athensga.craigslist.org/,Georgia
+30521,34.3631,-83.2547,Athens,http://athensga.craigslist.org/,Georgia
+30522,34.7833,-84.3348,Northwest GA,http://nwga.craigslist.org/,Georgia
+30523,34.645,-83.5243,Athens,http://athensga.craigslist.org/,Georgia
 30525,34.8826,-83.4066,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-30527,34.4761,-83.7853,Athens,http://athensga.craigslist.org/,G.org/ia
-30530,34.1683,-83.4022,Athens,http://athensga.craigslist.org/,G.org/ia
-30531,34.5209,-83.5453,Athens,http://athensga.craigslist.org/,G.org/ia
-30533,34.5299,-83.9798,Athens,http://athensga.craigslist.org/,G.org/ia
-30534,34.4537,-84.155,Atlanta,http://atlanta.craigslist.org/,G.org/ia
+30527,34.4761,-83.7853,Athens,http://athensga.craigslist.org/,Georgia
+30530,34.1683,-83.4022,Athens,http://athensga.craigslist.org/,Georgia
+30531,34.5209,-83.5453,Athens,http://athensga.craigslist.org/,Georgia
+30533,34.5299,-83.9798,Athens,http://athensga.craigslist.org/,Georgia
+30534,34.4537,-84.155,Atlanta,http://atlanta.craigslist.org/,Georgia
 30537,34.9777,-83.3199,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-30538,34.5037,-83.2587,Athens,http://athensga.craigslist.org/,G.org/ia
-30539,34.6585,-84.4932,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30540,34.6775,-84.4812,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30543,34.3001,-83.6757,Athens,http://athensga.craigslist.org/,G.org/ia
-30544,34.5931,-83.5629,Athens,http://athensga.craigslist.org/,G.org/ia
-30545,34.6866,-83.7399,Athens,http://athensga.craigslist.org/,G.org/ia
+30538,34.5037,-83.2587,Athens,http://athensga.craigslist.org/,Georgia
+30539,34.6585,-84.4932,Northwest GA,http://nwga.craigslist.org/,Georgia
+30540,34.6775,-84.4812,Northwest GA,http://nwga.craigslist.org/,Georgia
+30543,34.3001,-83.6757,Athens,http://athensga.craigslist.org/,Georgia
+30544,34.5931,-83.5629,Athens,http://athensga.craigslist.org/,Georgia
+30545,34.6866,-83.7399,Athens,http://athensga.craigslist.org/,Georgia
 30546,34.9063,-83.7274,Knoxville,http://knoxville.craigslist.org/,Tennessee
-30547,34.3563,-83.4974,Athens,http://athensga.craigslist.org/,G.org/ia
-30548,34.0866,-83.7803,Athens,http://athensga.craigslist.org/,G.org/ia
-30549,34.1062,-83.5708,Athens,http://athensga.craigslist.org/,G.org/ia
-30552,34.7617,-83.4038,Athens,http://athensga.craigslist.org/,G.org/ia
-30553,34.4528,-83.113,Athens,http://athensga.craigslist.org/,G.org/ia
-30554,34.3985,-83.6945,Athens,http://athensga.craigslist.org/,G.org/ia
-30555,34.9739,-84.4291,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30557,34.5155,-83.1686,Athens,http://athensga.craigslist.org/,G.org/ia
-30558,34.2736,-83.584,Athens,http://athensga.craigslist.org/,G.org/ia
-30559,34.9341,-84.2541,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30560,34.8714,-84.2115,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30547,34.3563,-83.4974,Athens,http://athensga.craigslist.org/,Georgia
+30548,34.0866,-83.7803,Athens,http://athensga.craigslist.org/,Georgia
+30549,34.1062,-83.5708,Athens,http://athensga.craigslist.org/,Georgia
+30552,34.7617,-83.4038,Athens,http://athensga.craigslist.org/,Georgia
+30553,34.4528,-83.113,Athens,http://athensga.craigslist.org/,Georgia
+30554,34.3985,-83.6945,Athens,http://athensga.craigslist.org/,Georgia
+30555,34.9739,-84.4291,Northwest GA,http://nwga.craigslist.org/,Georgia
+30557,34.5155,-83.1686,Athens,http://athensga.craigslist.org/,Georgia
+30558,34.2736,-83.584,Athens,http://athensga.craigslist.org/,Georgia
+30559,34.9341,-84.2541,Northwest GA,http://nwga.craigslist.org/,Georgia
+30560,34.8714,-84.2115,Northwest GA,http://nwga.craigslist.org/,Georgia
 30562,34.9144,-83.4028,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-30563,34.5678,-83.4713,Athens,http://athensga.craigslist.org/,G.org/ia
-30564,34.4342,-83.8949,Athens,http://athensga.craigslist.org/,G.org/ia
-30565,34.097,-83.421,Athens,http://athensga.craigslist.org/,G.org/ia
-30566,34.2372,-83.894,Athens,http://athensga.craigslist.org/,G.org/ia
-30567,34.1796,-83.6634,Athens,http://athensga.craigslist.org/,G.org/ia
-30571,34.7162,-83.6931,Athens,http://athensga.craigslist.org/,G.org/ia
-30572,34.7253,-84.0496,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30563,34.5678,-83.4713,Athens,http://athensga.craigslist.org/,Georgia
+30564,34.4342,-83.8949,Athens,http://athensga.craigslist.org/,Georgia
+30565,34.097,-83.421,Athens,http://athensga.craigslist.org/,Georgia
+30566,34.2372,-83.894,Athens,http://athensga.craigslist.org/,Georgia
+30567,34.1796,-83.6634,Athens,http://athensga.craigslist.org/,Georgia
+30571,34.7162,-83.6931,Athens,http://athensga.craigslist.org/,Georgia
+30572,34.7253,-84.0496,Northwest GA,http://nwga.craigslist.org/,Georgia
 30576,34.8174,-83.4333,greenville / upstate,http://greenville.craigslist.org/,South Carolina
-30577,34.5665,-83.3114,Athens,http://athensga.craigslist.org/,G.org/ia
-30580,34.6766,-83.4358,Athens,http://athensga.craigslist.org/,G.org/ia
-30597,34.5277,-83.9809,Athens,http://athensga.craigslist.org/,G.org/ia
-30598,34.5942,-83.3557,Athens,http://athensga.craigslist.org/,G.org/ia
-30599,34.1306,-83.5874,Athens,http://athensga.craigslist.org/,G.org/ia
-30601,33.9761,-83.3632,Athens,http://athensga.craigslist.org/,G.org/ia
-30602,33.9433,-83.3724,Athens,http://athensga.craigslist.org/,G.org/ia
-30603,33.9476,-83.4089,Athens,http://athensga.craigslist.org/,G.org/ia
-30605,33.9321,-83.3525,Athens,http://athensga.craigslist.org/,G.org/ia
-30608,33.9443,-83.3891,Athens,http://athensga.craigslist.org/,G.org/ia
-30612,33.9443,-83.3891,Athens,http://athensga.craigslist.org/,G.org/ia
-30620,33.9261,-83.7282,Athens,http://athensga.craigslist.org/,G.org/ia
-30623,33.7542,-83.5111,Athens,http://athensga.craigslist.org/,G.org/ia
-30624,34.1919,-83.0284,Athens,http://athensga.craigslist.org/,G.org/ia
-30627,33.9852,-83.0038,Athens,http://athensga.craigslist.org/,G.org/ia
-30639,34.2743,-83.147,Athens,http://athensga.craigslist.org/,G.org/ia
-30643,34.3571,-82.9296,Athens,http://athensga.craigslist.org/,G.org/ia
-30645,33.8013,-83.5164,Athens,http://athensga.craigslist.org/,G.org/ia
-30647,34.1202,-83.2881,Athens,http://athensga.craigslist.org/,G.org/ia
-30656,33.8386,-83.7104,Athens,http://athensga.craigslist.org/,G.org/ia
-30660,33.7856,-82.9504,Athens,http://athensga.craigslist.org/,G.org/ia
-30664,33.56,-82.7948,Athens,http://athensga.craigslist.org/,G.org/ia
-30665,33.5619,-83.0742,Athens,http://athensga.craigslist.org/,G.org/ia
-30667,33.7715,-83.1159,Athens,http://athensga.craigslist.org/,G.org/ia
-30668,33.8778,-82.747,Athens,http://athensga.craigslist.org/,G.org/ia
-30669,33.6345,-83.0879,Athens,http://athensga.craigslist.org/,G.org/ia
-30671,33.7405,-83.1706,Athens,http://athensga.craigslist.org/,G.org/ia
-30673,33.7265,-82.7429,Athens,http://athensga.craigslist.org/,G.org/ia
-30677,33.8542,-83.408,Athens,http://athensga.craigslist.org/,G.org/ia
-30678,33.4581,-83.0802,Athens,http://athensga.craigslist.org/,G.org/ia
-30680,33.9985,-83.7115,Athens,http://athensga.craigslist.org/,G.org/ia
-30683,33.9543,-83.2906,Athens,http://athensga.craigslist.org/,G.org/ia
-30701,34.4965,-84.9345,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30703,34.4791,-84.7622,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30705,34.7589,-84.7943,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30577,34.5665,-83.3114,Athens,http://athensga.craigslist.org/,Georgia
+30580,34.6766,-83.4358,Athens,http://athensga.craigslist.org/,Georgia
+30597,34.5277,-83.9809,Athens,http://athensga.craigslist.org/,Georgia
+30598,34.5942,-83.3557,Athens,http://athensga.craigslist.org/,Georgia
+30599,34.1306,-83.5874,Athens,http://athensga.craigslist.org/,Georgia
+30601,33.9761,-83.3632,Athens,http://athensga.craigslist.org/,Georgia
+30602,33.9433,-83.3724,Athens,http://athensga.craigslist.org/,Georgia
+30603,33.9476,-83.4089,Athens,http://athensga.craigslist.org/,Georgia
+30605,33.9321,-83.3525,Athens,http://athensga.craigslist.org/,Georgia
+30608,33.9443,-83.3891,Athens,http://athensga.craigslist.org/,Georgia
+30612,33.9443,-83.3891,Athens,http://athensga.craigslist.org/,Georgia
+30620,33.9261,-83.7282,Athens,http://athensga.craigslist.org/,Georgia
+30623,33.7542,-83.5111,Athens,http://athensga.craigslist.org/,Georgia
+30624,34.1919,-83.0284,Athens,http://athensga.craigslist.org/,Georgia
+30627,33.9852,-83.0038,Athens,http://athensga.craigslist.org/,Georgia
+30639,34.2743,-83.147,Athens,http://athensga.craigslist.org/,Georgia
+30643,34.3571,-82.9296,Athens,http://athensga.craigslist.org/,Georgia
+30645,33.8013,-83.5164,Athens,http://athensga.craigslist.org/,Georgia
+30647,34.1202,-83.2881,Athens,http://athensga.craigslist.org/,Georgia
+30656,33.8386,-83.7104,Athens,http://athensga.craigslist.org/,Georgia
+30660,33.7856,-82.9504,Athens,http://athensga.craigslist.org/,Georgia
+30664,33.56,-82.7948,Athens,http://athensga.craigslist.org/,Georgia
+30665,33.5619,-83.0742,Athens,http://athensga.craigslist.org/,Georgia
+30667,33.7715,-83.1159,Athens,http://athensga.craigslist.org/,Georgia
+30668,33.8778,-82.747,Athens,http://athensga.craigslist.org/,Georgia
+30669,33.6345,-83.0879,Athens,http://athensga.craigslist.org/,Georgia
+30671,33.7405,-83.1706,Athens,http://athensga.craigslist.org/,Georgia
+30673,33.7265,-82.7429,Athens,http://athensga.craigslist.org/,Georgia
+30677,33.8542,-83.408,Athens,http://athensga.craigslist.org/,Georgia
+30678,33.4581,-83.0802,Athens,http://athensga.craigslist.org/,Georgia
+30680,33.9985,-83.7115,Athens,http://athensga.craigslist.org/,Georgia
+30683,33.9543,-83.2906,Athens,http://athensga.craigslist.org/,Georgia
+30701,34.4965,-84.9345,Northwest GA,http://nwga.craigslist.org/,Georgia
+30703,34.4791,-84.7622,Northwest GA,http://nwga.craigslist.org/,Georgia
+30705,34.7589,-84.7943,Northwest GA,http://nwga.craigslist.org/,Georgia
 30707,34.858,-85.3221,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30708,34.9618,-84.6646,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30720,34.7635,-84.9875,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30708,34.9618,-84.6646,Northwest GA,http://nwga.craigslist.org/,Georgia
+30720,34.7635,-84.9875,Northwest GA,http://nwga.craigslist.org/,Georgia
 30726,34.9802,-85.1408,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30728,34.692,-85.2602,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30730,34.403,-85.4038,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30731,34.5864,-85.4774,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30733,34.4145,-85.0312,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30734,34.5404,-84.727,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30735,34.5833,-84.9068,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30728,34.692,-85.2602,Northwest GA,http://nwga.craigslist.org/,Georgia
+30730,34.403,-85.4038,Northwest GA,http://nwga.craigslist.org/,Georgia
+30731,34.5864,-85.4774,Northwest GA,http://nwga.craigslist.org/,Georgia
+30733,34.4145,-85.0312,Northwest GA,http://nwga.craigslist.org/,Georgia
+30734,34.5404,-84.727,Northwest GA,http://nwga.craigslist.org/,Georgia
+30735,34.5833,-84.9068,Northwest GA,http://nwga.craigslist.org/,Georgia
 30741,34.9535,-85.2968,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30747,34.4859,-85.3362,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30747,34.4859,-85.3362,Northwest GA,http://nwga.craigslist.org/,Georgia
 30750,34.9335,-85.3794,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 30752,34.9017,-85.5171,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30753,34.5468,-85.3112,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30805,33.2941,-82.203,Augusta,http://augusta.craigslist.org/,G.org/ia
-30806,33.528,-82.5104,Augusta,http://augusta.craigslist.org/,G.org/ia
-30807,33.4471,-82.6422,Augusta,http://augusta.craigslist.org/,G.org/ia
-30808,33.407,-82.3955,Augusta,http://augusta.craigslist.org/,G.org/ia
-30809,33.5412,-82.1398,Augusta,http://augusta.craigslist.org/,G.org/ia
-30810,33.2471,-82.5766,Augusta,http://augusta.craigslist.org/,G.org/ia
-30813,33.4766,-82.2409,Augusta,http://augusta.craigslist.org/,G.org/ia
-30815,33.3433,-82.0887,Augusta,http://augusta.craigslist.org/,G.org/ia
-30816,33.1719,-82.1834,Augusta,http://augusta.craigslist.org/,G.org/ia
-30817,33.7773,-82.4435,Augusta,http://augusta.craigslist.org/,G.org/ia
-30818,33.2652,-82.3294,Augusta,http://augusta.craigslist.org/,G.org/ia
-30819,33.4324,-82.6252,Augusta,http://augusta.craigslist.org/,G.org/ia
-30820,33.2052,-82.6817,Augusta,http://augusta.craigslist.org/,G.org/ia
-30821,33.4789,-82.7356,Augusta,http://augusta.craigslist.org/,G.org/ia
-30822,32.9129,-81.8538,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30823,33.1894,-82.4597,Augusta,http://augusta.craigslist.org/,G.org/ia
-30824,33.4774,-82.4942,Augusta,http://augusta.craigslist.org/,G.org/ia
-30828,33.4091,-82.6357,Augusta,http://augusta.craigslist.org/,G.org/ia
-30833,33.2104,-82.381,Augusta,http://augusta.craigslist.org/,G.org/ia
-30901,33.4601,-81.973,Augusta,http://augusta.craigslist.org/,G.org/ia
-30903,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30904,33.4737,-82.0131,Augusta,http://augusta.craigslist.org/,G.org/ia
-30905,33.413,-82.1337,Augusta,http://augusta.craigslist.org/,G.org/ia
-30906,33.3589,-82.0099,Augusta,http://augusta.craigslist.org/,G.org/ia
-30907,33.5229,-82.0852,Augusta,http://augusta.craigslist.org/,G.org/ia
-30909,33.4717,-82.0834,Augusta,http://augusta.craigslist.org/,G.org/ia
-30910,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30911,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30912,33.4705,-81.9881,Augusta,http://augusta.craigslist.org/,G.org/ia
-30913,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30914,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30917,33.5277,-82.2355,Augusta,http://augusta.craigslist.org/,G.org/ia
-30919,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30999,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-31002,32.5635,-82.5695,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31003,32.6064,-83.2095,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31004,32.947,-83.8006,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31006,32.5726,-84.2343,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31007,32.189,-83.9332,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31008,32.6181,-83.789,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31010,31.9172,-83.7854,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31013,32.3386,-83.6926,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31017,32.593,-83.3033,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31018,32.9443,-82.6227,Augusta,http://augusta.craigslist.org/,G.org/ia
-31019,32.4356,-83.0528,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31021,32.4593,-82.9381,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31022,32.5259,-83.0899,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31027,32.5524,-82.7817,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31028,32.6344,-83.6768,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31029,33.0508,-83.9362,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31031,32.8813,-83.3029,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31032,33.0172,-83.54,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31033,33.0519,-83.4312,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31041,32.393,-84.1481,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31044,32.7411,-83.3859,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31045,33.2966,-82.7556,Augusta,http://augusta.craigslist.org/,G.org/ia
-31046,33.1194,-83.8235,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31049,32.7078,-82.5274,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31051,32.1469,-83.8913,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31052,32.7773,-83.825,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31055,32.0435,-82.8877,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31057,32.452,-83.9435,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31058,32.509,-84.3999,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31061,33.08,-83.2379,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31062,33.0491,-83.2174,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31063,32.3026,-84.0041,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31064,33.3118,-83.714,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31065,32.5619,-83.1601,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31066,32.8202,-84.0456,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31067,32.8767,-82.9469,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31068,32.2842,-84.083,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31069,32.4605,-83.7283,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31070,32.1967,-83.7209,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31071,32.0907,-83.5158,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31072,31.9425,-83.5579,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31073,32.1764,-83.1229,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31075,32.3799,-82.967,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31076,32.5541,-84.1011,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31077,31.938,-83.1837,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31078,32.7222,-84.0451,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31079,31.9491,-83.445,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31081,32.4325,-84.2738,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31082,32.975,-82.8406,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31083,32.0841,-82.9123,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31084,31.989,-83.3946,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31085,33.435,-83.6269,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31086,32.9895,-83.8761,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31087,33.2571,-83.0892,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31088,32.5934,-83.6416,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31089,32.9063,-82.84,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31090,32.8219,-83.0844,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31091,32.2558,-83.7447,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31092,32.0913,-83.7922,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31093,32.6368,-83.6395,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31094,33.1255,-82.8039,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31095,32.4874,-83.6697,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31096,32.7219,-82.7262,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31097,32.9156,-84.1593,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31098,32.6181,-83.5739,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31099,32.6462,-83.6513,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31106,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31107,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31119,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31120,33.7487,-84.3877,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31126,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31131,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31136,33.7473,-84.3824,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31139,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31141,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31145,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31146,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31150,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31156,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31191,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31192,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31193,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31195,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31196,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31197,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31198,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31199,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31201,32.8095,-83.6168,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31202,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31203,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31204,32.8424,-83.6766,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31205,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31206,32.7914,-83.679,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31207,32.8304,-83.6486,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31208,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31209,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31210,32.8926,-83.7455,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31211,32.8869,-83.6021,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31212,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31213,32.8393,-83.6388,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31216,32.7486,-83.7477,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31217,32.8118,-83.565,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31220,32.8595,-83.802,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31221,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31294,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31295,32.8102,-83.569,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31296,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31297,32.7004,-83.6572,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31298,32.8733,-83.7084,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31299,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31301,31.7741,-81.6186,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31302,32.1177,-81.3085,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31303,32.5126,-81.3086,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31304,31.4951,-81.3819,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31305,31.3826,-81.4312,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31307,32.1736,-81.3992,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31308,32.1273,-81.4983,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31309,31.8645,-81.4232,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31310,31.8068,-81.4371,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31312,32.314,-81.3896,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31313,31.8513,-81.6072,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31314,31.8701,-81.6318,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31315,31.8938,-81.5902,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31316,31.7705,-81.7453,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31318,32.1499,-81.3722,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31319,31.459,-81.3689,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31320,31.8018,-81.3909,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31321,32.1812,-81.6656,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31322,32.1149,-81.252,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31323,31.7357,-81.4671,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31324,31.8962,-81.294,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31326,32.2852,-81.2875,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31327,31.4951,-81.3819,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31328,32.0068,-80.8509,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31329,32.3697,-81.3618,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31331,31.5673,-81.4182,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31333,31.7705,-81.6208,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31401,32.0749,-81.0883,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31402,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31403,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31404,32.0543,-81.0492,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31405,32.0391,-81.1242,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31406,31.989,-81.0979,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31407,32.1672,-81.1999,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31408,32.1082,-81.1746,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31409,32.0093,-81.157,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31410,32.0175,-80.997,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31411,31.9268,-81.0381,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31412,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31414,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31415,32.0753,-81.1289,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31416,32.0053,-81.0477,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31418,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31419,31.9959,-81.2358,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31420,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31421,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31422,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31498,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31499,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,G.org/ia
-31501,31.2243,-82.3596,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31502,31.019,-82.4165,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31503,31.1932,-82.3766,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31510,31.5465,-82.4633,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31512,31.5367,-82.9976,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31513,31.7837,-82.3486,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31515,31.7177,-82.2997,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31516,31.2931,-82.2617,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31518,31.4833,-82.215,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31519,31.6484,-82.905,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31520,31.1807,-81.4949,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31521,31.2415,-81.5325,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31522,31.23,-81.3502,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31523,31.2189,-81.546,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31524,31.222,-81.4826,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31525,31.2804,-81.5305,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31527,31.074,-81.4128,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31532,31.7226,-82.7526,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31533,31.4973,-82.8465,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31534,31.5716,-82.8546,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31535,31.4551,-82.8561,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31537,30.8508,-82.0116,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31539,31.8606,-82.5909,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31542,31.1431,-82.1207,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31543,31.3199,-81.9596,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31544,31.8481,-82.975,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31545,31.6043,-81.8871,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31546,31.5319,-81.8049,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31547,30.7906,-81.5607,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31548,30.7977,-81.7075,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31549,31.9251,-82.7073,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31550,31.1088,-82.5742,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31551,31.4783,-82.217,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31552,31.2506,-82.6441,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31553,31.1827,-81.9722,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31554,31.4498,-82.6032,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31555,31.6999,-81.9943,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31556,31.4126,-82.1155,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31557,31.3903,-82.1274,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31558,30.7735,-81.5652,Brunswick,http://brunswick.craigslist.org/,G.org/ia
+30753,34.5468,-85.3112,Northwest GA,http://nwga.craigslist.org/,Georgia
+30805,33.2941,-82.203,Augusta,http://augusta.craigslist.org/,Georgia
+30806,33.528,-82.5104,Augusta,http://augusta.craigslist.org/,Georgia
+30807,33.4471,-82.6422,Augusta,http://augusta.craigslist.org/,Georgia
+30808,33.407,-82.3955,Augusta,http://augusta.craigslist.org/,Georgia
+30809,33.5412,-82.1398,Augusta,http://augusta.craigslist.org/,Georgia
+30810,33.2471,-82.5766,Augusta,http://augusta.craigslist.org/,Georgia
+30813,33.4766,-82.2409,Augusta,http://augusta.craigslist.org/,Georgia
+30815,33.3433,-82.0887,Augusta,http://augusta.craigslist.org/,Georgia
+30816,33.1719,-82.1834,Augusta,http://augusta.craigslist.org/,Georgia
+30817,33.7773,-82.4435,Augusta,http://augusta.craigslist.org/,Georgia
+30818,33.2652,-82.3294,Augusta,http://augusta.craigslist.org/,Georgia
+30819,33.4324,-82.6252,Augusta,http://augusta.craigslist.org/,Georgia
+30820,33.2052,-82.6817,Augusta,http://augusta.craigslist.org/,Georgia
+30821,33.4789,-82.7356,Augusta,http://augusta.craigslist.org/,Georgia
+30822,32.9129,-81.8538,Statesboro,http://statesboro.craigslist.org/,Georgia
+30823,33.1894,-82.4597,Augusta,http://augusta.craigslist.org/,Georgia
+30824,33.4774,-82.4942,Augusta,http://augusta.craigslist.org/,Georgia
+30828,33.4091,-82.6357,Augusta,http://augusta.craigslist.org/,Georgia
+30833,33.2104,-82.381,Augusta,http://augusta.craigslist.org/,Georgia
+30901,33.4601,-81.973,Augusta,http://augusta.craigslist.org/,Georgia
+30903,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30904,33.4737,-82.0131,Augusta,http://augusta.craigslist.org/,Georgia
+30905,33.413,-82.1337,Augusta,http://augusta.craigslist.org/,Georgia
+30906,33.3589,-82.0099,Augusta,http://augusta.craigslist.org/,Georgia
+30907,33.5229,-82.0852,Augusta,http://augusta.craigslist.org/,Georgia
+30909,33.4717,-82.0834,Augusta,http://augusta.craigslist.org/,Georgia
+30910,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30911,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30912,33.4705,-81.9881,Augusta,http://augusta.craigslist.org/,Georgia
+30913,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30914,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30917,33.5277,-82.2355,Augusta,http://augusta.craigslist.org/,Georgia
+30919,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30999,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+31002,32.5635,-82.5695,Statesboro,http://statesboro.craigslist.org/,Georgia
+31003,32.6064,-83.2095,macon / warner robins,http://macon.craigslist.org/,Georgia
+31004,32.947,-83.8006,macon / warner robins,http://macon.craigslist.org/,Georgia
+31006,32.5726,-84.2343,macon / warner robins,http://macon.craigslist.org/,Georgia
+31007,32.189,-83.9332,Albany ,http://albanyga.craigslist.org/,Georgia
+31008,32.6181,-83.789,macon / warner robins,http://macon.craigslist.org/,Georgia
+31010,31.9172,-83.7854,Albany ,http://albanyga.craigslist.org/,Georgia
+31013,32.3386,-83.6926,macon / warner robins,http://macon.craigslist.org/,Georgia
+31017,32.593,-83.3033,macon / warner robins,http://macon.craigslist.org/,Georgia
+31018,32.9443,-82.6227,Augusta,http://augusta.craigslist.org/,Georgia
+31019,32.4356,-83.0528,macon / warner robins,http://macon.craigslist.org/,Georgia
+31021,32.4593,-82.9381,macon / warner robins,http://macon.craigslist.org/,Georgia
+31022,32.5259,-83.0899,macon / warner robins,http://macon.craigslist.org/,Georgia
+31027,32.5524,-82.7817,macon / warner robins,http://macon.craigslist.org/,Georgia
+31028,32.6344,-83.6768,macon / warner robins,http://macon.craigslist.org/,Georgia
+31029,33.0508,-83.9362,macon / warner robins,http://macon.craigslist.org/,Georgia
+31031,32.8813,-83.3029,macon / warner robins,http://macon.craigslist.org/,Georgia
+31032,33.0172,-83.54,macon / warner robins,http://macon.craigslist.org/,Georgia
+31033,33.0519,-83.4312,macon / warner robins,http://macon.craigslist.org/,Georgia
+31041,32.393,-84.1481,macon / warner robins,http://macon.craigslist.org/,Georgia
+31044,32.7411,-83.3859,macon / warner robins,http://macon.craigslist.org/,Georgia
+31045,33.2966,-82.7556,Augusta,http://augusta.craigslist.org/,Georgia
+31046,33.1194,-83.8235,macon / warner robins,http://macon.craigslist.org/,Georgia
+31049,32.7078,-82.5274,Statesboro,http://statesboro.craigslist.org/,Georgia
+31051,32.1469,-83.8913,Albany ,http://albanyga.craigslist.org/,Georgia
+31052,32.7773,-83.825,macon / warner robins,http://macon.craigslist.org/,Georgia
+31055,32.0435,-82.8877,macon / warner robins,http://macon.craigslist.org/,Georgia
+31057,32.452,-83.9435,macon / warner robins,http://macon.craigslist.org/,Georgia
+31058,32.509,-84.3999,Columbus ,http://columbusga.craigslist.org/,Georgia
+31061,33.08,-83.2379,macon / warner robins,http://macon.craigslist.org/,Georgia
+31062,33.0491,-83.2174,macon / warner robins,http://macon.craigslist.org/,Georgia
+31063,32.3026,-84.0041,macon / warner robins,http://macon.craigslist.org/,Georgia
+31064,33.3118,-83.714,macon / warner robins,http://macon.craigslist.org/,Georgia
+31065,32.5619,-83.1601,macon / warner robins,http://macon.craigslist.org/,Georgia
+31066,32.8202,-84.0456,macon / warner robins,http://macon.craigslist.org/,Georgia
+31067,32.8767,-82.9469,macon / warner robins,http://macon.craigslist.org/,Georgia
+31068,32.2842,-84.083,macon / warner robins,http://macon.craigslist.org/,Georgia
+31069,32.4605,-83.7283,macon / warner robins,http://macon.craigslist.org/,Georgia
+31070,32.1967,-83.7209,macon / warner robins,http://macon.craigslist.org/,Georgia
+31071,32.0907,-83.5158,macon / warner robins,http://macon.craigslist.org/,Georgia
+31072,31.9425,-83.5579,Albany ,http://albanyga.craigslist.org/,Georgia
+31073,32.1764,-83.1229,macon / warner robins,http://macon.craigslist.org/,Georgia
+31075,32.3799,-82.967,macon / warner robins,http://macon.craigslist.org/,Georgia
+31076,32.5541,-84.1011,macon / warner robins,http://macon.craigslist.org/,Georgia
+31077,31.938,-83.1837,Albany ,http://albanyga.craigslist.org/,Georgia
+31078,32.7222,-84.0451,macon / warner robins,http://macon.craigslist.org/,Georgia
+31079,31.9491,-83.445,Albany ,http://albanyga.craigslist.org/,Georgia
+31081,32.4325,-84.2738,Columbus ,http://columbusga.craigslist.org/,Georgia
+31082,32.975,-82.8406,macon / warner robins,http://macon.craigslist.org/,Georgia
+31083,32.0841,-82.9123,Statesboro,http://statesboro.craigslist.org/,Georgia
+31084,31.989,-83.3946,Albany ,http://albanyga.craigslist.org/,Georgia
+31085,33.435,-83.6269,macon / warner robins,http://macon.craigslist.org/,Georgia
+31086,32.9895,-83.8761,macon / warner robins,http://macon.craigslist.org/,Georgia
+31087,33.2571,-83.0892,macon / warner robins,http://macon.craigslist.org/,Georgia
+31088,32.5934,-83.6416,macon / warner robins,http://macon.craigslist.org/,Georgia
+31089,32.9063,-82.84,macon / warner robins,http://macon.craigslist.org/,Georgia
+31090,32.8219,-83.0844,macon / warner robins,http://macon.craigslist.org/,Georgia
+31091,32.2558,-83.7447,macon / warner robins,http://macon.craigslist.org/,Georgia
+31092,32.0913,-83.7922,Albany ,http://albanyga.craigslist.org/,Georgia
+31093,32.6368,-83.6395,macon / warner robins,http://macon.craigslist.org/,Georgia
+31094,33.1255,-82.8039,macon / warner robins,http://macon.craigslist.org/,Georgia
+31095,32.4874,-83.6697,macon / warner robins,http://macon.craigslist.org/,Georgia
+31096,32.7219,-82.7262,macon / warner robins,http://macon.craigslist.org/,Georgia
+31097,32.9156,-84.1593,macon / warner robins,http://macon.craigslist.org/,Georgia
+31098,32.6181,-83.5739,macon / warner robins,http://macon.craigslist.org/,Georgia
+31099,32.6462,-83.6513,macon / warner robins,http://macon.craigslist.org/,Georgia
+31106,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31107,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31119,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+31120,33.7487,-84.3877,Atlanta,http://atlanta.craigslist.org/,Georgia
+31126,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31131,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31136,33.7473,-84.3824,Atlanta,http://atlanta.craigslist.org/,Georgia
+31139,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31141,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+31145,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+31146,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+31150,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31156,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31191,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31192,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31193,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31195,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31196,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31197,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31198,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31199,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31201,32.8095,-83.6168,macon / warner robins,http://macon.craigslist.org/,Georgia
+31202,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31203,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31204,32.8424,-83.6766,macon / warner robins,http://macon.craigslist.org/,Georgia
+31205,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31206,32.7914,-83.679,macon / warner robins,http://macon.craigslist.org/,Georgia
+31207,32.8304,-83.6486,macon / warner robins,http://macon.craigslist.org/,Georgia
+31208,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31209,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31210,32.8926,-83.7455,macon / warner robins,http://macon.craigslist.org/,Georgia
+31211,32.8869,-83.6021,macon / warner robins,http://macon.craigslist.org/,Georgia
+31212,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31213,32.8393,-83.6388,macon / warner robins,http://macon.craigslist.org/,Georgia
+31216,32.7486,-83.7477,macon / warner robins,http://macon.craigslist.org/,Georgia
+31217,32.8118,-83.565,macon / warner robins,http://macon.craigslist.org/,Georgia
+31220,32.8595,-83.802,macon / warner robins,http://macon.craigslist.org/,Georgia
+31221,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31294,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31295,32.8102,-83.569,macon / warner robins,http://macon.craigslist.org/,Georgia
+31296,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31297,32.7004,-83.6572,macon / warner robins,http://macon.craigslist.org/,Georgia
+31298,32.8733,-83.7084,macon / warner robins,http://macon.craigslist.org/,Georgia
+31299,32.8067,-83.6913,macon / warner robins,http://macon.craigslist.org/,Georgia
+31301,31.7741,-81.6186,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31302,32.1177,-81.3085,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31303,32.5126,-81.3086,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31304,31.4951,-81.3819,Brunswick,http://brunswick.craigslist.org/,Georgia
+31305,31.3826,-81.4312,Brunswick,http://brunswick.craigslist.org/,Georgia
+31307,32.1736,-81.3992,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31308,32.1273,-81.4983,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31309,31.8645,-81.4232,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31310,31.8068,-81.4371,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31312,32.314,-81.3896,Statesboro,http://statesboro.craigslist.org/,Georgia
+31313,31.8513,-81.6072,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31314,31.8701,-81.6318,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31315,31.8938,-81.5902,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31316,31.7705,-81.7453,Brunswick,http://brunswick.craigslist.org/,Georgia
+31318,32.1499,-81.3722,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31319,31.459,-81.3689,Brunswick,http://brunswick.craigslist.org/,Georgia
+31320,31.8018,-81.3909,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31321,32.1812,-81.6656,Statesboro,http://statesboro.craigslist.org/,Georgia
+31322,32.1149,-81.252,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31323,31.7357,-81.4671,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31324,31.8962,-81.294,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31326,32.2852,-81.2875,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31327,31.4951,-81.3819,Brunswick,http://brunswick.craigslist.org/,Georgia
+31328,32.0068,-80.8509,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31329,32.3697,-81.3618,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31331,31.5673,-81.4182,Brunswick,http://brunswick.craigslist.org/,Georgia
+31333,31.7705,-81.6208,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31401,32.0749,-81.0883,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31402,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31403,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31404,32.0543,-81.0492,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31405,32.0391,-81.1242,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31406,31.989,-81.0979,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31407,32.1672,-81.1999,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31408,32.1082,-81.1746,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31409,32.0093,-81.157,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31410,32.0175,-80.997,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31411,31.9268,-81.0381,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31412,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31414,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31415,32.0753,-81.1289,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31416,32.0053,-81.0477,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31418,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31419,31.9959,-81.2358,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31420,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31421,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31422,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31498,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31499,31.9714,-81.0716,savannah / hinesville,http://savannah.craigslist.org/,Georgia
+31501,31.2243,-82.3596,Brunswick,http://brunswick.craigslist.org/,Georgia
+31502,31.019,-82.4165,Brunswick,http://brunswick.craigslist.org/,Georgia
+31503,31.1932,-82.3766,Brunswick,http://brunswick.craigslist.org/,Georgia
+31510,31.5465,-82.4633,Brunswick,http://brunswick.craigslist.org/,Georgia
+31512,31.5367,-82.9976,Valdosta,http://valdosta.craigslist.org/,Georgia
+31513,31.7837,-82.3486,Statesboro,http://statesboro.craigslist.org/,Georgia
+31515,31.7177,-82.2997,Statesboro,http://statesboro.craigslist.org/,Georgia
+31516,31.2931,-82.2617,Brunswick,http://brunswick.craigslist.org/,Georgia
+31518,31.4833,-82.215,Brunswick,http://brunswick.craigslist.org/,Georgia
+31519,31.6484,-82.905,Valdosta,http://valdosta.craigslist.org/,Georgia
+31520,31.1807,-81.4949,Brunswick,http://brunswick.craigslist.org/,Georgia
+31521,31.2415,-81.5325,Brunswick,http://brunswick.craigslist.org/,Georgia
+31522,31.23,-81.3502,Brunswick,http://brunswick.craigslist.org/,Georgia
+31523,31.2189,-81.546,Brunswick,http://brunswick.craigslist.org/,Georgia
+31524,31.222,-81.4826,Brunswick,http://brunswick.craigslist.org/,Georgia
+31525,31.2804,-81.5305,Brunswick,http://brunswick.craigslist.org/,Georgia
+31527,31.074,-81.4128,Brunswick,http://brunswick.craigslist.org/,Georgia
+31532,31.7226,-82.7526,Valdosta,http://valdosta.craigslist.org/,Georgia
+31533,31.4973,-82.8465,Valdosta,http://valdosta.craigslist.org/,Georgia
+31534,31.5716,-82.8546,Valdosta,http://valdosta.craigslist.org/,Georgia
+31535,31.4551,-82.8561,Valdosta,http://valdosta.craigslist.org/,Georgia
+31537,30.8508,-82.0116,Brunswick,http://brunswick.craigslist.org/,Georgia
+31539,31.8606,-82.5909,Statesboro,http://statesboro.craigslist.org/,Georgia
+31542,31.1431,-82.1207,Brunswick,http://brunswick.craigslist.org/,Georgia
+31543,31.3199,-81.9596,Brunswick,http://brunswick.craigslist.org/,Georgia
+31544,31.8481,-82.975,Valdosta,http://valdosta.craigslist.org/,Georgia
+31545,31.6043,-81.8871,Brunswick,http://brunswick.craigslist.org/,Georgia
+31546,31.5319,-81.8049,Brunswick,http://brunswick.craigslist.org/,Georgia
+31547,30.7906,-81.5607,Brunswick,http://brunswick.craigslist.org/,Georgia
+31548,30.7977,-81.7075,Brunswick,http://brunswick.craigslist.org/,Georgia
+31549,31.9251,-82.7073,Statesboro,http://statesboro.craigslist.org/,Georgia
+31550,31.1088,-82.5742,Valdosta,http://valdosta.craigslist.org/,Georgia
+31551,31.4783,-82.217,Brunswick,http://brunswick.craigslist.org/,Georgia
+31552,31.2506,-82.6441,Valdosta,http://valdosta.craigslist.org/,Georgia
+31553,31.1827,-81.9722,Brunswick,http://brunswick.craigslist.org/,Georgia
+31554,31.4498,-82.6032,Valdosta,http://valdosta.craigslist.org/,Georgia
+31555,31.6999,-81.9943,Brunswick,http://brunswick.craigslist.org/,Georgia
+31556,31.4126,-82.1155,Brunswick,http://brunswick.craigslist.org/,Georgia
+31557,31.3903,-82.1274,Brunswick,http://brunswick.craigslist.org/,Georgia
+31558,30.7735,-81.5652,Brunswick,http://brunswick.craigslist.org/,Georgia
 31562,30.5224,-82.0376,Jacksonville,http://jacksonville.craigslist.org/,Florida
-31563,31.6489,-82.1982,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-31564,31.019,-82.4165,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31565,31.0427,-81.5697,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31566,31.2448,-81.8039,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31567,31.6143,-82.7243,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31568,30.9952,-81.7782,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31599,31.5782,-81.8802,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31601,30.7539,-83.3321,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31602,30.8931,-83.3278,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31603,30.828,-83.2522,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31604,30.828,-83.2522,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31620,31.1251,-83.4213,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31622,31.394,-83.2132,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31623,31.0744,-82.644,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31624,31.3035,-82.7319,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31625,31.0074,-83.5219,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31629,30.7722,-83.6792,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31630,31,-82.8555,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+31563,31.6489,-82.1982,Statesboro,http://statesboro.craigslist.org/,Georgia
+31564,31.019,-82.4165,Valdosta,http://valdosta.craigslist.org/,Georgia
+31565,31.0427,-81.5697,Brunswick,http://brunswick.craigslist.org/,Georgia
+31566,31.2448,-81.8039,Brunswick,http://brunswick.craigslist.org/,Georgia
+31567,31.6143,-82.7243,Valdosta,http://valdosta.craigslist.org/,Georgia
+31568,30.9952,-81.7782,Brunswick,http://brunswick.craigslist.org/,Georgia
+31599,31.5782,-81.8802,Brunswick,http://brunswick.craigslist.org/,Georgia
+31601,30.7539,-83.3321,Valdosta,http://valdosta.craigslist.org/,Georgia
+31602,30.8931,-83.3278,Valdosta,http://valdosta.craigslist.org/,Georgia
+31603,30.828,-83.2522,Valdosta,http://valdosta.craigslist.org/,Georgia
+31604,30.828,-83.2522,Valdosta,http://valdosta.craigslist.org/,Georgia
+31620,31.1251,-83.4213,Valdosta,http://valdosta.craigslist.org/,Georgia
+31622,31.394,-83.2132,Valdosta,http://valdosta.craigslist.org/,Georgia
+31623,31.0744,-82.644,Valdosta,http://valdosta.craigslist.org/,Georgia
+31624,31.3035,-82.7319,Valdosta,http://valdosta.craigslist.org/,Georgia
+31625,31.0074,-83.5219,Valdosta,http://valdosta.craigslist.org/,Georgia
+31629,30.7722,-83.6792,Valdosta,http://valdosta.craigslist.org/,Georgia
+31630,31,-82.8555,Valdosta,http://valdosta.craigslist.org/,Georgia
 31631,30.7166,-82.5801,North Central FL,http://lakecity.craigslist.org/,Florida
-31632,30.9416,-83.3574,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31634,31.0509,-82.7613,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31635,31.0381,-83.0889,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31638,30.9248,-83.54,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31639,31.2074,-83.2319,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31641,30.8985,-83.1224,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31642,31.3106,-82.8591,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31643,30.7797,-83.5567,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31647,31.179,-83.4476,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31648,30.7065,-83.019,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31649,31.0229,-83.0139,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31650,31.3455,-83.0449,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31698,30.8485,-83.2878,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31699,30.9751,-83.2072,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31703,31.5431,-84.2196,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31704,31.55,-84.0612,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31705,31.5464,-84.0783,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31706,31.5593,-84.1765,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31707,31.5789,-84.2118,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31708,31.5911,-84.1324,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31711,32.1559,-84.164,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31712,31.8496,-83.7277,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31713,31.4456,-84.7257,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31714,31.7059,-83.6608,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31632,30.9416,-83.3574,Valdosta,http://valdosta.craigslist.org/,Georgia
+31634,31.0509,-82.7613,Valdosta,http://valdosta.craigslist.org/,Georgia
+31635,31.0381,-83.0889,Valdosta,http://valdosta.craigslist.org/,Georgia
+31638,30.9248,-83.54,Valdosta,http://valdosta.craigslist.org/,Georgia
+31639,31.2074,-83.2319,Valdosta,http://valdosta.craigslist.org/,Georgia
+31641,30.8985,-83.1224,Valdosta,http://valdosta.craigslist.org/,Georgia
+31642,31.3106,-82.8591,Valdosta,http://valdosta.craigslist.org/,Georgia
+31643,30.7797,-83.5567,Valdosta,http://valdosta.craigslist.org/,Georgia
+31647,31.179,-83.4476,Valdosta,http://valdosta.craigslist.org/,Georgia
+31648,30.7065,-83.019,Valdosta,http://valdosta.craigslist.org/,Georgia
+31649,31.0229,-83.0139,Valdosta,http://valdosta.craigslist.org/,Georgia
+31650,31.3455,-83.0449,Valdosta,http://valdosta.craigslist.org/,Georgia
+31698,30.8485,-83.2878,Valdosta,http://valdosta.craigslist.org/,Georgia
+31699,30.9751,-83.2072,Valdosta,http://valdosta.craigslist.org/,Georgia
+31703,31.5431,-84.2196,Albany ,http://albanyga.craigslist.org/,Georgia
+31704,31.55,-84.0612,Albany ,http://albanyga.craigslist.org/,Georgia
+31705,31.5464,-84.0783,Albany ,http://albanyga.craigslist.org/,Georgia
+31706,31.5593,-84.1765,Albany ,http://albanyga.craigslist.org/,Georgia
+31707,31.5789,-84.2118,Albany ,http://albanyga.craigslist.org/,Georgia
+31708,31.5911,-84.1324,Albany ,http://albanyga.craigslist.org/,Georgia
+31711,32.1559,-84.164,Albany ,http://albanyga.craigslist.org/,Georgia
+31712,31.8496,-83.7277,Albany ,http://albanyga.craigslist.org/,Georgia
+31713,31.4456,-84.7257,Albany ,http://albanyga.craigslist.org/,Georgia
+31714,31.7059,-83.6608,Albany ,http://albanyga.craigslist.org/,Georgia
 31715,30.7506,-84.486,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31716,31.3878,-84.1134,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31719,32.0833,-84.2975,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31720,30.8566,-83.5265,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31721,31.5105,-84.3087,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31722,31.0807,-83.6491,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+31716,31.3878,-84.1134,Albany ,http://albanyga.craigslist.org/,Georgia
+31719,32.0833,-84.2975,Albany ,http://albanyga.craigslist.org/,Georgia
+31720,30.8566,-83.5265,Valdosta,http://valdosta.craigslist.org/,Georgia
+31721,31.5105,-84.3087,Albany ,http://albanyga.craigslist.org/,Georgia
+31722,31.0807,-83.6491,Valdosta,http://valdosta.craigslist.org/,Georgia
 31723,31.3719,-84.9353,Dothan,http://dothan.craigslist.org/,Alabama
 31724,31.5562,-84.8772,Dothan,http://dothan.craigslist.org/,Alabama
-31727,31.4417,-83.5037,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+31727,31.4417,-83.5037,Valdosta,http://valdosta.craigslist.org/,Georgia
 31728,30.8925,-84.1962,Tallahassee,http://tallahassee.craigslist.org/,Florida
 31729,30.7147,-84.3518,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31730,31.2199,-84.2297,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31730,31.2199,-84.2297,Albany ,http://albanyga.craigslist.org/,Georgia
 31732,31.2956,-84.8711,Dothan,http://dothan.craigslist.org/,Alabama
-31733,31.5439,-83.5509,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31736,31.6568,-84.8745,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31733,31.5439,-83.5509,Albany ,http://albanyga.craigslist.org/,Georgia
+31736,31.6568,-84.8745,Albany ,http://albanyga.craigslist.org/,Georgia
 31737,31.1619,-84.7309,Dothan,http://dothan.craigslist.org/,Alabama
-31738,30.9859,-83.8752,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31739,31.2604,-84.2531,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31740,31.7691,-84.7889,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31743,31.9502,-84.0271,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31744,31.3136,-83.9253,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31738,30.9859,-83.8752,Valdosta,http://valdosta.craigslist.org/,Georgia
+31739,31.2604,-84.2531,Albany ,http://albanyga.craigslist.org/,Georgia
+31740,31.7691,-84.7889,Albany ,http://albanyga.craigslist.org/,Georgia
+31743,31.9502,-84.0271,Albany ,http://albanyga.craigslist.org/,Georgia
+31744,31.3136,-83.9253,Albany ,http://albanyga.craigslist.org/,Georgia
 31745,30.9818,-84.887,Dothan,http://dothan.craigslist.org/,Alabama
-31746,31.565,-84.7456,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31747,31.1788,-83.5889,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31749,31.3736,-83.3552,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+31746,31.565,-84.7456,Albany ,http://albanyga.craigslist.org/,Georgia
+31747,31.1788,-83.5889,Valdosta,http://valdosta.craigslist.org/,Georgia
+31749,31.3736,-83.3552,Valdosta,http://valdosta.craigslist.org/,Georgia
 31752,30.7919,-84.5499,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31753,31.2054,-83.8776,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31754,31.8848,-85.0711,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31756,31.2173,-83.9704,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31753,31.2054,-83.8776,Albany ,http://albanyga.craigslist.org/,Georgia
+31754,31.8848,-85.0711,Columbus ,http://columbusga.craigslist.org/,Georgia
+31756,31.2173,-83.9704,Albany ,http://albanyga.craigslist.org/,Georgia
 31757,30.8536,-83.8883,Tallahassee,http://tallahassee.craigslist.org/,Florida
 31758,30.8682,-83.9278,Tallahassee,http://tallahassee.craigslist.org/,Florida
 31761,31.0894,-84.9861,Dothan,http://dothan.craigslist.org/,Alabama
-31762,31.4843,-84.5137,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31763,31.6812,-84.1593,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31764,31.954,-84.0783,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31765,31.0625,-84.0824,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31766,31.5566,-84.6178,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31769,31.6209,-83.2498,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31770,31.3134,-84.4411,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31771,31.2462,-83.6549,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31772,31.7798,-83.9706,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31762,31.4843,-84.5137,Albany ,http://albanyga.craigslist.org/,Georgia
+31763,31.6812,-84.1593,Albany ,http://albanyga.craigslist.org/,Georgia
+31764,31.954,-84.0783,Albany ,http://albanyga.craigslist.org/,Georgia
+31765,31.0625,-84.0824,Albany ,http://albanyga.craigslist.org/,Georgia
+31766,31.5566,-84.6178,Albany ,http://albanyga.craigslist.org/,Georgia
+31769,31.6209,-83.2498,Albany ,http://albanyga.craigslist.org/,Georgia
+31770,31.3134,-84.4411,Albany ,http://albanyga.craigslist.org/,Georgia
+31771,31.2462,-83.6549,Albany ,http://albanyga.craigslist.org/,Georgia
+31772,31.7798,-83.9706,Albany ,http://albanyga.craigslist.org/,Georgia
 31773,30.9594,-84.0326,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31774,31.5929,-83.2565,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31777,31.9117,-84.5061,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31778,30.9401,-83.7409,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31779,31.1272,-84.1564,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31780,32.0339,-84.3586,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31781,31.5384,-83.7843,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31784,31.26,-84.0422,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31785,31.69,-84.3275,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31786,31.7434,-84.6166,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31787,31.8847,-84.2271,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31788,31.0855,-83.6821,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31789,31.5392,-83.7245,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31774,31.5929,-83.2565,Valdosta,http://valdosta.craigslist.org/,Georgia
+31777,31.9117,-84.5061,Albany ,http://albanyga.craigslist.org/,Georgia
+31778,30.9401,-83.7409,Valdosta,http://valdosta.craigslist.org/,Georgia
+31779,31.1272,-84.1564,Albany ,http://albanyga.craigslist.org/,Georgia
+31780,32.0339,-84.3586,Albany ,http://albanyga.craigslist.org/,Georgia
+31781,31.5384,-83.7843,Albany ,http://albanyga.craigslist.org/,Georgia
+31784,31.26,-84.0422,Albany ,http://albanyga.craigslist.org/,Georgia
+31785,31.69,-84.3275,Albany ,http://albanyga.craigslist.org/,Georgia
+31786,31.7434,-84.6166,Albany ,http://albanyga.craigslist.org/,Georgia
+31787,31.8847,-84.2271,Albany ,http://albanyga.craigslist.org/,Georgia
+31788,31.0855,-83.6821,Valdosta,http://valdosta.craigslist.org/,Georgia
+31789,31.5392,-83.7245,Albany ,http://albanyga.craigslist.org/,Georgia
 31792,30.8385,-83.9696,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31793,31.4619,-83.5873,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31794,31.4639,-83.4999,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31795,31.4752,-83.5921,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31796,31.7622,-83.8762,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31793,31.4619,-83.5873,Albany ,http://albanyga.craigslist.org/,Georgia
+31794,31.4639,-83.4999,Albany ,http://albanyga.craigslist.org/,Georgia
+31795,31.4752,-83.5921,Albany ,http://albanyga.craigslist.org/,Georgia
+31796,31.7622,-83.8762,Albany ,http://albanyga.craigslist.org/,Georgia
 31797,30.907,-84.3158,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31801,32.5195,-84.5927,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31803,32.2542,-84.4898,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31804,32.6242,-84.9207,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31805,32.299,-84.7645,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31806,32.239,-84.3039,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31807,32.6312,-84.7895,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31811,32.7418,-84.8848,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31812,32.608,-84.4574,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31814,32.0766,-84.8497,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31815,32.0435,-84.8022,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31816,32.8721,-84.6312,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31822,32.8735,-84.896,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31823,32.8226,-84.8204,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31824,32.074,-84.5489,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31825,32.0846,-84.6667,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31826,32.8067,-84.7412,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31827,32.6797,-84.5462,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31831,32.6793,-84.7425,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31832,31.9637,-84.5756,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31801,32.5195,-84.5927,Columbus ,http://columbusga.craigslist.org/,Georgia
+31803,32.2542,-84.4898,Columbus ,http://columbusga.craigslist.org/,Georgia
+31804,32.6242,-84.9207,Columbus ,http://columbusga.craigslist.org/,Georgia
+31805,32.299,-84.7645,Columbus ,http://columbusga.craigslist.org/,Georgia
+31806,32.239,-84.3039,Columbus ,http://columbusga.craigslist.org/,Georgia
+31807,32.6312,-84.7895,Columbus ,http://columbusga.craigslist.org/,Georgia
+31811,32.7418,-84.8848,Columbus ,http://columbusga.craigslist.org/,Georgia
+31812,32.608,-84.4574,Columbus ,http://columbusga.craigslist.org/,Georgia
+31814,32.0766,-84.8497,Columbus ,http://columbusga.craigslist.org/,Georgia
+31815,32.0435,-84.8022,Columbus ,http://columbusga.craigslist.org/,Georgia
+31816,32.8721,-84.6312,Columbus ,http://columbusga.craigslist.org/,Georgia
+31822,32.8735,-84.896,Columbus ,http://columbusga.craigslist.org/,Georgia
+31823,32.8226,-84.8204,Columbus ,http://columbusga.craigslist.org/,Georgia
+31824,32.074,-84.5489,Columbus ,http://columbusga.craigslist.org/,Georgia
+31825,32.0846,-84.6667,Columbus ,http://columbusga.craigslist.org/,Georgia
+31826,32.8067,-84.7412,Columbus ,http://columbusga.craigslist.org/,Georgia
+31827,32.6797,-84.5462,Columbus ,http://columbusga.craigslist.org/,Georgia
+31831,32.6793,-84.7425,Columbus ,http://columbusga.craigslist.org/,Georgia
+31832,31.9637,-84.5756,Albany ,http://albanyga.craigslist.org/,Georgia
 31833,32.8337,-85.1197,Auburn,http://auburn.craigslist.org/,Alabama
-31836,32.79,-84.5654,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31903,32.4245,-84.9481,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31904,32.5161,-84.9785,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31905,32.3923,-84.9315,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31906,32.4638,-84.9484,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31907,32.4779,-84.898,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31908,32.5349,-84.9065,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31917,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31993,32.4821,-84.9771,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31994,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31995,32.4958,-84.964,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31997,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31998,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+31836,32.79,-84.5654,Columbus ,http://columbusga.craigslist.org/,Georgia
+31903,32.4245,-84.9481,Columbus ,http://columbusga.craigslist.org/,Georgia
+31904,32.5161,-84.9785,Columbus ,http://columbusga.craigslist.org/,Georgia
+31905,32.3923,-84.9315,Columbus ,http://columbusga.craigslist.org/,Georgia
+31906,32.4638,-84.9484,Columbus ,http://columbusga.craigslist.org/,Georgia
+31907,32.4779,-84.898,Columbus ,http://columbusga.craigslist.org/,Georgia
+31908,32.5349,-84.9065,Columbus ,http://columbusga.craigslist.org/,Georgia
+31917,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,Georgia
+31993,32.4821,-84.9771,Columbus ,http://columbusga.craigslist.org/,Georgia
+31994,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,Georgia
+31995,32.4958,-84.964,Columbus ,http://columbusga.craigslist.org/,Georgia
+31997,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,Georgia
+31998,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,Georgia
 32004,29.9377,-81.4206,St Augustine,http://staugustine.craigslist.org/,Florida
 32006,30.107,-81.7167,Jacksonville,http://jacksonville.craigslist.org/,Florida
 32007,29.7996,-81.6273,St Augustine,http://staugustine.craigslist.org/,Florida
@@ -9381,12 +9381,12 @@
 32043,29.9983,-81.7647,St Augustine,http://staugustine.craigslist.org/,Florida
 32044,29.8575,-82.1483,Gainesville,http://gainesville.craigslist.org/,Florida
 32046,30.6884,-81.9345,Jacksonville,http://jacksonville.craigslist.org/,Florida
-32053,30.5482,-83.135,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+32053,30.5482,-83.135,Valdosta,http://valdosta.craigslist.org/,Georgia
 32054,30.0035,-82.3828,North Central FL,http://lakecity.craigslist.org/,Florida
 32055,30.2702,-82.6254,North Central FL,http://lakecity.craigslist.org/,Florida
 32056,30.1628,-82.6512,North Central FL,http://lakecity.craigslist.org/,Florida
 32058,30.0472,-82.1055,Gainesville,http://gainesville.craigslist.org/,Florida
-32059,30.3979,-83.2844,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+32059,30.3979,-83.2844,Valdosta,http://valdosta.craigslist.org/,Georgia
 32062,30.1509,-82.9662,North Central FL,http://lakecity.craigslist.org/,Florida
 32063,30.2737,-82.1325,Jacksonville,http://jacksonville.craigslist.org/,Florida
 32064,30.2956,-82.9844,North Central FL,http://lakecity.craigslist.org/,Florida
@@ -9497,7 +9497,7 @@
 32327,30.2108,-84.3205,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32329,29.7455,-85.0239,Panama City,http://panamacity.craigslist.org/,Florida
 32330,30.5653,-84.736,Tallahassee,http://tallahassee.craigslist.org/,Florida
-32331,30.4512,-83.6474,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+32331,30.4512,-83.6474,Valdosta,http://valdosta.craigslist.org/,Georgia
 32334,30.3639,-84.8054,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32335,30.2889,-84.8484,Panama City,http://panamacity.craigslist.org/,Florida
 32345,30.3422,-83.8402,Tallahassee,http://tallahassee.craigslist.org/,Florida
@@ -20732,7 +20732,7 @@
 29137,33.5972,-81.3184,Columbia,http://columbia.craigslist.org/,South Carolina
 29146,33.5343,-81.2499,Columbia,http://columbia.craigslist.org/,South Carolina
 29153,33.9446,-80.3206,Columbia,http://columbia.craigslist.org/,South Carolina
-29166,33.8849,-81.7283,Augusta,http://augusta.craigslist.org/,G.org/ia
+29166,33.8849,-81.7283,Augusta,http://augusta.craigslist.org/,Georgia
 29170,33.9568,-81.1405,Columbia,http://columbia.craigslist.org/,South Carolina
 29178,34.4955,-81.606,Columbia,http://columbia.craigslist.org/,South Carolina
 29205,33.9903,-80.9997,Columbia,http://columbia.craigslist.org/,South Carolina
@@ -20786,165 +20786,165 @@
 29729,34.6822,-80.9891,Charlotte,http://charlotte.craigslist.org/,North Carolina
 29730,34.9151,-81.0129,Charlotte,http://charlotte.craigslist.org/,North Carolina
 29742,34.9084,-81.3729,Charlotte,http://charlotte.craigslist.org/,North Carolina
-29827,32.9515,-81.2586,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-29832,33.8231,-81.7972,Augusta,http://augusta.craigslist.org/,G.org/ia
-29842,33.4707,-81.8639,Augusta,http://augusta.craigslist.org/,G.org/ia
-29844,33.7854,-82.2111,Augusta,http://augusta.craigslist.org/,G.org/ia
-29851,33.526,-81.7956,Augusta,http://augusta.craigslist.org/,G.org/ia
-29853,33.3926,-81.4161,Augusta,http://augusta.craigslist.org/,G.org/ia
+29827,32.9515,-81.2586,Statesboro,http://statesboro.craigslist.org/,Georgia
+29832,33.8231,-81.7972,Augusta,http://augusta.craigslist.org/,Georgia
+29842,33.4707,-81.8639,Augusta,http://augusta.craigslist.org/,Georgia
+29844,33.7854,-82.2111,Augusta,http://augusta.craigslist.org/,Georgia
+29851,33.526,-81.7956,Augusta,http://augusta.craigslist.org/,Georgia
+29853,33.3926,-81.4161,Augusta,http://augusta.craigslist.org/,Georgia
 29945,32.643,-80.8129,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
-30002,33.7717,-84.2607,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30008,33.8972,-84.592,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30010,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30014,33.5293,-83.8496,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30042,33.9295,-84.1032,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30045,33.9367,-83.9573,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30049,33.9495,-83.9922,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30052,33.8769,-83.8968,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30054,33.6706,-83.874,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30063,33.9653,-84.5112,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30074,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30075,34.0408,-84.3859,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30087,33.8105,-84.1361,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30088,33.758,-84.1802,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30093,33.906,-84.184,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30095,34.0256,-84.1304,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30098,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30099,33.9595,-84.105,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30110,33.7309,-85.1286,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30119,33.6189,-85.0736,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30120,34.187,-84.8204,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30122,33.7655,-84.6469,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30133,33.6897,-84.7446,Atlanta,http://atlanta.craigslist.org/,G.org/ia
+30002,33.7717,-84.2607,Atlanta,http://atlanta.craigslist.org/,Georgia
+30008,33.8972,-84.592,Atlanta,http://atlanta.craigslist.org/,Georgia
+30010,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,Georgia
+30014,33.5293,-83.8496,Atlanta,http://atlanta.craigslist.org/,Georgia
+30042,33.9295,-84.1032,Atlanta,http://atlanta.craigslist.org/,Georgia
+30045,33.9367,-83.9573,Atlanta,http://atlanta.craigslist.org/,Georgia
+30049,33.9495,-83.9922,Atlanta,http://atlanta.craigslist.org/,Georgia
+30052,33.8769,-83.8968,Atlanta,http://atlanta.craigslist.org/,Georgia
+30054,33.6706,-83.874,Atlanta,http://atlanta.craigslist.org/,Georgia
+30063,33.9653,-84.5112,Atlanta,http://atlanta.craigslist.org/,Georgia
+30074,33.8913,-84.0746,Atlanta,http://atlanta.craigslist.org/,Georgia
+30075,34.0408,-84.3859,Atlanta,http://atlanta.craigslist.org/,Georgia
+30087,33.8105,-84.1361,Atlanta,http://atlanta.craigslist.org/,Georgia
+30088,33.758,-84.1802,Atlanta,http://atlanta.craigslist.org/,Georgia
+30093,33.906,-84.184,Atlanta,http://atlanta.craigslist.org/,Georgia
+30095,34.0256,-84.1304,Atlanta,http://atlanta.craigslist.org/,Georgia
+30098,33.9604,-84.0379,Atlanta,http://atlanta.craigslist.org/,Georgia
+30099,33.9595,-84.105,Atlanta,http://atlanta.craigslist.org/,Georgia
+30110,33.7309,-85.1286,Atlanta,http://atlanta.craigslist.org/,Georgia
+30119,33.6189,-85.0736,Atlanta,http://atlanta.craigslist.org/,Georgia
+30120,34.187,-84.8204,Northwest GA,http://nwga.craigslist.org/,Georgia
+30122,33.7655,-84.6469,Atlanta,http://atlanta.craigslist.org/,Georgia
+30133,33.6897,-84.7446,Atlanta,http://atlanta.craigslist.org/,Georgia
 30138,33.9999,-85.1723,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
-30157,33.9045,-84.8621,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30161,34.2507,-85.1465,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30162,34.2905,-85.2138,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30164,34.3333,-85.2337,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30180,33.7173,-84.9297,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30182,33.684,-85.2197,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30212,33.2782,-84.2888,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30230,33.1644,-84.9309,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-30237,33.5007,-84.3513,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30238,33.4944,-84.3797,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30259,33.2734,-84.7566,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30263,33.3696,-84.8194,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30266,33.2657,-84.299,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30269,33.3915,-84.5635,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30305,33.832,-84.3851,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30306,33.786,-84.3514,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30319,33.8687,-84.3351,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30320,33.6568,-84.4236,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30321,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30322,33.7952,-84.3248,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30325,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30327,33.8627,-84.42,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30328,33.9335,-84.3958,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30332,33.7763,-84.398,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30353,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30361,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30377,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30389,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30390,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30392,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30425,32.6549,-82.1002,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30428,32.1572,-82.6759,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30434,33.0163,-82.3836,Augusta,http://augusta.craigslist.org/,G.org/ia
-30436,32.1711,-82.3078,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30438,32.0507,-81.9983,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30441,32.8638,-82.2042,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30442,32.7877,-81.9618,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30445,32.184,-82.5867,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30451,32.4143,-82.0867,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30453,32.0548,-82.1478,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30455,32.723,-81.7933,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30541,34.9129,-84.5391,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30604,33.9443,-83.3891,Athens,http://athensga.craigslist.org/,G.org/ia
-30609,33.9464,-83.3774,Athens,http://athensga.craigslist.org/,G.org/ia
-30619,33.8803,-83.2341,Athens,http://athensga.craigslist.org/,G.org/ia
-30621,33.8081,-83.4777,Athens,http://athensga.craigslist.org/,G.org/ia
-30628,34.0382,-83.2191,Athens,http://athensga.craigslist.org/,G.org/ia
-30629,34.0888,-83.122,Athens,http://athensga.craigslist.org/,G.org/ia
-30633,34.1708,-83.2758,Athens,http://athensga.craigslist.org/,G.org/ia
-30634,34.1853,-82.9434,Athens,http://athensga.craigslist.org/,G.org/ia
-30638,33.7558,-83.4201,Athens,http://athensga.craigslist.org/,G.org/ia
-30642,33.5637,-83.1702,Athens,http://athensga.craigslist.org/,G.org/ia
-30646,34.0478,-83.311,Athens,http://athensga.craigslist.org/,G.org/ia
-30650,33.5947,-83.4618,Athens,http://athensga.craigslist.org/,G.org/ia
-30663,33.6163,-83.6023,Athens,http://athensga.craigslist.org/,G.org/ia
-30719,34.8019,-84.9898,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30722,34.7595,-84.9513,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30724,34.7878,-84.7779,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30732,34.569,-84.7119,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30157,33.9045,-84.8621,Atlanta,http://atlanta.craigslist.org/,Georgia
+30161,34.2507,-85.1465,Northwest GA,http://nwga.craigslist.org/,Georgia
+30162,34.2905,-85.2138,Northwest GA,http://nwga.craigslist.org/,Georgia
+30164,34.3333,-85.2337,Northwest GA,http://nwga.craigslist.org/,Georgia
+30180,33.7173,-84.9297,Atlanta,http://atlanta.craigslist.org/,Georgia
+30182,33.684,-85.2197,Atlanta,http://atlanta.craigslist.org/,Georgia
+30212,33.2782,-84.2888,Atlanta,http://atlanta.craigslist.org/,Georgia
+30230,33.1644,-84.9309,Columbus ,http://columbusga.craigslist.org/,Georgia
+30237,33.5007,-84.3513,Atlanta,http://atlanta.craigslist.org/,Georgia
+30238,33.4944,-84.3797,Atlanta,http://atlanta.craigslist.org/,Georgia
+30259,33.2734,-84.7566,Atlanta,http://atlanta.craigslist.org/,Georgia
+30263,33.3696,-84.8194,Atlanta,http://atlanta.craigslist.org/,Georgia
+30266,33.2657,-84.299,Atlanta,http://atlanta.craigslist.org/,Georgia
+30269,33.3915,-84.5635,Atlanta,http://atlanta.craigslist.org/,Georgia
+30305,33.832,-84.3851,Atlanta,http://atlanta.craigslist.org/,Georgia
+30306,33.786,-84.3514,Atlanta,http://atlanta.craigslist.org/,Georgia
+30319,33.8687,-84.3351,Atlanta,http://atlanta.craigslist.org/,Georgia
+30320,33.6568,-84.4236,Atlanta,http://atlanta.craigslist.org/,Georgia
+30321,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30322,33.7952,-84.3248,Atlanta,http://atlanta.craigslist.org/,Georgia
+30325,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30327,33.8627,-84.42,Atlanta,http://atlanta.craigslist.org/,Georgia
+30328,33.9335,-84.3958,Atlanta,http://atlanta.craigslist.org/,Georgia
+30332,33.7763,-84.398,Atlanta,http://atlanta.craigslist.org/,Georgia
+30353,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30361,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30377,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30389,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30390,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30392,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30425,32.6549,-82.1002,Statesboro,http://statesboro.craigslist.org/,Georgia
+30428,32.1572,-82.6759,Statesboro,http://statesboro.craigslist.org/,Georgia
+30434,33.0163,-82.3836,Augusta,http://augusta.craigslist.org/,Georgia
+30436,32.1711,-82.3078,Statesboro,http://statesboro.craigslist.org/,Georgia
+30438,32.0507,-81.9983,Statesboro,http://statesboro.craigslist.org/,Georgia
+30441,32.8638,-82.2042,Statesboro,http://statesboro.craigslist.org/,Georgia
+30442,32.7877,-81.9618,Statesboro,http://statesboro.craigslist.org/,Georgia
+30445,32.184,-82.5867,Statesboro,http://statesboro.craigslist.org/,Georgia
+30451,32.4143,-82.0867,Statesboro,http://statesboro.craigslist.org/,Georgia
+30453,32.0548,-82.1478,Statesboro,http://statesboro.craigslist.org/,Georgia
+30455,32.723,-81.7933,Statesboro,http://statesboro.craigslist.org/,Georgia
+30541,34.9129,-84.5391,Northwest GA,http://nwga.craigslist.org/,Georgia
+30604,33.9443,-83.3891,Athens,http://athensga.craigslist.org/,Georgia
+30609,33.9464,-83.3774,Athens,http://athensga.craigslist.org/,Georgia
+30619,33.8803,-83.2341,Athens,http://athensga.craigslist.org/,Georgia
+30621,33.8081,-83.4777,Athens,http://athensga.craigslist.org/,Georgia
+30628,34.0382,-83.2191,Athens,http://athensga.craigslist.org/,Georgia
+30629,34.0888,-83.122,Athens,http://athensga.craigslist.org/,Georgia
+30633,34.1708,-83.2758,Athens,http://athensga.craigslist.org/,Georgia
+30634,34.1853,-82.9434,Athens,http://athensga.craigslist.org/,Georgia
+30638,33.7558,-83.4201,Athens,http://athensga.craigslist.org/,Georgia
+30642,33.5637,-83.1702,Athens,http://athensga.craigslist.org/,Georgia
+30646,34.0478,-83.311,Athens,http://athensga.craigslist.org/,Georgia
+30650,33.5947,-83.4618,Athens,http://athensga.craigslist.org/,Georgia
+30663,33.6163,-83.6023,Athens,http://athensga.craigslist.org/,Georgia
+30719,34.8019,-84.9898,Northwest GA,http://nwga.craigslist.org/,Georgia
+30722,34.7595,-84.9513,Northwest GA,http://nwga.craigslist.org/,Georgia
+30724,34.7878,-84.7779,Northwest GA,http://nwga.craigslist.org/,Georgia
+30732,34.569,-84.7119,Northwest GA,http://nwga.craigslist.org/,Georgia
 30738,34.8139,-85.5019,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 30739,34.8065,-85.2415,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 30742,34.9506,-85.2432,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30746,34.5519,-85.026,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30751,34.9814,-84.7352,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30755,34.8541,-85.0468,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30746,34.5519,-85.026,Northwest GA,http://nwga.craigslist.org/,Georgia
+30751,34.9814,-84.7352,Northwest GA,http://nwga.craigslist.org/,Georgia
+30755,34.8541,-85.0468,Northwest GA,http://nwga.craigslist.org/,Georgia
 30756,34.9298,-84.9885,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 30757,34.9779,-85.4305,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30802,33.6271,-82.2856,Augusta,http://augusta.craigslist.org/,G.org/ia
-30803,33.141,-82.515,Augusta,http://augusta.craigslist.org/,G.org/ia
-30811,33.0505,-81.9292,Augusta,http://augusta.craigslist.org/,G.org/ia
-30812,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-30814,33.417,-82.3097,Augusta,http://augusta.craigslist.org/,G.org/ia
-30830,33.1013,-81.9908,Augusta,http://augusta.craigslist.org/,G.org/ia
-30916,33.386,-82.091,Augusta,http://augusta.craigslist.org/,G.org/ia
-31001,31.9648,-83.3068,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31005,32.546,-83.6047,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31009,32.3174,-83.0268,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31011,32.1504,-83.0555,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31012,32.3982,-83.174,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31014,32.3981,-83.3229,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31015,31.9566,-83.7835,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31016,32.9003,-84.0626,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31020,32.7151,-83.4558,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31023,32.2084,-83.186,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31024,33.3127,-83.3628,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31025,32.3336,-83.7304,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31026,33.3304,-83.377,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31030,32.5496,-83.8887,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31034,33.0227,-83.247,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31035,32.842,-82.7159,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31036,32.2778,-83.4948,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31037,32.0781,-82.9178,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31038,33.1421,-83.6404,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31039,32.5598,-84.2277,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31040,32.5401,-82.915,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31042,32.8088,-83.174,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31047,32.4672,-83.6128,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31050,32.7156,-83.9158,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31054,32.8468,-83.204,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31059,33.0846,-83.238,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31060,31.9618,-83.0588,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-31191,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-31560,31.5168,-82.0397,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31569,30.9437,-81.6783,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31605,30.946,-83.2474,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31606,30.7989,-83.1891,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31636,30.6906,-83.1753,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31637,31.2664,-83.4481,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31645,31.0825,-83.2143,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31702,31.5948,-84.1948,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31710,32.0512,-84.1815,Albany ,http://albanyga.craigslist.org/,G.org/ia
+30802,33.6271,-82.2856,Augusta,http://augusta.craigslist.org/,Georgia
+30803,33.141,-82.515,Augusta,http://augusta.craigslist.org/,Georgia
+30811,33.0505,-81.9292,Augusta,http://augusta.craigslist.org/,Georgia
+30812,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+30814,33.417,-82.3097,Augusta,http://augusta.craigslist.org/,Georgia
+30830,33.1013,-81.9908,Augusta,http://augusta.craigslist.org/,Georgia
+30916,33.386,-82.091,Augusta,http://augusta.craigslist.org/,Georgia
+31001,31.9648,-83.3068,Albany ,http://albanyga.craigslist.org/,Georgia
+31005,32.546,-83.6047,macon / warner robins,http://macon.craigslist.org/,Georgia
+31009,32.3174,-83.0268,macon / warner robins,http://macon.craigslist.org/,Georgia
+31011,32.1504,-83.0555,macon / warner robins,http://macon.craigslist.org/,Georgia
+31012,32.3982,-83.174,macon / warner robins,http://macon.craigslist.org/,Georgia
+31014,32.3981,-83.3229,macon / warner robins,http://macon.craigslist.org/,Georgia
+31015,31.9566,-83.7835,Albany ,http://albanyga.craigslist.org/,Georgia
+31016,32.9003,-84.0626,macon / warner robins,http://macon.craigslist.org/,Georgia
+31020,32.7151,-83.4558,macon / warner robins,http://macon.craigslist.org/,Georgia
+31023,32.2084,-83.186,macon / warner robins,http://macon.craigslist.org/,Georgia
+31024,33.3127,-83.3628,macon / warner robins,http://macon.craigslist.org/,Georgia
+31025,32.3336,-83.7304,macon / warner robins,http://macon.craigslist.org/,Georgia
+31026,33.3304,-83.377,macon / warner robins,http://macon.craigslist.org/,Georgia
+31030,32.5496,-83.8887,macon / warner robins,http://macon.craigslist.org/,Georgia
+31034,33.0227,-83.247,macon / warner robins,http://macon.craigslist.org/,Georgia
+31035,32.842,-82.7159,macon / warner robins,http://macon.craigslist.org/,Georgia
+31036,32.2778,-83.4948,macon / warner robins,http://macon.craigslist.org/,Georgia
+31037,32.0781,-82.9178,macon / warner robins,http://macon.craigslist.org/,Georgia
+31038,33.1421,-83.6404,macon / warner robins,http://macon.craigslist.org/,Georgia
+31039,32.5598,-84.2277,Columbus ,http://columbusga.craigslist.org/,Georgia
+31040,32.5401,-82.915,macon / warner robins,http://macon.craigslist.org/,Georgia
+31042,32.8088,-83.174,macon / warner robins,http://macon.craigslist.org/,Georgia
+31047,32.4672,-83.6128,macon / warner robins,http://macon.craigslist.org/,Georgia
+31050,32.7156,-83.9158,macon / warner robins,http://macon.craigslist.org/,Georgia
+31054,32.8468,-83.204,macon / warner robins,http://macon.craigslist.org/,Georgia
+31059,33.0846,-83.238,macon / warner robins,http://macon.craigslist.org/,Georgia
+31060,31.9618,-83.0588,macon / warner robins,http://macon.craigslist.org/,Georgia
+31191,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+31560,31.5168,-82.0397,Brunswick,http://brunswick.craigslist.org/,Georgia
+31569,30.9437,-81.6783,Brunswick,http://brunswick.craigslist.org/,Georgia
+31605,30.946,-83.2474,Valdosta,http://valdosta.craigslist.org/,Georgia
+31606,30.7989,-83.1891,Valdosta,http://valdosta.craigslist.org/,Georgia
+31636,30.6906,-83.1753,Valdosta,http://valdosta.craigslist.org/,Georgia
+31637,31.2664,-83.4481,Valdosta,http://valdosta.craigslist.org/,Georgia
+31645,31.0825,-83.2143,Valdosta,http://valdosta.craigslist.org/,Georgia
+31702,31.5948,-84.1948,Albany ,http://albanyga.craigslist.org/,Georgia
+31710,32.0512,-84.1815,Albany ,http://albanyga.craigslist.org/,Georgia
 31718,30.9019,-84.57,Tallahassee,http://tallahassee.craigslist.org/,Florida
 31734,30.8573,-84.4432,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31742,31.7662,-84.4386,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31750,31.7248,-83.2495,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31742,31.7662,-84.4386,Albany ,http://albanyga.craigslist.org/,Georgia
+31750,31.7248,-83.2495,Albany ,http://albanyga.craigslist.org/,Georgia
 31759,30.9947,-84.7966,Dothan,http://dothan.craigslist.org/,Alabama
-31767,31.8814,-85.0245,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31768,31.1792,-83.7641,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31775,31.33,-83.5974,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31782,31.5431,-84.2196,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31783,31.7979,-83.5235,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31791,31.5393,-83.8607,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31798,31.5952,-83.1075,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+31767,31.8814,-85.0245,Columbus ,http://columbusga.craigslist.org/,Georgia
+31768,31.1792,-83.7641,Albany ,http://albanyga.craigslist.org/,Georgia
+31775,31.33,-83.5974,Albany ,http://albanyga.craigslist.org/,Georgia
+31782,31.5431,-84.2196,Albany ,http://albanyga.craigslist.org/,Georgia
+31783,31.7979,-83.5235,Albany ,http://albanyga.craigslist.org/,Georgia
+31791,31.5393,-83.8607,Albany ,http://albanyga.craigslist.org/,Georgia
+31798,31.5952,-83.1075,Valdosta,http://valdosta.craigslist.org/,Georgia
 31799,30.881,-83.8859,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31820,32.5616,-84.8559,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31821,32.1176,-84.9711,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31901,32.473,-84.9795,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31902,32.5243,-84.9558,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+31820,32.5616,-84.8559,Columbus ,http://columbusga.craigslist.org/,Georgia
+31821,32.1176,-84.9711,Columbus ,http://columbusga.craigslist.org/,Georgia
+31901,32.473,-84.9795,Columbus ,http://columbusga.craigslist.org/,Georgia
+31902,32.5243,-84.9558,Columbus ,http://columbusga.craigslist.org/,Georgia
 32011,30.552,-81.8145,Jacksonville,http://jacksonville.craigslist.org/,Florida
 32038,29.9207,-82.6879,North Central FL,http://lakecity.craigslist.org/,Florida
 32050,30.0317,-81.8484,Jacksonville,http://jacksonville.craigslist.org/,Florida
@@ -20985,11 +20985,11 @@
 32321,30.4223,-84.9466,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32332,30.6099,-84.6688,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32333,30.6092,-84.4143,Tallahassee,http://tallahassee.craigslist.org/,Florida
-32340,30.4802,-83.4067,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-32341,30.4776,-83.3914,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+32340,30.4802,-83.4067,Valdosta,http://valdosta.craigslist.org/,Georgia
+32341,30.4776,-83.3914,Valdosta,http://valdosta.craigslist.org/,Georgia
 32344,30.5197,-83.8925,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32348,29.9665,-83.6594,Tallahassee,http://tallahassee.craigslist.org/,Florida
-32350,30.5997,-83.3405,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+32350,30.5997,-83.3405,Valdosta,http://valdosta.craigslist.org/,Georgia
 32353,30.5497,-84.6069,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32357,30.2147,-83.7111,Tallahassee,http://tallahassee.craigslist.org/,Florida
 32358,30.0714,-84.4549,Tallahassee,http://tallahassee.craigslist.org/,Florida
@@ -24853,13 +24853,13 @@
 29016,34.1911,-80.9758,Columbia,http://columbia.craigslist.org/,South Carolina
 29038,33.3726,-80.9631,Columbia,http://columbia.craigslist.org/,South Carolina
 29041,33.6884,-80.2081,Florence,http://florencesc.craigslist.org/,South Carolina
-29081,33.1044,-81.0221,Augusta,http://augusta.craigslist.org/,G.org/ia
+29081,33.1044,-81.0221,Augusta,http://augusta.craigslist.org/,Georgia
 29082,33.0377,-80.9417,Hilton Head,http://hiltonhead.craigslist.org/,South Carolina
 29106,34.3736,-81.0987,Columbia,http://columbia.craigslist.org/,South Carolina
 29107,33.5343,-81.0834,Columbia,http://columbia.craigslist.org/,South Carolina
 29113,33.4534,-81.1097,Columbia,http://columbia.craigslist.org/,South Carolina
 29118,33.5675,-80.9248,Columbia,http://columbia.craigslist.org/,South Carolina
-29129,33.8714,-81.6559,Augusta,http://augusta.craigslist.org/,G.org/ia
+29129,33.8714,-81.6559,Augusta,http://augusta.craigslist.org/,Georgia
 29145,34.2207,-81.7741,Columbia,http://columbia.craigslist.org/,South Carolina
 29147,34.006,-80.9708,Columbia,http://columbia.craigslist.org/,South Carolina
 29168,33.8953,-80.498,Columbia,http://columbia.craigslist.org/,South Carolina
@@ -24898,86 +24898,86 @@
 29733,34.9926,-81.1787,Charlotte,http://charlotte.craigslist.org/,North Carolina
 29741,34.7379,-80.191,Florence,http://florencesc.craigslist.org/,South Carolina
 29743,35.0308,-81.3896,Charlotte,http://charlotte.craigslist.org/,North Carolina
-29824,33.8056,-81.966,Augusta,http://augusta.craigslist.org/,G.org/ia
-29828,33.5182,-81.8277,Augusta,http://augusta.craigslist.org/,G.org/ia
-29831,33.3389,-81.7976,Augusta,http://augusta.craigslist.org/,G.org/ia
-29841,33.5251,-81.9394,Augusta,http://augusta.craigslist.org/,G.org/ia
-29847,33.6938,-81.8534,Augusta,http://augusta.craigslist.org/,G.org/ia
-29849,33.0988,-81.2068,Augusta,http://augusta.craigslist.org/,G.org/ia
-29856,33.4674,-81.5136,Augusta,http://augusta.craigslist.org/,G.org/ia
-30005,34.0782,-84.2281,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30041,34.2037,-84.1031,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30046,33.9496,-83.9942,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30058,33.7356,-84.1009,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30060,33.9382,-84.5403,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30064,33.9343,-84.6076,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30067,33.9282,-84.4733,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30070,33.5712,-83.8951,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30077,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30078,33.8635,-84.0081,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30092,33.9677,-84.2438,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30096,33.9845,-84.1529,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30117,33.5798,-85.0812,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30118,33.5712,-85.0961,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30125,34.0112,-85.2459,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30127,33.9135,-84.6859,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30139,34.4652,-84.7669,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30142,34.2429,-84.4583,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30163,34.3333,-85.2337,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30168,33.7838,-84.5952,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30169,34.234,-84.4904,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30232,33.4038,-84.5044,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30256,33.0134,-84.3169,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-30257,33.141,-84.1759,macon / warner robins,http://macon.craigslist.org/,G.org/ia
-30270,33.3968,-84.59,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30307,33.7691,-84.336,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30312,33.7467,-84.3781,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30313,33.7682,-84.3935,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30331,33.7224,-84.5205,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30354,33.6675,-84.3896,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30357,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30401,32.5699,-82.3462,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30413,32.8632,-82.4708,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30426,33.0437,-81.7106,Augusta,http://augusta.craigslist.org/,G.org/ia
-30439,32.401,-82.0607,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30448,32.4759,-82.3726,Statesboro,http://statesboro.craigslist.org/,G.org/ia
-30528,34.5839,-83.75,Athens,http://athensga.craigslist.org/,G.org/ia
-30529,34.2134,-83.448,Athens,http://athensga.craigslist.org/,G.org/ia
-30536,34.655,-84.3554,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30542,34.1819,-83.9024,Athens,http://athensga.craigslist.org/,G.org/ia
-30573,34.742,-83.3977,Athens,http://athensga.craigslist.org/,G.org/ia
-30575,34.1951,-83.7187,Athens,http://athensga.craigslist.org/,G.org/ia
-30581,34.8045,-83.4191,Athens,http://athensga.craigslist.org/,G.org/ia
-30596,34.6294,-83.5099,Athens,http://athensga.craigslist.org/,G.org/ia
-30606,33.9461,-83.418,Athens,http://athensga.craigslist.org/,G.org/ia
-30607,34.007,-83.4278,Athens,http://athensga.craigslist.org/,G.org/ia
-30622,33.934,-83.5055,Athens,http://athensga.craigslist.org/,G.org/ia
-30625,33.5368,-83.3435,Athens,http://athensga.craigslist.org/,G.org/ia
-30630,33.9076,-83.1646,Athens,http://athensga.craigslist.org/,G.org/ia
-30631,33.5708,-82.8872,Athens,http://athensga.craigslist.org/,G.org/ia
-30635,34.1082,-82.8448,Athens,http://athensga.craigslist.org/,G.org/ia
-30641,33.7613,-83.595,Athens,http://athensga.craigslist.org/,G.org/ia
-30648,33.8799,-83.0858,Athens,http://athensga.craigslist.org/,G.org/ia
-30655,33.7883,-83.7013,Athens,http://athensga.craigslist.org/,G.org/ia
+29824,33.8056,-81.966,Augusta,http://augusta.craigslist.org/,Georgia
+29828,33.5182,-81.8277,Augusta,http://augusta.craigslist.org/,Georgia
+29831,33.3389,-81.7976,Augusta,http://augusta.craigslist.org/,Georgia
+29841,33.5251,-81.9394,Augusta,http://augusta.craigslist.org/,Georgia
+29847,33.6938,-81.8534,Augusta,http://augusta.craigslist.org/,Georgia
+29849,33.0988,-81.2068,Augusta,http://augusta.craigslist.org/,Georgia
+29856,33.4674,-81.5136,Augusta,http://augusta.craigslist.org/,Georgia
+30005,34.0782,-84.2281,Atlanta,http://atlanta.craigslist.org/,Georgia
+30041,34.2037,-84.1031,Atlanta,http://atlanta.craigslist.org/,Georgia
+30046,33.9496,-83.9942,Atlanta,http://atlanta.craigslist.org/,Georgia
+30058,33.7356,-84.1009,Atlanta,http://atlanta.craigslist.org/,Georgia
+30060,33.9382,-84.5403,Atlanta,http://atlanta.craigslist.org/,Georgia
+30064,33.9343,-84.6076,Atlanta,http://atlanta.craigslist.org/,Georgia
+30067,33.9282,-84.4733,Atlanta,http://atlanta.craigslist.org/,Georgia
+30070,33.5712,-83.8951,Atlanta,http://atlanta.craigslist.org/,Georgia
+30077,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30078,33.8635,-84.0081,Atlanta,http://atlanta.craigslist.org/,Georgia
+30092,33.9677,-84.2438,Atlanta,http://atlanta.craigslist.org/,Georgia
+30096,33.9845,-84.1529,Atlanta,http://atlanta.craigslist.org/,Georgia
+30117,33.5798,-85.0812,Atlanta,http://atlanta.craigslist.org/,Georgia
+30118,33.5712,-85.0961,Atlanta,http://atlanta.craigslist.org/,Georgia
+30125,34.0112,-85.2459,Northwest GA,http://nwga.craigslist.org/,Georgia
+30127,33.9135,-84.6859,Atlanta,http://atlanta.craigslist.org/,Georgia
+30139,34.4652,-84.7669,Northwest GA,http://nwga.craigslist.org/,Georgia
+30142,34.2429,-84.4583,Atlanta,http://atlanta.craigslist.org/,Georgia
+30163,34.3333,-85.2337,Northwest GA,http://nwga.craigslist.org/,Georgia
+30168,33.7838,-84.5952,Atlanta,http://atlanta.craigslist.org/,Georgia
+30169,34.234,-84.4904,Atlanta,http://atlanta.craigslist.org/,Georgia
+30232,33.4038,-84.5044,Atlanta,http://atlanta.craigslist.org/,Georgia
+30256,33.0134,-84.3169,macon / warner robins,http://macon.craigslist.org/,Georgia
+30257,33.141,-84.1759,macon / warner robins,http://macon.craigslist.org/,Georgia
+30270,33.3968,-84.59,Atlanta,http://atlanta.craigslist.org/,Georgia
+30307,33.7691,-84.336,Atlanta,http://atlanta.craigslist.org/,Georgia
+30312,33.7467,-84.3781,Atlanta,http://atlanta.craigslist.org/,Georgia
+30313,33.7682,-84.3935,Atlanta,http://atlanta.craigslist.org/,Georgia
+30331,33.7224,-84.5205,Atlanta,http://atlanta.craigslist.org/,Georgia
+30354,33.6675,-84.3896,Atlanta,http://atlanta.craigslist.org/,Georgia
+30357,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30401,32.5699,-82.3462,Statesboro,http://statesboro.craigslist.org/,Georgia
+30413,32.8632,-82.4708,Statesboro,http://statesboro.craigslist.org/,Georgia
+30426,33.0437,-81.7106,Augusta,http://augusta.craigslist.org/,Georgia
+30439,32.401,-82.0607,Statesboro,http://statesboro.craigslist.org/,Georgia
+30448,32.4759,-82.3726,Statesboro,http://statesboro.craigslist.org/,Georgia
+30528,34.5839,-83.75,Athens,http://athensga.craigslist.org/,Georgia
+30529,34.2134,-83.448,Athens,http://athensga.craigslist.org/,Georgia
+30536,34.655,-84.3554,Northwest GA,http://nwga.craigslist.org/,Georgia
+30542,34.1819,-83.9024,Athens,http://athensga.craigslist.org/,Georgia
+30573,34.742,-83.3977,Athens,http://athensga.craigslist.org/,Georgia
+30575,34.1951,-83.7187,Athens,http://athensga.craigslist.org/,Georgia
+30581,34.8045,-83.4191,Athens,http://athensga.craigslist.org/,Georgia
+30596,34.6294,-83.5099,Athens,http://athensga.craigslist.org/,Georgia
+30606,33.9461,-83.418,Athens,http://athensga.craigslist.org/,Georgia
+30607,34.007,-83.4278,Athens,http://athensga.craigslist.org/,Georgia
+30622,33.934,-83.5055,Athens,http://athensga.craigslist.org/,Georgia
+30625,33.5368,-83.3435,Athens,http://athensga.craigslist.org/,Georgia
+30630,33.9076,-83.1646,Athens,http://athensga.craigslist.org/,Georgia
+30631,33.5708,-82.8872,Athens,http://athensga.craigslist.org/,Georgia
+30635,34.1082,-82.8448,Athens,http://athensga.craigslist.org/,Georgia
+30641,33.7613,-83.595,Athens,http://athensga.craigslist.org/,Georgia
+30648,33.8799,-83.0858,Athens,http://athensga.craigslist.org/,Georgia
+30655,33.7883,-83.7013,Athens,http://athensga.craigslist.org/,Georgia
 30710,34.9326,-84.9458,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30711,34.9412,-84.7645,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-30721,34.7792,-84.9339,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+30711,34.9412,-84.7645,Northwest GA,http://nwga.craigslist.org/,Georgia
+30721,34.7792,-84.9339,Northwest GA,http://nwga.craigslist.org/,Georgia
 30736,34.9205,-85.1549,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-30740,34.7745,-85.0561,Northwest GA,http://nwga.craigslist.org/,G.org/ia
-31598,31.5782,-81.8802,Brunswick,http://brunswick.craigslist.org/,G.org/ia
-31626,30.7855,-83.7971,Valdosta,http://valdosta.craigslist.org/,G.org/ia
-31627,31.0403,-83.3915,Valdosta,http://valdosta.craigslist.org/,G.org/ia
+30740,34.7745,-85.0561,Northwest GA,http://nwga.craigslist.org/,Georgia
+31598,31.5782,-81.8802,Brunswick,http://brunswick.craigslist.org/,Georgia
+31626,30.7855,-83.7971,Valdosta,http://valdosta.craigslist.org/,Georgia
+31627,31.0403,-83.3915,Valdosta,http://valdosta.craigslist.org/,Georgia
 31717,30.8979,-84.574,Tallahassee,http://tallahassee.craigslist.org/,Florida
 31725,30.9079,-84.7038,Tallahassee,http://tallahassee.craigslist.org/,Florida
-31726,31.8216,-84.3594,Albany ,http://albanyga.craigslist.org/,G.org/ia
+31726,31.8216,-84.3594,Albany ,http://albanyga.craigslist.org/,Georgia
 31751,31.6464,-85.0394,Dothan,http://dothan.craigslist.org/,Alabama
-31776,31.1727,-83.7924,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31808,32.6288,-85.0017,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31810,32.7011,-84.4949,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31830,32.9063,-84.7167,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31909,32.5369,-84.9274,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31914,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-31999,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+31776,31.1727,-83.7924,Albany ,http://albanyga.craigslist.org/,Georgia
+31808,32.6288,-85.0017,Columbus ,http://columbusga.craigslist.org/,Georgia
+31810,32.7011,-84.4949,Columbus ,http://columbusga.craigslist.org/,Georgia
+31830,32.9063,-84.7167,Columbus ,http://columbusga.craigslist.org/,Georgia
+31909,32.5369,-84.9274,Columbus ,http://columbusga.craigslist.org/,Georgia
+31914,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,Georgia
+31999,32.491,-84.8741,Columbus ,http://columbusga.craigslist.org/,Georgia
 32013,30.0414,-83.1231,North Central FL,http://lakecity.craigslist.org/,Florida
 32035,30.5516,-81.6984,Jacksonville,http://jacksonville.craigslist.org/,Florida
 32052,30.5029,-82.9322,North Central FL,http://lakecity.craigslist.org/,Florida
@@ -25503,19 +25503,19 @@
 29591,33.9281,-79.7731,Florence,http://florencesc.craigslist.org/,South Carolina
 29720,34.749,-80.7616,Charlotte,http://charlotte.craigslist.org/,North Carolina
 29734,34.9926,-81.1787,Charlotte,http://charlotte.craigslist.org/,North Carolina
-29838,33.7052,-82.2187,Augusta,http://augusta.craigslist.org/,G.org/ia
-30387,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
-30388,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,G.org/ia
+29838,33.7052,-82.2187,Augusta,http://augusta.craigslist.org/,Georgia
+30387,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
+30388,33.8444,-84.474,Atlanta,http://atlanta.craigslist.org/,Georgia
 30582,34.9588,-83.8688,Knoxville,http://knoxville.craigslist.org/,Tennessee
-30662,34.2778,-83.1406,Athens,http://athensga.craigslist.org/,G.org/ia
-30666,33.9602,-83.5893,Athens,http://athensga.craigslist.org/,G.org/ia
+30662,34.2778,-83.1406,Athens,http://athensga.craigslist.org/,Georgia
+30666,33.9602,-83.5893,Athens,http://athensga.craigslist.org/,Georgia
 30725,34.9252,-85.3524,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-31561,31.1989,-81.3322,Brunswick,http://brunswick.craigslist.org/,G.org/ia
+31561,31.1989,-81.3322,Brunswick,http://brunswick.craigslist.org/,Georgia
 31646,30.5592,-82.0834,Jacksonville,http://jacksonville.craigslist.org/,Florida
-31701,31.5678,-84.1619,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31735,31.9617,-83.9581,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31790,31.6553,-83.6064,Albany ,http://albanyga.craigslist.org/,G.org/ia
-31829,32.5601,-84.7448,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+31701,31.5678,-84.1619,Albany ,http://albanyga.craigslist.org/,Georgia
+31735,31.9617,-83.9581,Albany ,http://albanyga.craigslist.org/,Georgia
+31790,31.6553,-83.6064,Albany ,http://albanyga.craigslist.org/,Georgia
+31829,32.5601,-84.7448,Columbus ,http://columbusga.craigslist.org/,Georgia
 32068,30.084,-81.8645,Jacksonville,http://jacksonville.craigslist.org/,Florida
 32174,29.2833,-81.0882,Daytona Beach,http://daytona.craigslist.org/,Florida
 32218,30.4507,-81.6626,Jacksonville,http://jacksonville.craigslist.org/,Florida
@@ -25965,10 +25965,10 @@
 35975,34.4359,-86.04,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
 35980,34.19,-86.3173,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
 35983,34.1911,-85.7705,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
-35984,34.5872,-85.5777,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+35984,34.5872,-85.5777,Northwest GA,http://nwga.craigslist.org/,Georgia
 35986,34.4989,-85.8446,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
 35988,34.559,-85.7921,Gadsden-anniston,http://gadsden.craigslist.org/,Alabama
-35989,34.5697,-85.6272,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+35989,34.5697,-85.6272,Northwest GA,http://nwga.craigslist.org/,Georgia
 36003,32.4625,-86.7149,Montgomery,http://montgomery.craigslist.org/,Alabama
 36006,32.6106,-86.7163,Montgomery,http://montgomery.craigslist.org/,Alabama
 36010,31.7013,-85.8177,Dothan,http://dothan.craigslist.org/,Alabama
@@ -25976,7 +25976,7 @@
 36024,32.6542,-86.0316,Montgomery,http://montgomery.craigslist.org/,Alabama
 36025,32.5454,-86.3161,Montgomery,http://montgomery.craigslist.org/,Alabama
 36026,32.8139,-86.1051,Montgomery,http://montgomery.craigslist.org/,Alabama
-36027,31.9051,-85.1656,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+36027,31.9051,-85.1656,Columbus ,http://columbusga.craigslist.org/,Georgia
 36028,31.5066,-86.3663,Montgomery,http://montgomery.craigslist.org/,Alabama
 36029,32.1516,-85.8883,Montgomery,http://montgomery.craigslist.org/,Alabama
 36030,31.8501,-86.8372,Montgomery,http://montgomery.craigslist.org/,Alabama
@@ -25994,7 +25994,7 @@
 36066,32.4787,-86.43,Montgomery,http://montgomery.craigslist.org/,Alabama
 36067,32.4715,-86.4831,Montgomery,http://montgomery.craigslist.org/,Alabama
 36071,31.7062,-86.3715,Montgomery,http://montgomery.craigslist.org/,Alabama
-36072,31.8261,-85.166,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+36072,31.8261,-85.166,Columbus ,http://columbusga.craigslist.org/,Georgia
 36079,31.7595,-86.0107,Montgomery,http://montgomery.craigslist.org/,Alabama
 36080,32.69,-86.2393,Montgomery,http://montgomery.craigslist.org/,Alabama
 36089,32.1663,-85.6787,Auburn,http://auburn.craigslist.org/,Alabama
@@ -26157,21 +26157,21 @@
 36830,32.5475,-85.4682,Auburn,http://auburn.craigslist.org/,Alabama
 36831,32.5782,-85.349,Auburn,http://auburn.craigslist.org/,Alabama
 36850,32.7827,-85.6474,Auburn,http://auburn.craigslist.org/,Alabama
-36851,32.2861,-85.1615,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+36851,32.2861,-85.1615,Columbus ,http://columbusga.craigslist.org/,Georgia
 36853,32.8224,-85.7704,Auburn,http://auburn.craigslist.org/,Alabama
 36854,32.8113,-85.1749,Auburn,http://auburn.craigslist.org/,Alabama
 36855,33.0424,-85.3243,Auburn,http://auburn.craigslist.org/,Alabama
-36858,32.2845,-85.3029,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-36859,32.2298,-85.0082,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+36858,32.2845,-85.3029,Columbus ,http://columbusga.craigslist.org/,Georgia
+36859,32.2298,-85.0082,Columbus ,http://columbusga.craigslist.org/,Georgia
 36861,32.8797,-85.8487,Auburn,http://auburn.craigslist.org/,Alabama
 36862,32.9252,-85.4426,Auburn,http://auburn.craigslist.org/,Alabama
 36863,32.8616,-85.2161,Auburn,http://auburn.craigslist.org/,Alabama
-36867,32.4978,-85.0234,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-36869,32.4204,-85.0796,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-36871,32.1733,-85.1312,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+36867,32.4978,-85.0234,Columbus ,http://columbusga.craigslist.org/,Georgia
+36869,32.4204,-85.0796,Columbus ,http://columbusga.craigslist.org/,Georgia
+36871,32.1733,-85.1312,Columbus ,http://columbusga.craigslist.org/,Georgia
 36872,32.5782,-85.349,Auburn,http://auburn.craigslist.org/,Alabama
-36874,32.6212,-85.184,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-36877,32.5201,-85.1,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+36874,32.6212,-85.184,Columbus ,http://columbusga.craigslist.org/,Georgia
+36877,32.5201,-85.1,Columbus ,http://columbusga.craigslist.org/,Georgia
 36879,32.7632,-85.5144,Auburn,http://auburn.craigslist.org/,Alabama
 36904,32.0829,-88.2064,Meridian,http://meridian.craigslist.org/,Mississippi
 36908,31.8666,-88.3265,Meridian,http://meridian.craigslist.org/,Mississippi
@@ -26303,7 +26303,7 @@
 37328,35.0295,-86.3481,huntsville / decatur,http://huntsville.craigslist.org/,Alabama
 37329,35.4272,-84.4833,Knoxville,http://knoxville.craigslist.org/,Tennessee
 37332,35.6153,-85.0228,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
-37333,35.1449,-84.3209,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+37333,35.1449,-84.3209,Northwest GA,http://nwga.craigslist.org/,Georgia
 37334,35.1527,-86.5664,huntsville / decatur,http://huntsville.craigslist.org/,Alabama
 37335,35.0581,-86.413,huntsville / decatur,http://huntsville.craigslist.org/,Alabama
 37337,35.7608,-84.8615,Cookeville,http://cookeville.craigslist.org/,Tennessee
@@ -26336,7 +26336,7 @@
 37385,35.3562,-84.3068,Knoxville,http://knoxville.craigslist.org/,Tennessee
 37387,35.2721,-85.7362,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 37388,35.3468,-86.22,huntsville / decatur,http://huntsville.craigslist.org/,Alabama
-37391,35.1081,-84.3544,Northwest GA,http://nwga.craigslist.org/,G.org/ia
+37391,35.1081,-84.3544,Northwest GA,http://nwga.craigslist.org/,Georgia
 37401,35.0178,-85.2064,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 37402,35.0463,-85.3161,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
 37403,35.045,-85.2965,Chattanooga,http://chattanooga.craigslist.org/,Tennessee
@@ -26976,24 +26976,24 @@
 39767,33.5101,-89.479,North Mississippi,http://northmiss.craigslist.org/,Mississippi
 39769,33.357,-89.0473,Meridian,http://meridian.craigslist.org/,Mississippi
 39772,33.2645,-89.2804,Meridian,http://meridian.craigslist.org/,Mississippi
-39813,31.442,-84.7241,Albany ,http://albanyga.craigslist.org/,G.org/ia
+39813,31.442,-84.7241,Albany ,http://albanyga.craigslist.org/,Georgia
 39819,30.9039,-84.569,Tallahassee,http://tallahassee.craigslist.org/,Florida
 39824,31.52,-84.867,Dothan,http://dothan.craigslist.org/,Alabama
-39826,31.8308,-84.364,Albany ,http://albanyga.craigslist.org/,G.org/ia
+39826,31.8308,-84.364,Albany ,http://albanyga.craigslist.org/,Georgia
 39827,30.9528,-84.2069,Tallahassee,http://tallahassee.craigslist.org/,Florida
 39829,30.7462,-84.3125,Tallahassee,http://tallahassee.craigslist.org/,Florida
-39837,31.173,-84.731,Albany ,http://albanyga.craigslist.org/,G.org/ia
-39840,31.7706,-84.7936,Albany ,http://albanyga.craigslist.org/,G.org/ia
-39842,31.7703,-84.5238,Albany ,http://albanyga.craigslist.org/,G.org/ia
-39846,31.5607,-84.7381,Albany ,http://albanyga.craigslist.org/,G.org/ia
+39837,31.173,-84.731,Albany ,http://albanyga.craigslist.org/,Georgia
+39840,31.7706,-84.7936,Albany ,http://albanyga.craigslist.org/,Georgia
+39842,31.7703,-84.5238,Albany ,http://albanyga.craigslist.org/,Georgia
+39846,31.5607,-84.7381,Albany ,http://albanyga.craigslist.org/,Georgia
 39852,30.8024,-84.5471,Tallahassee,http://tallahassee.craigslist.org/,Florida
-39854,31.8854,-85.1059,Columbus ,http://columbusga.craigslist.org/,G.org/ia
+39854,31.8854,-85.1059,Columbus ,http://columbusga.craigslist.org/,Georgia
 39859,31.013,-84.8138,Dothan,http://dothan.craigslist.org/,Alabama
 39861,31.1824,-85.0121,Dothan,http://dothan.craigslist.org/,Alabama
-39866,31.5374,-84.5994,Albany ,http://albanyga.craigslist.org/,G.org/ia
-39867,31.8343,-84.9255,Columbus ,http://columbusga.craigslist.org/,G.org/ia
-39885,31.7191,-84.3479,Albany ,http://albanyga.craigslist.org/,G.org/ia
-39886,31.7608,-84.6092,Albany ,http://albanyga.craigslist.org/,G.org/ia
+39866,31.5374,-84.5994,Albany ,http://albanyga.craigslist.org/,Georgia
+39867,31.8343,-84.9255,Columbus ,http://columbusga.craigslist.org/,Georgia
+39885,31.7191,-84.3479,Albany ,http://albanyga.craigslist.org/,Georgia
+39886,31.7608,-84.6092,Albany ,http://albanyga.craigslist.org/,Georgia
 39897,30.8836,-84.3246,Tallahassee,http://tallahassee.craigslist.org/,Florida
 40004,37.8084,-85.4613,Louisville,http://louisville.craigslist.org/,Kentucky
 40006,38.5864,-85.3133,Louisville,http://louisville.craigslist.org/,Kentucky
