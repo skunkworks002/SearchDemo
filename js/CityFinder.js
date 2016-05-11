@@ -152,22 +152,26 @@ self.DistinctUrls = function(states){
         citiesDistances = distinctByUrl[cities[city].url][cities[city].name];
         citiesDistances.push(cities[city].distance);
         distinctByUrl[cities[city].url][cities[city].name] =citiesDistances; 
-       
+
+      }
+      var citiesInformation = new Array();
+      for(url in distinctByUrl){
+        for(cityname in distinctByUrl[url]){
+          var sum = distinctByUrl[url][cityname].reduce(function(a, b) { return a + b; });
+          distinctByUrl[url][cityname].sort(function (a, b)
+          {
+            return a - b;
+          });
+          var avg =  distinctByUrl[url][cityname][Math.round((distinctByUrl[url][cityname].length - 1) / 2)];
+          citiesInformation.push({'name':cityname,'distance': avg,'url':url});
+
+
+        }
+
+      }
+      states[state].cities = citiesInformation;     
     }
-    var citiesInformation = new Array();
-         for(url in distinctByUrl){
-          for(cityname in distinctByUrl[url]){
-            var sum = distinctByUrl[url][cityname].reduce(function(a, b) { return a + b; });
-            var avg = sum / distinctByUrl[url][cityname].length;
-           citiesInformation.push({'name':cityname,'distance':avg,'url':url});
-           
-           
-          }
-          
-         }
-    states[state].cities = citiesInformation;     
-   }
-   return states;
+    return states;
 
 
   }
