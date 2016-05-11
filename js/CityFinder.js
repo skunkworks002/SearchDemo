@@ -134,36 +134,40 @@ var CityFinder = function(fileLocation){
   *This method use to distinct the urls
   *@param : urls of the states with array of city and their urls
   */ 
-  self.DistinctUrls = function(states){
+self.DistinctUrls = function(states){
 
-  	for(state in states){
-  		distinctByUrl = new Array();
-  		cities = states[state].cities;
-  		for(city in cities){
-  			if(distinctByUrl[cities[city].url] == undefined){
-  				distinctByUrl[cities[city].url] = {};
-  			}
-  			if(distinctByUrl[cities[city].url][cities[city].name] == undefined){
-  				distinctByUrl[cities[city].url][cities[city].name]  = cities[city].distance;
+   for(state in states){
+    distinctByUrl = new Array();
+    cities = states[state].cities;
+    for(city in cities){
+     if(distinctByUrl[cities[city].url] == undefined){
+      distinctByUrl[cities[city].url] = {};
+     }
+     if(distinctByUrl[cities[city].url][cities[city].name] == undefined){
+      distinctByUrl[cities[city].url][cities[city].name]  = new Array();
 
-  			}else{
-  				if(distinctByUrl[cities[city].url][cities[city].name] > cities[city].distance){
-  					distinctByUrl[cities[city].url][cities[city].name] = cities[city].distance;
-  				}
-  			}
-  		}
-  		var citiesInformation = new Array();
+     }
+        var citiesDistances = new Array();
+
+        citiesDistances = distinctByUrl[cities[city].url][cities[city].name];
+        citiesDistances.push(cities[city].distance);
+        distinctByUrl[cities[city].url][cities[city].name] =citiesDistances; 
+       
+    }
+    var citiesInformation = new Array();
          for(url in distinctByUrl){
-         	//citiesInformation.push({'name':distinctByUrl[url]})
-         	for(cityname in distinctByUrl[url]){
-         		citiesInformation.push({'name':cityname,'distance':distinctByUrl[url][cityname],'url':url});
-         		
-         	}
-         	
+          for(cityname in distinctByUrl[url]){
+            var sum = distinctByUrl[url][cityname].reduce(function(a, b) { return a + b; });
+            var avg = sum / distinctByUrl[url][cityname].length;
+           citiesInformation.push({'name':cityname,'distance':avg,'url':url});
+           
+           
+          }
+          
          }
-  		states[state].cities = citiesInformation;     
-  	}
-  	return states;
+    states[state].cities = citiesInformation;     
+   }
+   return states;
 
 
   }
