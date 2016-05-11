@@ -102,7 +102,7 @@ var CityFinder = function(fileLocation){
  					urlWithCities[data[city][5]] = {'cities':cityArray, 'distance':  citiesDistance,'state':data[city][5]};
  				}else{
 
- 					if(citiesDistance < urlWithCities[data[city][5]].distance){
+ 					if(citiesDistance > urlWithCities[data[city][5]].distance){
  						urlWithCities[data[city][5]].distance = citiesDistance;
  					}
  					cityArray = urlWithCities[data[city][5]].cities;
