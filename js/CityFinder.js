@@ -106,7 +106,15 @@ var CityFinder = function(fileLocation){
  						urlWithCities[data[city][5]].distance = citiesDistance;
  					}
  					cityArray = urlWithCities[data[city][5]].cities;
- 					cityArray.push({'name' : data[city][3],'url':data[city][4],'distance':citiesDistance});
+ 					var cityDistance;
+          for(cityIndex in cityArray){
+               if(cityArray[cityIndex]['distance'] < citiesDistance){
+                  cityDistance = citiesDistance;
+               }else{
+                cityDistance = cityArray[cityIndex]['distance'];
+               }
+          }
+				cityArray.push({'name' : data[city][3],'url':data[city][4],'distance':cityDistance});
 
  					urlWithCities[data[city][5]].cities=cityArray;
 
