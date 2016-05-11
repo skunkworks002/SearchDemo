@@ -127,7 +127,7 @@ var CityFinder = function(fileLocation){
  		urlWithCities = self.sortData(urlWithCities);
  		urlWithCities = self.DistinctUrls(urlWithCities);
  	}
-	console.log(urlWithCities);
+	//console.log(urlWithCities);
  	return urlWithCities;
  }
  /**
